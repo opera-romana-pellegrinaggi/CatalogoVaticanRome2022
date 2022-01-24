@@ -1,0 +1,30 @@
+[
+    {
+        "sourceText": "COPERTINA",
+        "text": "COPERTINA",
+        "note": "",
+        "type": "text",
+        "storyId": "u13d"
+    },
+    {
+        "sourceText": "Vatican",
+        "text": "Vatican",
+        "note": "",
+        "type": "text",
+        "storyId": "u3338"
+    },
+    {
+        "sourceText": "&amp;",
+        "text": "&amp;",
+        "note": "",
+        "type": "text",
+        "storyId": "u3338"
+    },
+    {
+        "sourceText": "Rome",
+        "text": "Rome",
+        "note": "",
+        "type": "text",
+        "storyId": "u3338"
+    }
+]

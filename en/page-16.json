@@ -1,0 +1,121 @@
+[
+    {
+        "sourceText": "OPEN BUS",
+        "text": "OPEN BUS",
+        "note": "",
+        "type": "text",
+        "storyId": "u2704"
+    },
+    {
+        "sourceText": "VATICAN&amp;ROME",
+        "text": "VATICAN&amp;ROME",
+        "note": "",
+        "type": "text",
+        "storyId": "u271b"
+    },
+    {
+        "sourceText": "La  città di Roma è un museo a cielo aperto che potrai scoprire rilassandoti",
+        "text": "La  città di Roma è un museo a cielo aperto che potrai scoprire rilassandoti",
+        "note": "",
+        "type": "text",
+        "storyId": "u2732"
+    },
+    {
+        "sourceText": "e ammirando un fantastico panorama a bordo dell’Open Bus Vatican&amp;Rome.",
+        "text": "e ammirando un fantastico panorama a bordo dell’Open Bus Vatican&amp;Rome.",
+        "note": "",
+        "type": "text",
+        "storyId": "u2732"
+    },
+    {
+        "sourceText": "Un percorso autentico nel cuore della Città dove potrai salire e scendere da una qualsiasi delle fermate disposte strategicamente nei luoghi più interessanti della città. Potrai arricchire la conoscenza della storia di Roma e delle sue innumerevoli meraviglie grazie ad un sistema di audio guida multilingue.",
+        "text": "Un percorso autentico nel cuore della Città dove potrai salire e scendere da una qualsiasi delle fermate disposte strategicamente nei luoghi più interessanti della città. Potrai arricchire la conoscenza della storia di Roma e delle sue innumerevoli meraviglie grazie ad un sistema di audio guida multilingue.",
+        "note": "",
+        "type": "text",
+        "storyId": "u2732"
+    },
+    {
+        "sourceText": "Incluso nella tua visita",
+        "text": "Incluso nella tua visita",
+        "note": "",
+        "type": "text",
+        "storyId": "u276e"
+    },
+    {
+        "sourceText": "Disponibilità",
+        "text": "Disponibilità",
+        "note": "",
+        "type": "text",
+        "storyId": "u27e9"
+    },
+    {
+        "sourceText": "Tutti i giorni",
+        "text": "Tutti i giorni",
+        "note": "",
+        "type": "text",
+        "storyId": "u2800"
+    },
+    {
+        "sourceText": "Durata",
+        "text": "Durata",
+        "note": "",
+        "type": "text",
+        "storyId": "u2829"
+    },
+    {
+        "sourceText": "1 ora e 30 minuti",
+        "text": "1 ora e 30 minuti",
+        "note": "",
+        "type": "text",
+        "storyId": "u2840"
+    },
+    {
+        "sourceText": "giro panoramico",
+        "text": "giro panoramico",
+        "note": "",
+        "type": "text",
+        "storyId": "u2840"
+    },
+    {
+        "sourceText": "Quota a partire da",
+        "text": "Quota a partire da",
+        "note": "",
+        "type": "text",
+        "storyId": "u8db9"
+    },
+    {
+        "sourceText": "Da €12",
+        "text": "Da €12",
+        "note": "",
+        "type": "text",
+        "storyId": "u8dd0"
+    },
+    {
+        "sourceText": "Vatican&amp;Rome -",
+        "text": "Vatican&amp;Rome -",
+        "note": "",
+        "type": "text",
+        "storyId": "ue93b"
+    },
+    {
+        "sourceText": "Roma imperdibile",
+        "text": "Roma imperdibile",
+        "note": "",
+        "type": "text",
+        "storyId": "ue93b"
+    },
+    {
+        "sourceText": "<a id=\"ue989\" title=\"Collegamento ipertestuale 11\">PRENOTA LA TUA VISITA</a>",
+        "text": "<a id=\"ue989\" title=\"Collegamento ipertestuale 11\">PRENOTA LA TUA VISITA</a>",
+        "note": "",
+        "type": "html",
+        "storyId": "ue961"
+    },
+    {
+        "sourceText": "Open Bus Vatican&amp;Rome",
+        "text": "Open Bus Vatican&amp;Rome",
+        "note": "",
+        "type": "text",
+        "storyId": "u100b6"
+    }
+]
