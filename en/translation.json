@@ -141,6 +141,22 @@
         },
         "u19e1": {
             "Catacombe di Roma": "Catacombs of Rome"
+        },
+        "u8cff": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u8d16": {
+            "Da €4": "From €4"
+        },
+        "uad2b": {
+            "Roma imperdibile": "Essential Rome",
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "ue7c6": {
+            "<a id=\"ue7ed\" title=\"Collegamento ipertestuale 7\">PRENOTA LA TUA VISITA</a>": "<a id=\"ue7bb\" title=\"Collegamento ipertestuale 7\">RESERVE YOUR VISIT</a>"
+        },
+        "u10021": {
+            "Basilica di Santa maria in Via lata": "Basilica Santa Maria in Via Lata"
         }
     },
     "page-1": {
@@ -151,6 +167,145 @@
             "Vatican": "Vatican",
             "&amp;": "&amp;",
             "Rome": "Rome"
+        }
+    },
+    "page-12": {
+        "u1afe": {
+            "Il Carcer Tullianum, uno dei monumenti archeologici più affascinanti dell’età": "Carcer Tullianum, one of the most fascinating archeological monuments",
+            "repubblicana di Roma, custodisce una grande ricchezza storica, artistica ed": "from the era of the Roman Republic, preserves ancient history, artistic treasures,",
+            "archeologica. Luogo di culto legato alla tradizione cristiana, si trova al di sotto": "and archeological finds. Place of worship tied to christian tradition, it is located",
+            "della Chiesa di San Giuseppe dei Falegnami, e si affaccia sul Foro Romano,": "below the Church of Saint Joseph of the Carpenters, and faces the Roman Forum,",
+            "regalando una delle viste più suggestive della città. Grazie al supporto della più": "giving one of the most evocative views of the city. You'll be able to visit the Museum",
+            "recente tecnologia disponibile, si potrà visitare il Museo e scoprire il luogo dove, secondo la tradizione, San Pietro venne imprigionato.": "aided by the most recent technologies, and discover the place where Saint Peter, according to tradition, was imprisoned."
+        },
+        "u1ae0": {
+            "TULLIANUM": "TULLIANUM"
+        },
+        "u1e15": {
+            "1": "1"
+        },
+        "u1e2c": {
+            "2": "2"
+        },
+        "u2ecd": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u2f27": {
+            "Disponibilità": "Availability"
+        },
+        "u2f3e": {
+            "Tutti i giorni": "Every day"
+        },
+        "u2f55": {
+            "Incluso nella tua visita": "Included in your visit"
+        },
+        "u2f6c": {
+            "Durata": "Length"
+        },
+        "u2f83": {
+            "1 ora circa": "about 1 hour"
+        },
+        "u2f9c": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u1db1": {
+            "COSTRUISCI IL TUO PERCORSO": "CUSTOMIZE YOUR ITINERARY"
+        },
+        "u1de1": {
+            "Basilica di Santa Maria in via Lata": "Basilica Santa Maria in Via Lata"
+        },
+        "u1dfc": {
+            "Catacombe di Roma": "Catacombs of Rome"
+        },
+        "u8d36": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u8d4d": {
+            "Da €10": "From €10"
+        },
+        "uad42": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma imperdibile": "Essential Rome"
+        },
+        "ue7f8": {
+            "<a id=\"ue81f\" title=\"Collegamento ipertestuale 8\">PRENOTA LA TUA VISITA</a>": "<a id=\"ue7bb\" title=\"Collegamento ipertestuale 8\">RESERVE YOUR VISIT</a>"
+        },
+        "u1003d": {
+            "Carcer Tullianum": "Carcer Tullianum"
+        },
+        "u1ac9": {
+            "CARCER": "CARCER"
+        },
+        "u1dc8": {
+            "DI ROMA SOTTERRANEA CON...": "OF UNDERGROUND ROME WITH…"
+        }
+    },
+    "page-13": {
+        "u1f8e": {
+            "Il Carcer Tullianum, la prigione di massima sicurezza dove venivano imprigionati i nemici di Roma, il Colosseo, luogo che ha visto i giochi cruenti della Roma Imperiale, il Foro Romano, fulcro sociale, commerciale e religioso dell’antica Roma sin dai primi secoli della sua storia ed il Palatino, il luogo dove nacque questa città  intorno alla metà del VIII secolo a.C.": "Carcer Tullianum: the maximum security prison of ancient Rome where enemies of state were imprisoned; Colosseum: where cruel games of Imperial Rome were held; Roman Forum: the social, commercial and religious hub of ancient Rome from the first pages of its history; Palatine Hill, place where this city was born around the middle of the eighth century BC.",
+            "Questa visita vi porterà ad ammirare l’eccezionale stratificazione di memorie": "During this visit you will be able to admire the exceptional stratification of history",
+            "storiche e artistiche che testimoniano la vita e lo sviluppo dell’antica Roma.": "and art that give witness to the life and development of ancient Rome."
+        },
+        "u1f44": {
+            "COMBINATO CARCER TULLIANUM": "CARCER TULLIANUM &amp;"
+        },
+        "u1f5b": {
+            "&amp; PARCO ARCHEOLOGICO": "COLOSSEUM ARCHAEOLOGICAL PARK",
+            "DEL COLOSSEO": "COMBO"
+        },
+        "u20b4": {
+            "Ingresso": "Entrance",
+            "prioritario": "priority"
+        },
+        "u3021": {
+            "Disponibilità": "Availability"
+        },
+        "u3038": {
+            "Tutti i giorni": "Every day"
+        },
+        "u304f": {
+            "Incluso nella tua visita": "Included in your visit"
+        },
+        "u3066": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u307e": {
+            "Durata": "Duration"
+        },
+        "u3095": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u30ae": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u8d79": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u8d91": {
+            "Da €24": "From €24"
+        },
+        "uad70": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma imperdibile": "Essential Rome"
+        },
+        "ue82b": {
+            "<a id=\"ue868\" title=\"Collegamento ipertestuale 9\">PRENOTA LA TUA VISITA</a>": "<a id=\"ue7bb\" title=\"Collegamento ipertestuale 9\">RESERVE YOUR VISIT</a>"
+        },
+        "u10059": {
+            "Combinato Carcer Tullianum &amp; parco": "Carcer Tullianum &amp; Colosseum",
+            "Archeologico del Colosseo": "Archaeological Park Combo"
+        }
+    },
+    "page-14": {
+        "u2318": {
+            "LE CATACOMBE": "CATACOMBS"
+        },
+        "u232f": {
+            "DI ROMA": "OF ROME"
+        },
+        "u2346": {
+            "Le Catacombe di Roma sono caratterizzate da una rete di gallerie scavate nella": "Catacombs of Rome are a network of underground galleries carved out of tuff,",
+            "roccia talvolta articolate su più livelli sovrapposti. Percorrendo questo reticolo di": "and at times on more than one level. As you wander through the corridors,"
         }
     }
 }
