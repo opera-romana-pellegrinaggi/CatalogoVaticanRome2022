@@ -1,0 +1,646 @@
+[
+    {
+        "sourceText": "SOMMARIO",
+        "text": "SOMMARIO",
+        "note": "",
+        "type": "text",
+        "storyId": "u785"
+    },
+    {
+        "sourceText": "Roma imperdibile",
+        "text": "Roma imperdibile",
+        "note": "",
+        "type": "text",
+        "storyId": "u79b"
+    },
+    {
+        "sourceText": "Musei Vaticani e Cappella Sistina",
+        "text": "Musei Vaticani e Cappella Sistina",
+        "note": "",
+        "type": "text",
+        "storyId": "u7b1"
+    },
+    {
+        "sourceText": "Giardini Vaticani",
+        "text": "Giardini Vaticani",
+        "note": "",
+        "type": "text",
+        "storyId": "u7c7"
+    },
+    {
+        "sourceText": "Residenza Pontificia di Castel Gandolfo",
+        "text": "Residenza Pontificia di Castel Gandolfo",
+        "note": "",
+        "type": "text",
+        "storyId": "u7dd"
+    },
+    {
+        "sourceText": "Basilica di San Pietro",
+        "text": "Basilica di San Pietro",
+        "note": "",
+        "type": "text",
+        "storyId": "u7f3"
+    },
+    {
+        "sourceText": "Complesso Lateranense",
+        "text": "Complesso Lateranense",
+        "note": "",
+        "type": "text",
+        "storyId": "u809"
+    },
+    {
+        "sourceText": "Basilica di Santa Maria in via Lata",
+        "text": "Basilica di Santa Maria in via Lata",
+        "note": "",
+        "type": "text",
+        "storyId": "u81f"
+    },
+    {
+        "sourceText": "Carcer Tullianum",
+        "text": "Carcer Tullianum",
+        "note": "",
+        "type": "text",
+        "storyId": "u835"
+    },
+    {
+        "sourceText": "Roma in tasca",
+        "text": "Roma in tasca",
+        "note": "",
+        "type": "text",
+        "storyId": "u84b"
+    },
+    {
+        "sourceText": "Omnia Vatican&amp;Rome 24h",
+        "text": "Omnia Vatican&amp;Rome 24h",
+        "note": "",
+        "type": "text",
+        "storyId": "u861"
+    },
+    {
+        "sourceText": "Omnia Vatican&amp;Rome 72h",
+        "text": "Omnia Vatican&amp;Rome 72h",
+        "note": "",
+        "type": "text",
+        "storyId": "u877"
+    },
+    {
+        "sourceText": "Roma insolita per tutte le età",
+        "text": "Roma insolita per tutte le età",
+        "note": "",
+        "type": "text",
+        "storyId": "u88d"
+    },
+    {
+        "sourceText": "Il Cuore di Roma",
+        "text": "Il Cuore di Roma",
+        "note": "",
+        "type": "text",
+        "storyId": "u8a3"
+    },
+    {
+        "sourceText": "Terra Santa a Roma",
+        "text": "Terra Santa a Roma",
+        "note": "",
+        "type": "text",
+        "storyId": "u8b9"
+    },
+    {
+        "sourceText": "Le Icone Mariane Miracolose",
+        "text": "Le Icone Mariane Miracolose",
+        "note": "",
+        "type": "text",
+        "storyId": "u8cf"
+    },
+    {
+        "sourceText": "Roma Giudaica",
+        "text": "Roma Giudaica",
+        "note": "",
+        "type": "text",
+        "storyId": "u8e5"
+    },
+    {
+        "sourceText": "Le Botteghe Storiche del centro",
+        "text": "Le Botteghe Storiche del centro",
+        "note": "",
+        "type": "text",
+        "storyId": "u8fb"
+    },
+    {
+        "sourceText": "Roma Regina Aquarum",
+        "text": "Roma Regina Aquarum",
+        "note": "",
+        "type": "text",
+        "storyId": "u911"
+    },
+    {
+        "sourceText": "Bisanzio a Roma",
+        "text": "Bisanzio a Roma",
+        "note": "",
+        "type": "text",
+        "storyId": "u927"
+    },
+    {
+        "sourceText": "Roma che forma e informa",
+        "text": "Roma che forma e informa",
+        "note": "",
+        "type": "text",
+        "storyId": "u93d"
+    },
+    {
+        "sourceText": "La Roma degli Obelischi",
+        "text": "La Roma degli Obelischi",
+        "note": "",
+        "type": "text",
+        "storyId": "u953"
+    },
+    {
+        "sourceText": "Roma Istituzionale",
+        "text": "Roma Istituzionale",
+        "note": "",
+        "type": "text",
+        "storyId": "u969"
+    },
+    {
+        "sourceText": "Il Quartiere Ostiense e la Centrale Montemartini",
+        "text": "Il Quartiere Ostiense e la Centrale Montemartini",
+        "note": "",
+        "type": "text",
+        "storyId": "u97f"
+    },
+    {
+        "sourceText": "Ogni targa racconta una storia",
+        "text": "Ogni targa racconta una storia",
+        "note": "",
+        "type": "text",
+        "storyId": "u995"
+    },
+    {
+        "sourceText": "Parco degli Acquedotti",
+        "text": "Parco degli Acquedotti",
+        "note": "",
+        "type": "text",
+        "storyId": "u9ab"
+    },
+    {
+        "sourceText": "Villa Borghese: gioca, inventa, crea",
+        "text": "Villa Borghese: gioca, inventa, crea",
+        "note": "",
+        "type": "text",
+        "storyId": "u9c1"
+    },
+    {
+        "sourceText": "Safari d’arte a Roma",
+        "text": "Safari d’arte a Roma",
+        "note": "",
+        "type": "text",
+        "storyId": "u9d7"
+    },
+    {
+        "sourceText": "Sulle tracce di Romolo e Remo",
+        "text": "Sulle tracce di Romolo e Remo",
+        "note": "",
+        "type": "text",
+        "storyId": "u9ed"
+    },
+    {
+        "sourceText": "Roma esclusiva",
+        "text": "Roma esclusiva",
+        "note": "",
+        "type": "text",
+        "storyId": "ua03"
+    },
+    {
+        "sourceText": "Carcer Tullianum",
+        "text": "Carcer Tullianum",
+        "note": "",
+        "type": "text",
+        "storyId": "ua19"
+    },
+    {
+        "sourceText": "Palazzo Maffei Marescotti",
+        "text": "Palazzo Maffei Marescotti",
+        "note": "",
+        "type": "text",
+        "storyId": "ua2f"
+    },
+    {
+        "sourceText": "Palazzo Lateranense, La casa del Vescovo di Roma",
+        "text": "Palazzo Lateranense, La casa del Vescovo di Roma",
+        "note": "",
+        "type": "text",
+        "storyId": "ua45"
+    },
+    {
+        "sourceText": "Musei Vaticani e Cappella Sistina -",
+        "text": "Musei Vaticani e Cappella Sistina -",
+        "note": "",
+        "type": "text",
+        "storyId": "ua5b"
+    },
+    {
+        "sourceText": "Apertura in notturna con degustazione",
+        "text": "Apertura in notturna con degustazione",
+        "note": "",
+        "type": "text",
+        "storyId": "ua5b"
+    },
+    {
+        "sourceText": "Musei Vaticani e Cappella Sistina - Alba con il Clavigero",
+        "text": "Musei Vaticani e Cappella Sistina - Alba con il Clavigero",
+        "note": "",
+        "type": "text",
+        "storyId": "ua71"
+    },
+    {
+        "sourceText": "Residenza Pontificia di Castel Gandolfo a porte chiuse",
+        "text": "Residenza Pontificia di Castel Gandolfo a porte chiuse",
+        "note": "",
+        "type": "text",
+        "storyId": "ua87"
+    },
+    {
+        "sourceText": "Catacombe di Roma",
+        "text": "Catacombe di Roma",
+        "note": "",
+        "type": "text",
+        "storyId": "ua9d"
+    },
+    {
+        "sourceText": "Basilica di Santa Maria in via Lata",
+        "text": "Basilica di Santa Maria in via Lata",
+        "note": "",
+        "type": "text",
+        "storyId": "uab3"
+    },
+    {
+        "sourceText": "Open Bus in esclusiva",
+        "text": "Open Bus in esclusiva",
+        "note": "",
+        "type": "text",
+        "storyId": "uadf"
+    },
+    {
+        "sourceText": "Roma accogliente",
+        "text": "Roma accogliente",
+        "note": "",
+        "type": "text",
+        "storyId": "uaf5"
+    },
+    {
+        "sourceText": "Cosa offriamo",
+        "text": "Cosa offriamo",
+        "note": "",
+        "type": "text",
+        "storyId": "ub0b"
+    },
+    {
+        "sourceText": "6",
+        "text": "6",
+        "note": "",
+        "type": "text",
+        "storyId": "ub27"
+    },
+    {
+        "sourceText": "8",
+        "text": "8",
+        "note": "",
+        "type": "text",
+        "storyId": "ub3d"
+    },
+    {
+        "sourceText": "11",
+        "text": "11",
+        "note": "",
+        "type": "text",
+        "storyId": "ub53"
+    },
+    {
+        "sourceText": "12",
+        "text": "12",
+        "note": "",
+        "type": "text",
+        "storyId": "ub69"
+    },
+    {
+        "sourceText": "15",
+        "text": "15",
+        "note": "",
+        "type": "text",
+        "storyId": "ub7f"
+    },
+    {
+        "sourceText": "16",
+        "text": "16",
+        "note": "",
+        "type": "text",
+        "storyId": "ub95"
+    },
+    {
+        "sourceText": "19",
+        "text": "19",
+        "note": "",
+        "type": "text",
+        "storyId": "ubab"
+    },
+    {
+        "sourceText": "20",
+        "text": "20",
+        "note": "",
+        "type": "text",
+        "storyId": "ubc1"
+    },
+    {
+        "sourceText": "Parco Archeologico del Colosseo e Carcer Tullianum",
+        "text": "Parco Archeologico del Colosseo e Carcer Tullianum",
+        "note": "",
+        "type": "text",
+        "storyId": "ubd7"
+    },
+    {
+        "sourceText": "23",
+        "text": "23",
+        "note": "",
+        "type": "text",
+        "storyId": "ubed"
+    },
+    {
+        "sourceText": "Catacombe di Roma",
+        "text": "Catacombe di Roma",
+        "note": "",
+        "type": "text",
+        "storyId": "uc03"
+    },
+    {
+        "sourceText": "24",
+        "text": "24",
+        "note": "",
+        "type": "text",
+        "storyId": "uc19"
+    },
+    {
+        "sourceText": "Palazzo Lateranense, Casa del Vescovo di Roma",
+        "text": "Palazzo Lateranense, Casa del Vescovo di Roma",
+        "note": "",
+        "type": "text",
+        "storyId": "uc2f"
+    },
+    {
+        "sourceText": "27",
+        "text": "27",
+        "note": "",
+        "type": "text",
+        "storyId": "uc45"
+    },
+    {
+        "sourceText": "30",
+        "text": "30",
+        "note": "",
+        "type": "text",
+        "storyId": "uc5b"
+    },
+    {
+        "sourceText": "32",
+        "text": "32",
+        "note": "",
+        "type": "text",
+        "storyId": "uc71"
+    },
+    {
+        "sourceText": "33",
+        "text": "33",
+        "note": "",
+        "type": "text",
+        "storyId": "uc87"
+    },
+    {
+        "sourceText": "34",
+        "text": "34",
+        "note": "",
+        "type": "text",
+        "storyId": "uc9d"
+    },
+    {
+        "sourceText": "36",
+        "text": "36",
+        "note": "",
+        "type": "text",
+        "storyId": "ucb3"
+    },
+    {
+        "sourceText": "39",
+        "text": "39",
+        "note": "",
+        "type": "text",
+        "storyId": "ucc9"
+    },
+    {
+        "sourceText": "40",
+        "text": "40",
+        "note": "",
+        "type": "text",
+        "storyId": "ucdf"
+    },
+    {
+        "sourceText": "43",
+        "text": "43",
+        "note": "",
+        "type": "text",
+        "storyId": "ucf5"
+    },
+    {
+        "sourceText": "44",
+        "text": "44",
+        "note": "",
+        "type": "text",
+        "storyId": "ud0b"
+    },
+    {
+        "sourceText": "47",
+        "text": "47",
+        "note": "",
+        "type": "text",
+        "storyId": "ud21"
+    },
+    {
+        "sourceText": "48",
+        "text": "48",
+        "note": "",
+        "type": "text",
+        "storyId": "ud37"
+    },
+    {
+        "sourceText": "50",
+        "text": "50",
+        "note": "",
+        "type": "text",
+        "storyId": "ud4d"
+    },
+    {
+        "sourceText": "52",
+        "text": "52",
+        "note": "",
+        "type": "text",
+        "storyId": "ud63"
+    },
+    {
+        "sourceText": "55",
+        "text": "55",
+        "note": "",
+        "type": "text",
+        "storyId": "ud79"
+    },
+    {
+        "sourceText": "56",
+        "text": "56",
+        "note": "",
+        "type": "text",
+        "storyId": "ud8f"
+    },
+    {
+        "sourceText": "59",
+        "text": "59",
+        "note": "",
+        "type": "text",
+        "storyId": "uda5"
+    },
+    {
+        "sourceText": "60",
+        "text": "60",
+        "note": "",
+        "type": "text",
+        "storyId": "udbb"
+    },
+    {
+        "sourceText": "63",
+        "text": "63",
+        "note": "",
+        "type": "text",
+        "storyId": "udd1"
+    },
+    {
+        "sourceText": "64",
+        "text": "64",
+        "note": "",
+        "type": "text",
+        "storyId": "ude7"
+    },
+    {
+        "sourceText": "67",
+        "text": "67",
+        "note": "",
+        "type": "text",
+        "storyId": "udfd"
+    },
+    {
+        "sourceText": "70",
+        "text": "70",
+        "note": "",
+        "type": "text",
+        "storyId": "ue13"
+    },
+    {
+        "sourceText": "72",
+        "text": "72",
+        "note": "",
+        "type": "text",
+        "storyId": "ue29"
+    },
+    {
+        "sourceText": "72",
+        "text": "72",
+        "note": "",
+        "type": "text",
+        "storyId": "ue3f"
+    },
+    {
+        "sourceText": "73",
+        "text": "73",
+        "note": "",
+        "type": "text",
+        "storyId": "ue55"
+    },
+    {
+        "sourceText": "74",
+        "text": "74",
+        "note": "",
+        "type": "text",
+        "storyId": "ue6b"
+    },
+    {
+        "sourceText": "75",
+        "text": "75",
+        "note": "",
+        "type": "text",
+        "storyId": "ue81"
+    },
+    {
+        "sourceText": "76",
+        "text": "76",
+        "note": "",
+        "type": "text",
+        "storyId": "ue97"
+    },
+    {
+        "sourceText": "76",
+        "text": "76",
+        "note": "",
+        "type": "text",
+        "storyId": "uead"
+    },
+    {
+        "sourceText": "77",
+        "text": "77",
+        "note": "",
+        "type": "text",
+        "storyId": "uec3"
+    },
+    {
+        "sourceText": "77",
+        "text": "77",
+        "note": "",
+        "type": "text",
+        "storyId": "ued9"
+    },
+    {
+        "sourceText": "78",
+        "text": "78",
+        "note": "",
+        "type": "text",
+        "storyId": "ueef"
+    },
+    {
+        "sourceText": "80",
+        "text": "80",
+        "note": "",
+        "type": "text",
+        "storyId": "uf05"
+    },
+    {
+        "sourceText": "La Villa delle Meraviglie: Villa Torlonia",
+        "text": "La Villa delle Meraviglie: Villa Torlonia",
+        "note": "",
+        "type": "text",
+        "storyId": "uf27"
+    },
+    {
+        "sourceText": "68",
+        "text": "68",
+        "note": "",
+        "type": "text",
+        "storyId": "uf3d"
+    },
+    {
+        "sourceText": "Open Bus Vatican&amp;Rome",
+        "text": "Open Bus Vatican&amp;Rome",
+        "note": "",
+        "type": "text",
+        "storyId": "uf53"
+    },
+    {
+        "sourceText": "28",
+        "text": "28",
+        "note": "",
+        "type": "text",
+        "storyId": "uf69"
+    }
+]
