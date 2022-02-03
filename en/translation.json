@@ -838,5 +838,188 @@
         "u2ec6": {
             "Omnia è la City Card di Roma e della Città del Vaticano: musei, monumenti, trasporti, ingressi dedicati e molti altri vantaggi in un’unica card.": "Omnia is the City Card of Rome and Vatican City: with museums, monuments, transportation, priority entry and a plethora of other advantages, all in a single card."
         }
+    },
+    "page-7": {
+        "u150a": {
+            "ITINERARIO": "ITINERARY"
+        },
+        "u157b": {
+            "2": "2"
+        },
+        "u1591": {
+            "Roseto": "Rose garden"
+        },
+        "u15a8": {
+            "3": "3"
+        },
+        "u13ba": {
+            "GIARDINI": "GARDENS"
+        },
+        "u13d0": {
+            "VATICANI": "VATICAN"
+        },
+        "u1403": {
+            "Disponibilità": "Availability"
+        },
+        "u1419": {
+            "Dal Lunedì al Sabato": "From Monday to Saturday"
+        },
+        "u142f": {
+            "Incluso nella tua visita": "Included in your visit"
+        },
+        "u1445": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u145b": {
+            "Durata": "Duration"
+        },
+        "u14e4": {
+            "Visita Guidata Musei Vaticani": "Guided Visit Vatican Museums"
+        },
+        "u1520": {
+            "CONSIGLIATO": "RECOMMENDED"
+        },
+        "u154e": {
+            "Fontana dell’Aquilone": "The Fountain of the Eagle"
+        },
+        "u1565": {
+            "1": "1"
+        },
+        "u15be": {
+            "Grotta di Lourdes": "Lourdes Grotto"
+        },
+        "u15eb": {
+            "Giardini all’Italiana": "Italian style Gardens"
+        },
+        "u1634": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u164a": {
+            "Da €34": "From €34"
+        },
+        "u1662": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma imperdibile": "Essential Rome"
+        },
+        "u167c": {
+            "Ingresso prioritario": "Priority entrance"
+        },
+        "u1471": {
+            "A partire da 1 ora": "starting at 1 hour"
+        },
+        "u14ce": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u1602": {
+            "5": "5"
+        },
+        "u13e6": {
+            "I Giardini Vaticani occupano circa due terzi della superficie della Città del Vaticano e sono il luogo di riposo e di meditazione dei Pontefici sin dal 1279. E’ possibile ammirare le bellezze naturalistiche ed architettoniche dei Giardini Vaticani con una visita guidata oppure in un modo nuovo, inedito e sostenibile: seduti comodamente a bordo di un minibus panoramico si potrà accedere alla quiete e ai tesori botanici del “cuore verde” del Vaticano lungo un suggestivo percorso tra arte, natura e fede.": "The Vatican Gardens occupy about two thirds of the surface area of Vatican City, and have been a place where the Popes have gone to relax and meditate since the year 1279. You can admire the natural beauty and architectural wonders of the Vatican Gardens with a guided visit. Or, you can choose to have your visit in an unprecedented and sustainable fashion: on board a panoramic minibus where the silence of the \"green heart\" of the Vatican will permeate an evocative tour along paths of art, nature, and faith."
+        },
+        "u1536": {
+            "Casina Pio IV": "Pius IV Villa"
+        },
+        "u15d5": {
+            "4": "4"
+        }
+    },
+    "page-6": {
+        "u10e3": {
+            "Disponibilità": "Availability"
+        },
+        "u10f9": {
+            "Dal Lunedì al Sabato": "From Monday to Saturday"
+        },
+        "u110f": {
+            "Venerdì e Sabato sera": "Friday and Saturday evening",
+            "da Aprile ad Ottobre": "from April to October"
+        },
+        "u113b": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u1151": {
+            "Durata": "Duration"
+        },
+        "u1167": {
+            "2 ore circa": "about 2 hours"
+        },
+        "u11aa": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u1200": {
+            "ITINERARIO": "ITINERARY"
+        },
+        "u1216": {
+            "Cortile Della Pigna": "The Pinecone Courtyard"
+        },
+        "u122e": {
+            "Museo Pio Clementino": "Pio Clementino Museum"
+        },
+        "u1245": {
+            "1": "1"
+        },
+        "u125b": {
+            "2": "2"
+        },
+        "u1271": {
+            "Gallerie": "Galleries"
+        },
+        "u1288": {
+            "3": "3"
+        },
+        "u129e": {
+            "Stanze di Raffaello": "Raphael Rooms"
+        },
+        "u12b5": {
+            "4": "4"
+        },
+        "u12cb": {
+            "Cappella Sistina": "Sistine Chapel"
+        },
+        "u12e2": {
+            "5": "5"
+        },
+        "u12f8": {
+            "CONSIGLIATO": "RECOMMENDED"
+        },
+        "u1324": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u133a": {
+            "Da €25": "From €25"
+        },
+        "u1351": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma imperdibile": "Essential Rome"
+        },
+        "u1368": {
+            "<a id=\"u6b77\" title=\"PRENOTA LA TUA VISITA\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b77\" title=\"RESERVE YOUR VISIT\">RESERVE YOUR VISIT</a>"
+        },
+        "u1381": {
+            "Musei vaticani e Cappella Sistina": "Vatican Museums and Sistine Chapel"
+        },
+        "u1099": {
+            "MUSEI VATICANI": "VATICAN MUSEUMS"
+        },
+        "u10af": {
+            "&amp; CAPPELLA SISTINA": "&amp; SISTINE CHAPEL"
+        },
+        "u10c5": {
+            "I Musei Vaticani, da sempre considerati il polo museale più importante della Città del Vaticano, vi sorprenderanno con i loro tesori. Non si limitano ad accogliere le ricche collezioni di arte, archeologia ed etno-antropologia create dai Pontefici nel corso dei secoli, ma comprendono anche alcuni dei luoghi più esclusivi e significativi dei Palazzi Apostolici. Visitarli vuol dire scoprire i più alti capolavori di arte di tutti i tempi e le più preziose testimonianze del passato.": "You will be surprised by the cultural treasures that can be found in the Vatican Museums, which have always been considered one of the most important museum institutions in the world. Not only can you visit the exclusive art collections, archaeological artefacts, and items of ethnographic interest, but you can also visit some of the more significant areas of the Apostolic Palaces which contain some of the most famous artistic masterpieces of all times and some of the greatest treasures of the past."
+        },
+        "u1125": {
+            "Incluso nella tua visita": "Included in your visit"
+        },
+        "u11c1": {
+            "Ingresso prioritario": "Priority entrance"
+        }
+    },
+    "page-8": {
+        "u16ca": {
+            "RESIDENZA PONTIFICIA": "PAPAL RESIDENCE"
+        },
+        "u16e0": {
+            "DI CASTEL GANDOLFO": "OF CASTEL GANDOLFO"
+        }
     }
 }
