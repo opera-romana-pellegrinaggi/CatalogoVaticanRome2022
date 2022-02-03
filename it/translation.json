@@ -1,5 +1,5 @@
 {
-    "page-6.json": {
+    "page-6": {
         "u1099": {
             "MUSEI VATICANI": "MUSEI VATICANI"
         },
@@ -90,7 +90,7 @@
             "Musei vaticani e Cappella Sistina": "Musei vaticani e Cappella Sistina"
         }
     },
-    "page-7.json": {
+    "page-7": {
         "u13ba": {
             "GIARDINI": "GIARDINI"
         },
@@ -174,7 +174,7 @@
             "Ingresso prioritario": "Ingresso prioritario"
         }
     },
-    "page-8.json": {
+    "page-8": {
         "u16ca": {
             "RESIDENZA PONTIFICIA": "RESIDENZA PONTIFICIA"
         },
@@ -259,7 +259,7 @@
             "Residenza Pontificia di castel gandolfo": "Residenza Pontificia di castel gandolfo"
         }
     },
-    "page-9.json": {
+    "page-9": {
         "u19aa": {
             "BASILICA": "BASILICA"
         },
@@ -341,7 +341,7 @@
             "Basilica di san pietro": "Basilica di san pietro"
         }
     },
-    "page-10.json": {
+    "page-10": {
         "u1c8a": {
             "COMPLESSO": "COMPLESSO"
         },
@@ -428,7 +428,7 @@
             "Complesso lateranense": "Complesso lateranense"
         }
     },
-    "page-11.json": {
+    "page-11": {
         "u1f86": {
             "BASILICA": "BASILICA"
         },
@@ -496,7 +496,7 @@
             "<a id=\"u6b65\" title=\"Collegamento ipertestuale 7\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b65\" title=\"Collegamento ipertestuale 7\">PRENOTA LA TUA VISITA</a>"
         }
     },
-    "page-12.json": {
+    "page-12": {
         "u221c": {
             "CARCER": "CARCER"
         },
@@ -559,7 +559,7 @@
             "<a id=\"u6b62\" title=\"Collegamento ipertestuale 8\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b62\" title=\"Collegamento ipertestuale 8\">PRENOTA LA TUA VISITA</a>"
         }
     },
-    "page-13.json": {
+    "page-13": {
         "u248d": {
             "COMBINATO CARCER TULLIANUM": "COMBINATO CARCER TULLIANUM"
         },
@@ -612,7 +612,7 @@
             "Archeologico del Colosseo": "Archeologico del Colosseo"
         }
     },
-    "page-14.json": {
+    "page-14": {
         "u267c": {
             "LE CATACOMBE": "LE CATACOMBE"
         },
@@ -706,7 +706,7 @@
             "Catacombe di Roma": "Catacombe di Roma"
         }
     },
-    "page-15.json": {
+    "page-15": {
         "u29ad": {
             "PALAZZO LATERANENSE": "PALAZZO LATERANENSE"
         },
@@ -791,7 +791,7 @@
             "con": "con"
         }
     },
-    "page-16.json": {
+    "page-16": {
         "u2cee": {
             "OPEN BUS": "OPEN BUS"
         },
@@ -832,7 +832,7 @@
             "<a id=\"u6b59\" title=\"Collegamento ipertestuale 11\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b59\" title=\"Collegamento ipertestuale 11\">PRENOTA LA TUA VISITA</a>"
         }
     },
-    "page-17.json": {
+    "page-17": {
         "u2e74": {
             "Omnia Vatican &amp; Romeè l’unico pass ufficialeper vedere Roma": "Omnia Vatican &amp; Rome è l’unico pass ufficiale per vedere Roma"
         },
@@ -849,7 +849,7 @@
             "Roma in tasca": "Roma in tasca"
         }
     },
-    "page-18.json": {
+    "page-18": {
         "u2f2c": {
             "OMNIA Card": "OMNIA Card"
         },
@@ -944,7 +944,7 @@
             "€49": "€49"
         }
     },
-    "page-19.json": {
+    "page-19": {
         "u3307": {
             "Vivi Roma attraverso le sue strade e vicoli, in cerca di curiosità e luoghi": "Vivi Roma attraverso le sue strade e vicoli, in cerca di curiosità e luoghi"
         },
@@ -964,7 +964,7 @@
             "ROMA INSOLITA per tutte le età": "ROMA INSOLITA per tutte le età"
         }
     },
-    "page-20.json": {
+    "page-20": {
         "u33d7": {
             "IL CUORE": "IL CUORE"
         },
@@ -1028,7 +1028,7 @@
             "In collaborazione con": "In collaborazione con"
         }
     },
-    "page-21.json": {
+    "page-21": {
         "u365b": {
             "Roma è custode anche della memoria di avvenimenti del Vangelo attraverso reliquie e testimonianze disseminate in siti e basiliche. Questi luoghi possono essere visitati con un cammino a tappe, da Santa Croce in Gerusalemme fino a Santa Maria Maggiore. Passo dopo passo potrà ricordare la vicenda terrena di Gesù e l’inizio del Cristianesimo in un pellegrinaggio che potrà anticipare e preparare un viaggio in Terra Santa.": "Roma è custode anche della memoria di avvenimenti del Vangelo attraverso reliquie e testimonianze disseminate in siti e basiliche. Questi luoghi possono essere visitati con un cammino a tappe, da Santa Croce in Gerusalemme fino a Santa Maria Maggiore. Passo dopo passo potrà ricordare la vicenda terrena di Gesù e l’inizio del Cristianesimo in un pellegrinaggio che potrà anticipare e preparare un viaggio in Terra Santa."
         },
@@ -1082,7 +1082,7 @@
             "Terra Santa a Roma": "Terra Santa a Roma"
         }
     },
-    "page-22.json": {
+    "page-22": {
         "u386a": {
             "ICONE MARIANE": "ICONE MARIANE"
         },
@@ -1136,7 +1136,7 @@
             "Roma insolita per tutte le età": "Roma insolita per tutte le età"
         }
     },
-    "page-23.json": {
+    "page-23": {
         "u3a8c": {
             "Non si può immaginare Roma senza la comunità ebraica. A Roma già nel sec. II a C., la comunità si è stabilita tra Trastevere e la riva opposta, dove nel sec. XVI è stato costituito il Ghetto, l’angolo della Città Eterna custode delle memorie più importanti della tradizione ebraica romana. Nel Portico di Ottavia ricorderemo il periodo romano, nella Piazza delle Cinque Scole il culto nelle sinagoghe create da ebrei provenienti da diversi paesi, di fronte al Tempio Maggiore la vitalità della comunità odierna. Vedremo i segni del forzato isolamento subito dalla comunità e della persecuzione nazi-fascista. Un riflessivo percorso da seguire, ricordando tappe anche drammatiche e dolorose della storia.": "Non si può immaginare Roma senza la comunità ebraica. A Roma già nel sec. II a C., la comunità si è stabilita tra Trastevere e la riva opposta, dove nel sec. XVI è stato costituito il Ghetto, l’angolo della Città Eterna custode delle memorie più importanti della tradizione ebraica romana. Nel Portico di Ottavia ricorderemo il periodo romano, nella Piazza delle Cinque Scole il culto nelle sinagoghe create da ebrei provenienti da diversi paesi, di fronte al Tempio Maggiore la vitalità della comunità odierna. Vedremo i segni del forzato isolamento subito dalla comunità e della persecuzione nazi-fascista. Un riflessivo percorso da seguire, ricordando tappe anche drammatiche e dolorose della storia."
         },
@@ -1187,7 +1187,7 @@
             "insolita per tutte le età": "insolita per tutte le età"
         }
     },
-    "page-24.json": {
+    "page-24": {
         "u3c9e": {
             "LE BOTTEGHE STORICHE": "LE BOTTEGHE STORICHE"
         },
@@ -1241,7 +1241,7 @@
             "Roma insolita per tutte le età": "Roma insolita per tutte le età"
         }
     },
-    "page-25.json": {
+    "page-25": {
         "u3ebf": {
             "Percorrendo gli argini del Tevere a bordo di un battello, si esplorerà da un punto di vista diverso ed originale un territorio strettamente legato al rapporto con l’acqua. L’esperienza proseguirà a bordo dell’Open Bus Vatican&amp;Rome che permetterà di ammirare Roma da un altro punto di vista. Con il supporto di una guida, si scopriranno inoltre le fontane che hanno reso Roma unica nei secoli come quella dei Quattro Fiumi a Piazza Navona, quella di Trevi e quelle non meno belle poste negli angoli nascosti. Sarà un viaggio straordinario che permetterà di vivere in modo unico la città.": "Percorrendo gli argini del Tevere a bordo di un battello, si esplorerà da un punto di vista diverso ed originale un territorio strettamente legato al rapporto con l’acqua. L’esperienza proseguirà a bordo dell’Open Bus Vatican&amp;Rome che permetterà di ammirare Roma da un altro punto di vista. Con il supporto di una guida, si scopriranno inoltre le fontane che hanno reso Roma unica nei secoli come quella dei Quattro Fiumi a Piazza Navona, quella di Trevi e quelle non meno belle poste negli angoli nascosti. Sarà un viaggio straordinario che permetterà di vivere in modo unico la città."
         },
@@ -1295,7 +1295,7 @@
             "Roma Regina Aquarum": "Roma Regina Aquarum"
         }
     },
-    "page-26.json": {
+    "page-26": {
         "u40de": {
             "BISANZIO": "BISANZIO"
         },
@@ -1346,7 +1346,7 @@
             "Roma insolita per tutte le età": "Roma insolita per tutte le età"
         }
     },
-    "page-27.json": {
+    "page-27": {
         "u42da": {
             "Le iniziative intendono proporre ai giovani, famiglie, studenti ed insegnanti un modello formativo volto alla scoperta del nostro patrimonio culturale, storico, artistico, religioso e ambientale in modo responsabile.": "Le iniziative intendono proporre ai giovani, famiglie, studenti ed insegnanti un modello formativo volto alla scoperta del nostro patrimonio culturale, storico, artistico, religioso e ambientale in modo responsabile.",
             "Visitare, riflettere, conoscere e scoprire è tutto ciò che non può essere precluso ai giovani.": "Visitare, riflettere, conoscere e scoprire è tutto ciò che non può essere precluso ai giovani."
@@ -1367,7 +1367,7 @@
             "ROMA CHE FORMA E INFORMA": "ROMA CHE FORMA E INFORMA"
         }
     },
-    "page-28.json": {
+    "page-28": {
         "u43a2": {
             "LA ROMA": "LA ROMA"
         },
@@ -1431,7 +1431,7 @@
             "La Roma degli Obelischi": "La Roma degli Obelischi"
         }
     },
-    "page-29.json": {
+    "page-29": {
         "u45d7": {
             "Seguendo i luoghi che hanno caratterizzato e caratterizzano gli scenari politici di Roma, si ripercorrerà la storia delle istituzioni dal periodo repubblicano fino al periodo del fascismo e al passaggio alla Repubblica Italiana con il referendum del 1946.": "Seguendo i luoghi che hanno caratterizzato e caratterizzano gli scenari politici di Roma, si ripercorrerà la storia delle istituzioni dal periodo repubblicano fino al periodo del fascismo e al passaggio alla Repubblica Italiana con il referendum del 1946.",
             "Luoghi che hanno una bellezza ed una storia secolare che merita di essere conosciuta per apprezzare e comprendere l’identità politica della città di Roma: una città unica che deve la sua straordinaria ricchezza anche a questo insieme eterogeneo di istituzioni e realtà politiche. Sarà un excursus straordinario che permetterà di vivere in un modo unico la città.": "Luoghi che hanno una bellezza ed una storia secolare che merita di essere conosciuta per apprezzare e comprendere l’identità politica della città di Roma: una città unica che deve la sua straordinaria ricchezza anche a questo insieme eterogeneo di istituzioni e realtà politiche. Sarà un excursus straordinario che permetterà di vivere in un modo unico la città."
@@ -1507,7 +1507,7 @@
             "Roma Istituzionale": "Roma Istituzionale"
         }
     },
-    "page-30.json": {
+    "page-30": {
         "u4886": {
             "IL QUARTIERE OSTIENSE": "IL QUARTIERE OSTIENSE"
         },
@@ -1574,7 +1574,7 @@
             "Quartiere Ostiense &amp; la Centrale Montemartini": "Quartiere Ostiense &amp; la Centrale Montemartini"
         }
     },
-    "page-31.json": {
+    "page-31": {
         "u4af2": {
             "OGNI TARGA": "OGNI TARGA"
         },
@@ -1646,7 +1646,7 @@
             "Ogni targa racconta una storia": "Ogni targa racconta una storia"
         }
     },
-    "page-32.json": {
+    "page-32": {
         "u4d4c": {
             "PARCO DEGLI": "PARCO DEGLI"
         },
@@ -1697,7 +1697,7 @@
             "Parco degli Acquedotti": "Parco degli Acquedotti"
         }
     },
-    "page-33.json": {
+    "page-33": {
         "u4f23": {
             "In un piccolo paradiso lontano dai rumori della città, si ammireranno le bellezze e si comprenderanno le trasformazioni che Villa Borghese ha subito nei secoli. Splendide statue immerse nel verde, una rigogliosa vegetazione, il laghetto con la sua storia, il suo ricco ecosistema saranno i protagonisti della visita grazie al loro aspetto caratteristico, ai loro colori ed ai loro profumi.": "In un piccolo paradiso lontano dai rumori della città, si ammireranno le bellezze e si comprenderanno le trasformazioni che Villa Borghese ha subito nei secoli. Splendide statue immerse nel verde, una rigogliosa vegetazione, il laghetto con la sua storia, il suo ricco ecosistema saranno i protagonisti della visita grazie al loro aspetto caratteristico, ai loro colori ed ai loro profumi."
         },
@@ -1754,7 +1754,7 @@
             "Villa Borghese: gioca inventa, crea": "Villa Borghese: gioca inventa, crea"
         }
     },
-    "page-34.json": {
+    "page-34": {
         "u5127": {
             "SAFARI D’ARTE": "SAFARI D’ARTE"
         },
@@ -1863,7 +1863,7 @@
             "ROMA DEI PICCOLI": "ROMA DEI PICCOLI"
         }
     },
-    "page-35.json": {
+    "page-35": {
         "u54ed": {
             "La nostra città è ricca di storie e personaggi che si intrecciano nel tempo… perché non scoprirli e conoscerli giocando? Attraverso una visita lungo via dei Fori Imperiali i più piccoli verranno coinvolti in maniera attiva grazie ad una caccia al tesoro a tema storico. Risolveranno enigmi, supereranno prove ed andranno alla ricerca di indizi che troveranno lungo il percorso: un’avventura che parlerà di storia, azione, ma allo stesso tempo di cultura e di tradizioni tipiche dell’antica Roma.": "La nostra città è ricca di storie e personaggi che si intrecciano nel tempo… perché non scoprirli e conoscerli giocando? Attraverso una visita lungo via dei Fori Imperiali i più piccoli verranno coinvolti in maniera attiva grazie ad una caccia al tesoro a tema storico. Risolveranno enigmi, supereranno prove ed andranno alla ricerca di indizi che troveranno lungo il percorso: un’avventura che parlerà di storia, azione, ma allo stesso tempo di cultura e di tradizioni tipiche dell’antica Roma."
         },
@@ -1917,7 +1917,7 @@
             "ROMA DEI PICCOLI": "ROMA DEI PICCOLI"
         }
     },
-    "page-36.json": {
+    "page-36": {
         "u5714": {
             "LA VILLA DELLE MERAVIGLIE": "LA VILLA DELLE MERAVIGLIE"
         },
@@ -1995,7 +1995,7 @@
             "La Villa delle Meraviglie: Villa Torlonia": "La Villa delle Meraviglie: Villa Torlonia"
         }
     },
-    "page-37.json": {
+    "page-37": {
         "u593b": {
             "Visite private,aperture straordinarie,eventi riservati": "Visite private, aperture straordinarie, eventi riservati"
         },
@@ -2014,7 +2014,7 @@
             "ROMA ESCLUSIVA": "ROMA ESCLUSIVA"
         }
     },
-    "page-38.json": {
+    "page-38": {
         "u59fc": {
             "CARCER": "CARCER"
         },
@@ -2083,7 +2083,7 @@
             "Palazzo Lateranense, la Casa del Vescovo di roma": "Palazzo Lateranense, la Casa del Vescovo di roma"
         }
     },
-    "page-1.json": {
+    "page-1": {
         "u5ac": {
             "COPERTINA": "COPERTINA"
         },
@@ -2093,7 +2093,7 @@
             "Rome": "Rome"
         }
     },
-    "page-39.json": {
+    "page-39": {
         "u5cd9": {
             "Vatican&amp;Rome -": "Vatican&amp;Rome -",
             "Roma esclusiva": "Roma esclusiva"
@@ -2147,7 +2147,7 @@
             "Musei vaticani &amp; Cappella Sistina - Apertuna in notturna con degustazione": "Musei vaticani &amp; Cappella Sistina - Apertuna in notturna con degustazione"
         }
     },
-    "page-40.json": {
+    "page-40": {
         "u5f10": {
             "Vatican&amp;Rome -": "Vatican&amp;Rome -",
             "Roma esclusiva": "Roma esclusiva"
@@ -2244,7 +2244,7 @@
             "Open Bus in esclusiva": "Open Bus in esclusiva"
         }
     },
-    "page-41.json": {
+    "page-41": {
         "u62e1": {
             "Cosa rende unica Roma?": "Cosa rende unica Roma?",
             "La sua bellezza senza tempo e lo stupore che la Città Eterna genera in ognuno di noi. La sua unicità sta proprio nel ruolo centrale che storicamente ha ricoperto e tutta la sua storia la possiamo respirare passeggiando tra le sue strade, visitando i suoi monumenti e scoprendo i luoghi più nascosti. Visiteremo quelli che sono considerati i simboli della città, espressione della cultura, della Cristianità, della storia e della tradizione, perdendoci e lasciandoci trasportare dal fascino dell’era che fu.": "La sua bellezza senza tempo e lo stupore che la Città Eterna genera in ognuno di noi. La sua unicità sta proprio nel ruolo centrale che storicamente ha ricoperto e tutta la sua storia la possiamo respirare passeggiando tra le sue strade, visitando i suoi monumenti e scoprendo i luoghi più nascosti. Visiteremo quelli che sono considerati i simboli della città, espressione della cultura, della Cristianità, della storia e della tradizione, perdendoci e lasciandoci trasportare dal fascino dell’era che fu."
@@ -2262,7 +2262,7 @@
             "ROMA ACCOGLIENTE": "ROMA ACCOGLIENTE"
         }
     },
-    "page-42.json": {
+    "page-42": {
         "u638e": {
             "BIGLIETTERIA": "BIGLIETTERIA"
         },
@@ -2322,14 +2322,14 @@
             "cosa offriamo": "cosa offriamo"
         }
     },
-    "page-2.json": {
+    "page-2": {
         "u668": {
             "Vatican": "Vatican",
             "&amp;": "&amp;",
             "Rome": "Rome"
         }
     },
-    "page-43.json": {
+    "page-43": {
         "u65db": {
             "L’": "L’",
             "ORPportunità": "ORPportunità",
@@ -2377,7 +2377,7 @@
             "Offerta base per partenze da Firenze, Napoli, Genova e Foggia verso Roma. L’offerta può essere estesa anche verso altre città italiane, con la stessa formula di viaggio A/R e pernottamento. Quotazioni su richiesta.": "Offerta base per partenze da Firenze, Napoli, Genova e Foggia verso Roma. L’offerta può essere estesa anche verso altre città italiane, con la stessa formula di viaggio A/R e pernottamento. Quotazioni su richiesta."
         }
     },
-    "page-44.json": {
+    "page-44": {
         "u66f1": {
             "A ROMA": "A ROMA",
             "SUI PASSI DEGLI APOSTOLI": "SUI PASSI DEGLI APOSTOLI"
@@ -2478,8 +2478,8 @@
             "a partire da": "a partire da"
         }
     },
-    "page-45.json": {},
-    "page-46.json": {
+    "page-45": {},
+    "page-46": {
         "u6a1b": {
             "Informazioni e prenotazioni": "Informazioni e prenotazioni"
         },
@@ -2506,7 +2506,7 @@
             "<a id=\"u6b50\" title=\"Collegamento ipertestuale 14\">CONTATTACI</a>": "<a id=\"u6b50\" title=\"Collegamento ipertestuale 14\">CONTATTACI</a>"
         }
     },
-    "page-3.json": {
+    "page-3": {
         "u6d7": {
             "OMNIA Vatican &amp; Rome nasce dall’esperienza pluridecennale dell’Opera Romana Pellegrinaggi (ORP), un’attività del Vicariato di Roma nata nel 1933 per accompagnare pellegrini italiani e stranieri lungo gli itinerari dello Spirito in Italia e nel mondo, offrendo un’adeguata assistenza spirituale e tecnico-organizzativa.": "OMNIA Vatican &amp; Rome nasce dall’esperienza pluridecennale dell’Opera Romana Pellegrinaggi (ORP), un’attività del Vicariato di Roma nata nel 1933 per accompagnare pellegrini italiani e stranieri lungo gli itinerari dello Spirito in Italia e nel mondo, offrendo un’adeguata assistenza spirituale e tecnico-organizzativa.",
             "L’ORP, attraverso i pellegrinaggi, da oltre 85 anni svolge un servizio pastorale prezioso, accompagnando centinaia di migliaia di fedeli ai santuari di Lourdes e di Fatima, in Terra Santa, in Turchia, a Santiago di Compostela e verso tanti altri luoghi e paesi in Europa e nel mondo.": "L’ORP, attraverso i pellegrinaggi, da oltre 85 anni svolge un servizio pastorale prezioso, accompagnando centinaia di migliaia di fedeli ai santuari di Lourdes e di Fatima, in Terra Santa, in Turchia, a Santiago di Compostela e verso tanti altri luoghi e paesi in Europa e nel mondo."
@@ -2525,7 +2525,7 @@
             "<a id=\"u6b71\" title=\"Collegamento ipertestuale 3\">SCOPRI DI PI&Ugrave;</a>": "<a id=\"u6b71\" title=\"Collegamento ipertestuale 3\">SCOPRI DI PI&Ugrave;</a>"
         }
     },
-    "page-4.json": {
+    "page-4": {
         "u785": {
             "SOMMARIO": "SOMMARIO"
         },
@@ -2801,7 +2801,7 @@
             "28": "28"
         }
     },
-    "page-5.json": {
+    "page-5": {
         "ufb0": {
             "Scopri con noi i luoghidella Roma Cristianaa cui non si può rinunciare": "Scopri con noi i luoghi della Roma Cristiana a cui non si può rinunciare"
         },
