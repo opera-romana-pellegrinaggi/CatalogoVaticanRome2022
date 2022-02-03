@@ -86,6 +86,91 @@
         },
         "u165a": {
             "4": "4"
+        },
+        "u1c8a": {
+            "COMPLESSO": "COMPLEX"
+        },
+        "u1ca0": {
+            "LATERANENSE": "LATERAN"
+        },
+        "u1cb6": {
+            "Sarà un viaggio alla scoperta della storia della cultura, della fede e della bellezza di uno dei luoghi più suggestivi di Roma.": "Discovery the beauty and the history of one of the most evocative places in Rome!",
+            "La Basilica di San Giovanni in Laterano, definita “Mater et Caput” di tutte le chiese di Roma e del mondo, è la Cattedrale di Roma e sede episcopale del Santo Padre.": "The Basilica of Saint John Lateran, defined “Mater et Caput” of all the churches in Rome and in the world, is the Cathedral of Rome and the episcopal seat of the Holy Father.",
+            "Scoprirete il Complesso del Laterano che comprende diversi luoghi di grandissimo interesse: la Basilica con il suo Chiostro, il Battistero e la Scala Santa che racchiude al suo interno la Cappella Papale del Sancta Sanctorum.": "You'll discover the Lateran Complex, which comprehends more than one place of great interest: the Basilica and the Cloister, the Baptistery, and the Holy Stairs with the “Sancta Sanctorum” Papal Chapel."
+        },
+        "u1ccc": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u1d21": {
+            "Disponibilità": "Availability"
+        },
+        "u1d37": {
+            "Tutti i giorni": "Every day"
+        },
+        "u1d4d": {
+            "Incluso nella tua visita": "Included in your visit"
+        },
+        "u1d63": {
+            "Durata": "Duration"
+        },
+        "u1d79": {
+            "2 ore circa": "about 2 hours"
+        },
+        "u1d90": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u1dbb": {
+            "ITINERARIO": "ITINERARY"
+        },
+        "u1dd1": {
+            "CONSIGLIATO": "RECOMMENDED"
+        },
+        "u1de7": {
+            "Basilica": "Basilica"
+        },
+        "u1dfe": {
+            "Chiostro": "Cloister"
+        },
+        "u1e15": {
+            "1": "1"
+        },
+        "u1e2b": {
+            "2": "2"
+        },
+        "u1e41": {
+            "Museo del Tesoro": "Museum of the Treasury"
+        },
+        "u1e6e": {
+            "Battistero": "Baptistery"
+        },
+        "u1e58": {
+            "3": "3"
+        },
+        "u1e9b": {
+            "Scala Santa": "Holy Stairs",
+            "e Sancta Sanctorum": "and Sancta Sanctorum"
+        },
+        "u1eb2": {
+            "5": "5"
+        },
+        "u1edc": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u1ef2": {
+            "Da €5": "From €5"
+        },
+        "u1f09": {
+            "Roma imperdibile": "Essential Rome",
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "u1f39": {
+            "Complesso lateranense": "Lateran complex"
+        },
+        "u1e85": {
+            "4": "4"
+        },
+        "u1f23": {
+            "<a id=\"u6b68\" title=\"Collegamento ipertestuale 6\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b68\" title=\"Collegamento ipertestuale 6\">RESERVE YOUR VISIT</a>"
         }
     },
     "page-11": {
@@ -157,6 +242,72 @@
         },
         "u10021": {
             "Basilica di Santa maria in Via lata": "Basilica Santa Maria in Via Lata"
+        },
+        "u1f86": {
+            "BASILICA": "BASILICA"
+        },
+        "u1f9c": {
+            "DI SANTA MARIA IN VIA LATA": "OF SANTA MARIA IN VIA LATA"
+        },
+        "u1fc8": {
+            "Sotterranei": "Underground Crypt"
+        },
+        "u200e": {
+            "2": "2"
+        },
+        "u205c": {
+            "Disponibilità": "Availability"
+        },
+        "u2072": {
+            "Tutti i giorni": "Every day"
+        },
+        "u2088": {
+            "Incluso nella tua visita": "Included in your visit"
+        },
+        "u209e": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u20b4": {
+            "Durata": "Duration"
+        },
+        "u20ca": {
+            "1 ore circa": "about 1 hour"
+        },
+        "u20e1": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u2106": {
+            "COSTRUISCI IL TUO PERCORSO": "CUSTOMIZE YOUR ITINERARY"
+        },
+        "u211c": {
+            "DI ROMA SOTTERRANEA CON...": "OF UNDERGROUND ROME WITH…"
+        },
+        "u2133": {
+            "Carcer Tullianum": "Carcer Tullianum"
+        },
+        "u2149": {
+            "Catacombe di Roma": "Catacombs of Rome"
+        },
+        "u216f": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u2185": {
+            "Da €4": "From €4"
+        },
+        "u219c": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma imperdibile": "Essential Rome"
+        },
+        "u21b8": {
+            "<a id=\"u6b65\" title=\"Collegamento ipertestuale 7\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b65\" title=\"Collegamento ipertestuale 7\">RESERVE YOUR VISIT</a>"
+        },
+        "u1fb2": {
+            "La Basilica di Santa Maria in via Lata è la custodia di un antico e importante luogo di memoria della storia millenaria del Cristianesimo nella Città Eterna.": "The Basilica Santa Maria in via Lata preserves the memory of an important piece of the two thousand year history of Christianity in the Eternal City.",
+            "Fondata su origini molto antiche, la chiesa venne costruita su una precedente del VII-VIII secolo e trasformata in seguito secondo lo stile barocco. Secondo la tradizione, gli Apostoli Pietro e Paolo vennero ospitati proprio in questi luoghi durante gli anni della prigionia a Roma.": "Founded atop ancient origins, the church was built over an earlier church from the 7th or 8th century, and eventually was given a baroque style. According to tradition, the Apostles Peter and Paul dwelt here during the years of their imprisonment in Rome.",
+            "Nei sotterranei sono ancora visibili i resti di un vasto edificio di epoca romana che, nel VII secolo, venne trasformato in un edificio di culto.": "In the crypt, remains of a large Roman period edifice are still visible; in the 7th century, it was transformed into a place of worship."
+        },
+        "u1ff8": {
+            "1": "1"
         }
     },
     "page-1": {
@@ -167,6 +318,14 @@
             "Vatican": "Vatican",
             "&amp;": "&amp;",
             "Rome": "Rome"
+        },
+        "u5f5": {
+            "Vatican": "Vatican",
+            "&amp;": "&amp;",
+            "Rome": "Rome"
+        },
+        "u5ac": {
+            "COPERTINA": "COVER PAGE"
         }
     },
     "page-12": {
@@ -238,6 +397,67 @@
         },
         "u1dc8": {
             "DI ROMA SOTTERRANEA CON...": "OF UNDERGROUND ROME WITH…"
+        },
+        "u221c": {
+            "CARCER": "CARCER"
+        },
+        "u2232": {
+            "TULLIANUM": "TULLIANUM"
+        },
+        "u225e": {
+            "1": "1"
+        },
+        "u2274": {
+            "2": "2"
+        },
+        "u228a": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u22d2": {
+            "Disponibilità": "Availability"
+        },
+        "u22e8": {
+            "Tutti i giorni": "Every day"
+        },
+        "u22fe": {
+            "Incluso nella tua visita": "Included in your visit"
+        },
+        "u232a": {
+            "1 ora circa": "about 1 hour"
+        },
+        "u2341": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u238a": {
+            "DI ROMA SOTTERRANEA CON…": "OF UNDERGROUND ROME WITH…"
+        },
+        "u23a1": {
+            "Basilica di Santa Maria in via Lata": "Basilica Santa Maria in Via Lata"
+        },
+        "u23b8": {
+            "Catacombe di Roma": "Catacombs of Rome"
+        },
+        "u23e2": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u23f8": {
+            "Da €10": "From €10"
+        },
+        "u2410": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma imperdibile": "Essential Rome"
+        },
+        "u2248": {
+            "Il Carcer Tullianum, uno dei monumenti archeologici più affascinanti dell’età repubblicana di Roma, custodisce una grande ricchezza storica, artistica ed archeologica. Luogo di culto legato alla tradizione cristiana, si trova al di sotto della Chiesa di San Giuseppe dei Falegnami, e si affaccia sul Foro Romano, regalando una delle viste più suggestive della città. Grazie al supporto della più recente tecnologia disponibile, si potrà visitare il Museo e scoprire il luogo dove, secondo la tradizione, San Pietro venne imprigionato.": "The Carcer Tullianum is one of the most fascinating archeological monuments from the era of the Roman republic. It contains a wealth of art, archeology and history. It has also become a place of Christian worship, and is situated beneath the church of Saint Joseph of the Carpenters. And seeing that it faces the Roman Forum, it offers one of the most evocative views of ancient Rome. With the assistance of some of the most recent technologies, you will discover the place where, according to tradition, Saint Peter was imprisoned."
+        },
+        "u2314": {
+            "Durata": "Duration"
+        },
+        "u2374": {
+            "COSTRUISCI IL TUO PERCORSO": "CUSTOMIZE YOUR ITINERARY"
+        },
+        "u242a": {
+            "<a id=\"u6b62\" title=\"Collegamento ipertestuale 8\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b62\" title=\"Collegamento ipertestuale 8\">RESERVE YOUR VISIT</a>"
         }
     },
     "page-13": {
@@ -294,6 +514,57 @@
         "u10059": {
             "Combinato Carcer Tullianum &amp; parco": "Carcer Tullianum &amp; Colosseum",
             "Archeologico del Colosseo": "Archaeological Park Combo"
+        },
+        "u248d": {
+            "COMBINATO CARCER TULLIANUM": "CARCER TULLIANUM"
+        },
+        "u24a3": {
+            "&amp; PARCO ARCHEOLOGICO DEL COLOSSEO": "&amp; COLOSSEUM ARCHAEOLOGICAL PARK COMBO"
+        },
+        "u24d3": {
+            "Ingresso prioritario": "Priority entrance"
+        },
+        "u251b": {
+            "Disponibilità": "Availability"
+        },
+        "u2531": {
+            "Tutti i giorni": "Every day"
+        },
+        "u2547": {
+            "Incluso nella tua visita": "Included in your visit"
+        },
+        "u255d": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u2573": {
+            "Durata": "Duration"
+        },
+        "u2589": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u25a0": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u25e6": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u25fc": {
+            "Da €24": "From €24"
+        },
+        "u2613": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma imperdibile": "Essential Rome"
+        },
+        "u262d": {
+            "<a id=\"u6b5f\" title=\"Collegamento ipertestuale 9\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b5f\" title=\"Collegamento ipertestuale 9\">RESERVE YOUR VISIT</a>"
+        },
+        "u2643": {
+            "Combinato Carcer Tullianum &amp; parco": "Carcer Tullianum &amp; Colosseum",
+            "Archeologico del Colosseo": "Archaeological Park Combo"
+        },
+        "u24b9": {
+            "Questa visita vi porterà ad ammirare l’eccezionale stratificazione di memorie storiche e artistiche che testimoniano la vita e lo sviluppo dell’antica Roma.": "During this visit, you will be able to admire the exceptional historical stratification, which tells us about every day life in ancient Rome and its development over time.",
+            "Il Carcer Tullianum, la prigione di massima sicurezza dove venivano imprigionati i nemici di Roma, il Colosseo, luogo che ha visto i giochi cruenti della Roma Imperiale, il Foro Romano, fulcro sociale, commerciale e religioso dell’antica Roma sin dai primi secoli della sua storia ed il Palatino, il luogo dove nacque questa città  intorno alla metà del VIII secolo a.C.": "Carcer Tullianum: the maximum security prison of ancient Rome where enemies of state were imprisoned; Colosseum: where cruel games of Imperial Rome were held; Roman Forum: the social, commercial and religious hub of ancient Rome from the first pages of its history; Palatine Hill, place where this city was born around the middle of the eighth century BC."
         }
     },
     "page-14": {
@@ -306,6 +577,266 @@
         "u2346": {
             "Le Catacombe di Roma sono caratterizzate da una rete di gallerie scavate nella": "Catacombs of Rome are a network of underground galleries carved out of tuff,",
             "roccia talvolta articolate su più livelli sovrapposti. Percorrendo questo reticolo di": "and at times on more than one level. As you wander through the corridors,"
+        },
+        "u267c": {
+            "LE CATACOMBE": "CATACOMBS"
+        },
+        "u2692": {
+            "DI ROMA": "OF ROME"
+        },
+        "u26c6": {
+            "Disponibilità": "Availability"
+        },
+        "u26dc": {
+            "Tutti i giorni": "Every day"
+        },
+        "u26f2": {
+            "Incluso nella tua visita": "Included in your visit"
+        },
+        "u2708": {
+            "Durata": "Duration"
+        },
+        "u271e": {
+            "1 ora circa": "about 1 hour"
+        },
+        "u2734": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u2762": {
+            "Travel Card Vatican&amp;Rome": "Vatican&amp;Rome Travel Card"
+        },
+        "u279d": {
+            "COSTRUISCI IL TUO PERCORSO": "CUSTOMIZE YOUR ITINERARY"
+        },
+        "u27c9": {
+            "Carcer Tullianum": "Carcer Tullianum"
+        },
+        "u27e0": {
+            "Basilica di S. Maria in Via Lata": "Basilica Santa Maria in Via Lata"
+        },
+        "u27f9": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u280f": {
+            "Da €8,50": "From €8.50"
+        },
+        "u2838": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma imperdibile": "Essential Rome"
+        },
+        "u284e": {
+            "Catacombe disponibili in visita": "Catacombs available to visit"
+        },
+        "u2864": {
+            "San Callisto": "Saint Callixtus"
+        },
+        "u287a": {
+            "San Sebastiano": "Saint Sebastian"
+        },
+        "u2890": {
+            "Domitilla": "Domitilla"
+        },
+        "u28a6": {
+            "Sant’Agnese": "Saint Agnes"
+        },
+        "u28bc": {
+            "Priscilla": "Priscilla"
+        },
+        "u28d2": {
+            "SS. Marcellino e Pietro": "Saints Marcellinus and Peter"
+        },
+        "u28e8": {
+            "Le Catacombe sono “un mondo segreto che si apre al pellegrino e al turista con tutta la bellezza, la fede e la memoria di tante persone che hanno creduto in Cristo e nella sua parola di speranza”.": "The Catacombs are “a secret world that opens to pilgrims and tourists a world of artistic beauty and of faith in memory of so many people that believed in Christ and in his word of hope”.",
+            "(Card. Ravasi)": "(Cardinal Ravasi)"
+        },
+        "u28fe": {
+            "Museo delle Mura": "Museum of the Walls"
+        },
+        "u2930": {
+            "In collaborazione con": "In collaboration with"
+        },
+        "u294a": {
+            "<a id=\"u6b5c\" title=\"Collegamento ipertestuale 10\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b5c\" title=\"Collegamento ipertestuale 10\">RESERVE YOUR VISIT</a>"
+        },
+        "u2960": {
+            "Catacombe di Roma": "Catacombs of Rome"
+        },
+        "u26a8": {
+            "Le Catacombe di Roma sono caratterizzate da una rete di gallerie scavate nella roccia talvolta articolate su più livelli sovrapposti. Percorrendo questo reticolo di corridoi, di stanze e di sale sotterranee verrai inevitabilmente attratto, oltre che da  suggestive rappresentazioni di scene bibliche o di vita quotidiana, da un vero e proprio mondo di simboli, a volte dipinti, a volte graffiti o incisi sulla pietra.": "The Catacombs of Rome are a network of tunnels carved out of tuff, at times on several levels. As you progress through this network of corridors, rooms and underground halls, you will be inevitably taken in not only by evocative scenes both from the Bible and from every day life in Rome, but also by a world of symbols, some of which are painted as frescoes, others which are carved into the stone as graffiti."
+        },
+        "u2778": {
+            "Complesso Lateranense": "Lateran complex"
+        },
+        "u27b3": {
+            "DI ROMA SOTTERRANEA CON…": "OF UNDERGROUND ROME WITH…"
+        }
+    },
+    "page-18": {
+        "u3026": {
+            "Un ingresso a scelta tra le Catacombe di Roma": "One entrance of your choice to the Catacombs of Rome"
+        },
+        "u2f2c": {
+            "OMNIA Card": "OMNIA Card"
+        },
+        "u2f65": {
+            "Quota ridotta": "Reduced fee"
+        },
+        "u2fb3": {
+            "Roma, cuore della Cristianità, è una città ricca di storia, musei, chiese e luoghi di culto.": "Rome is not only a city laden with historical charm, museums, and churches, but it's the very heart of Christendom.",
+            "Se vuoi organizzare la tua visita in maniera ottimale, Omnia Card ti viene incontro rendendoti tutto più semplice, chiaro ed economico.": "An Omnia Card will help you optimize your experience in Rome, making it that much more simple to organize your visits in an inexpensive manner.",
+            "In funzione del tempo a tua disposizione noi ti offriamo due soluzioni valide rispettivamente 72h e 24 h, comprensive di un distinto numero di servizi.": "According to the amount of time you have to spend, you can choose between the 24h card and the 72h card, both of which include a number of services."
+        },
+        "u2fce": {
+            "Musei Vaticani e Cappella Sistina": "Vatican Museums and Sistine Chapel"
+        },
+        "u2fe4": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u2ffa": {
+            "Ingresso Carcer Tullianum con supporto multimediale": "Carcer Tullianum entrance with multimedia support"
+        },
+        "u3010": {
+            "Basilica di San Giovanni in Laterano e Chiostro con audioguida e ingresso al Museo del Tesoro": "Basilica of Saint John Lateran and Cloister, with an audio guide and entry to the Museum of the Treasury"
+        }
+    },
+    "page-15": {
+        "u29ad": {
+            "PALAZZO LATERANENSE": "LATERAN PALACE"
+        },
+        "u29c3": {
+            "CASA DEL VESCOVO DI ROMA": "HOUSE OF THE BISHOP OF ROME"
+        },
+        "u29f1": {
+            "1": "1"
+        },
+        "u2a07": {
+            "2": "2"
+        },
+        "u2a48": {
+            "Disponibilità": "Availability"
+        },
+        "u2a5e": {
+            "Tutti i giorni tranne mercoledì, domenica e festività religiose": "Every day except Wednesday, Sunday and religious holidays"
+        },
+        "u2a74": {
+            "Incluso nella tua visita": "Included in your visit"
+        },
+        "u2a8a": {
+            "Durata": "Duration"
+        },
+        "u2aa0": {
+            "a partire da 1 ora": "starting at 1 hour"
+        },
+        "u2ab7": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u2c01": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u2b1a": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma imperdibile": "Essential Rome"
+        },
+        "u2b40": {
+            "COSTRUISCI": "CUSTOMIZE"
+        },
+        "u2b6c": {
+            "Cappella Papale del Sancta Sanctorum": "“Sancta Sanctorum” Papal Chapel"
+        },
+        "u2b83": {
+            "1": "1"
+        },
+        "u2b99": {
+            "In collaborazione con": "In collaboration with"
+        },
+        "u2bbd": {
+            "Palazzo Lateranense": "Lateran Palace"
+        },
+        "u2beb": {
+            "2": "2"
+        },
+        "u2c18": {
+            "3": "3"
+        },
+        "u2c3a": {
+            "su richiesta:": "On request:"
+        },
+        "u2c50": {
+            "Iniziativa": "Initiative",
+            "Vatican&amp;Rome": "Vatican&amp;Rome"
+        },
+        "u2c67": {
+            "Da €23": "From €24"
+        },
+        "u2c7d": {
+            "con": "with"
+        },
+        "u29d9": {
+            "Il Palazzo Lateranense, sede papale e residenza ufficiale dei pontefici per molti secoli, è un luogo molto suggestivo grazie al suo fascino artistico, storico, culturale e religioso. Attraverso volte affrescate e magnifici soffitti ci si addentrerà in ciascuna sala per poter ammirare arazzi di pregevole fattura, quadri dei grandi maestri dell’epoca e pregiati mobili antichi fino ad arrivare all’appartamento privato del Vescovo di Roma. La proposta è pensata come nuovo strumento per vivere e conoscere la storia della Chiesa ed allo stesso tempo della città di Roma. Sarà per tutti un’opportunità per apprezzare da un nuovo punto di vista la spiritualità, l’arte, la cultura e la storia che il Palazzo Lateranense porta con sé.": "The Lateran Palace was the official residence of the popes for many centuries. Considering its history, it has a lot to offer from an artistic, cultural and religious point of view. Here each room you visit has frescoed vaults, magnificent ceilings, fine tapestries, and paintings by great masters. You can also find fine antique furniture, for example in the private Papal apartment. This visit is an opportunity to experience and learn about both the history of the Church and that of the city of Rome. Quite a bit to appreciate from the Lateran Palace!"
+        },
+        "u2aed": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u2b56": {
+            "LA TUA ESPERIENZA": "YOUR EXPERIENCE"
+        },
+        "u2bd4": {
+            "Chiostro della Basilica di San Giovanni in Laterano": "Cloister of the Basilica of Saint John Lateran"
+        }
+    },
+    "page-16": {
+        "u2cee": {
+            "OPEN BUS": "OPEN BUS"
+        },
+        "u2d04": {
+            "VATICAN&amp;ROME": "VATICAN&amp;ROME"
+        },
+        "u2d1a": {
+            "Un percorso autentico nel cuore della Città dove potrai salire e scendere da una qualsiasi delle fermate disposte strategicamente nei luoghi più interessanti della città. Potrai arricchire la conoscenza della storia di Roma e delle sue innumerevoli meraviglie grazie ad un sistema di audio guida multilingue.": "An authentic journey into the heart of the City. You'll be able to hop on and off at any of the stops along the way, strategically placed in the most interesting areas of the city. A multi-language audio guide will assist in enriching your knowledge of Rome's history and of its wonders.",
+            "La città di Roma è un museo a cielo aperto che potrai scoprire rilassandoti e ammirando un fantastico panorama a bordo dell’Open Bus Vatican&amp;Rome.": "The city of Rome is an open air museum, which you can explore in relaxation while you take in the amazing view, on board the Vatican&amp;Rome Open Bus."
+        },
+        "u2d30": {
+            "Incluso nella tua visita": "Included in your visit"
+        },
+        "u2d4d": {
+            "Disponibilità": "Availability"
+        },
+        "u2d63": {
+            "Tutti i giorni": "Every day"
+        },
+        "u2d80": {
+            "Durata": "Duration"
+        },
+        "u2d96": {
+            "1 ora e 30 minuti": "1 ½ hours",
+            "giro panoramico": "panoramic tour"
+        },
+        "u2dc4": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u2dda": {
+            "Da €12": "From €12"
+        },
+        "u2e00": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma imperdibile": "Essential Rome"
+        },
+        "u2e1a": {
+            "<a id=\"u6b59\" title=\"Collegamento ipertestuale 11\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b59\" title=\"Collegamento ipertestuale 11\">RESERVE YOUR VISIT</a>"
+        }
+    },
+    "page-17": {
+        "u2e99": {
+            "ROMA": "ROME"
+        },
+        "u2eaf": {
+            "In tasca": "In your pocket"
+        },
+        "u2ef1": {
+            "Roma in tasca": "Rome in your pocket"
+        },
+        "u2ec6": {
+            "Omnia è la City Card di Roma e della Città del Vaticano: musei, monumenti, trasporti, ingressi dedicati e molti altri vantaggi in un’unica card.": "Omnia is the City Card of Rome and Vatican City: with museums, monuments, transportation, priority entry and a plethora of other advantages, all in a single card."
         }
     }
 }
