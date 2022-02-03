@@ -1,0 +1,156 @@
+[
+    {
+        "sourceText": "BIGLIETTERIA",
+        "text": "BIGLIETTERIA",
+        "note": "",
+        "type": "text",
+        "storyId": "u638e"
+    },
+    {
+        "sourceText": "Emettiamo biglietteria ferroviaria, aerea e marittima; in particolare, offriamo soluzioni di viaggio su treni Alta Velocità, Freccia Rossa/Freccia Argento con quote dedicate e agevolazioni fino al 50%.",
+        "text": "Emettiamo biglietteria ferroviaria, aerea e marittima; in particolare, offriamo soluzioni di viaggio su treni Alta Velocità, Freccia Rossa/Freccia Argento con quote dedicate e agevolazioni fino al 50%.",
+        "note": "",
+        "type": "text",
+        "storyId": "u63a5"
+    },
+    {
+        "sourceText": "TRASPORTO",
+        "text": "TRASPORTO",
+        "note": "",
+        "type": "text",
+        "storyId": "u63bb"
+    },
+    {
+        "sourceText": "Ci occupiamo della prenotazione di trasferimenti privaticon pullman, auto e open bus avvalendoci di ditte fidelizzate per garantire la massima sicurezza e flessibilità.",
+        "text": "Ci occupiamo della prenotazione di trasferimenti privaticon pullman, auto e open bus avvalendoci di ditte fidelizzate per garantire la massima sicurezza e flessibilità.",
+        "note": "",
+        "type": "text",
+        "storyId": "u63d2"
+    },
+    {
+        "sourceText": "ASSISTENZA",
+        "text": "ASSISTENZA",
+        "note": "",
+        "type": "text",
+        "storyId": "u63e8"
+    },
+    {
+        "sourceText": "Il nostro staff qualificato e multilingue garantisce un’assistenza costante e attenta durante l’intera permanenza.",
+        "text": "Il nostro staff qualificato e multilingue garantisce un’assistenza costante e attenta durante l’intera permanenza.",
+        "note": "",
+        "type": "text",
+        "storyId": "u63ff"
+    },
+    {
+        "sourceText": "e accoglienza",
+        "text": "e accoglienza",
+        "note": "",
+        "type": "text",
+        "storyId": "u6415"
+    },
+    {
+        "sourceText": "Realizziamo e curiamo i contenuti di itinerari ed esperienze esclusive costruite su misura per singoli, famiglie e gruppi.",
+        "text": "Realizziamo e curiamo i contenuti di itinerari ed esperienze esclusive costruite su misura per singoli, famiglie e gruppi.",
+        "note": "",
+        "type": "text",
+        "storyId": "u642d"
+    },
+    {
+        "sourceText": "PROPOSTE DI VISITA",
+        "text": "PROPOSTE DI VISITA",
+        "note": "",
+        "type": "text",
+        "storyId": "u6443"
+    },
+    {
+        "sourceText": "tailor-made",
+        "text": "tailor-made",
+        "note": "",
+        "type": "text",
+        "storyId": "u6459"
+    },
+    {
+        "sourceText": "PERNOTTAMENTO",
+        "text": "PERNOTTAMENTO",
+        "note": "",
+        "type": "text",
+        "storyId": "u6470"
+    },
+    {
+        "sourceText": "a Roma e dintorni",
+        "text": "a Roma e dintorni",
+        "note": "",
+        "type": "text",
+        "storyId": "u6486"
+    },
+    {
+        "sourceText": "Proponiamo soluzioni di pernottamento presso strutture centrali o semi centrali con un’ampia possibilità di scelta tra case per ferie, alberghi, al fine di soddisfare le diverse esigenze.",
+        "text": "Proponiamo soluzioni di pernottamento presso strutture centrali o semi centrali con un’ampia possibilità di scelta tra case per ferie, alberghi, al fine di soddisfare le diverse esigenze.",
+        "note": "",
+        "type": "text",
+        "storyId": "u649c"
+    },
+    {
+        "sourceText": "Offriamo  un’ampia scelta di proposte di ristorazione presso strutture selezionate con la possibilità di servizio box lunch e/o catering presso location esclusive",
+        "text": "Offriamo  un’ampia scelta di proposte di ristorazione presso strutture selezionate con la possibilità di servizio box lunch e/o catering presso location esclusive",
+        "note": "",
+        "type": "text",
+        "storyId": "u64b3"
+    },
+    {
+        "sourceText": "RISTORAZIONE",
+        "text": "RISTORAZIONE",
+        "note": "",
+        "type": "text",
+        "storyId": "u64ca"
+    },
+    {
+        "sourceText": "Vatican&amp;Rome -",
+        "text": "Vatican&amp;Rome -",
+        "note": "",
+        "type": "text",
+        "storyId": "u6534"
+    },
+    {
+        "sourceText": "Roma accogliente",
+        "text": "Roma accogliente",
+        "note": "",
+        "type": "text",
+        "storyId": "u6534"
+    },
+    {
+        "sourceText": "COSA OFFRIAMO",
+        "text": "COSA OFFRIAMO",
+        "note": "",
+        "type": "text",
+        "storyId": "u654a"
+    },
+    {
+        "sourceText": "Arte, spiritualità, storia, cultura, natura ed enogastronomia sono alcuni degli ingredienti che potrai scegliere per rendere unica la tua esperienza a Roma.",
+        "text": "Arte, spiritualità, storia, cultura, natura ed enogastronomia sono alcuni degli ingredienti che potrai scegliere per rendere unica la tua esperienza a Roma.",
+        "note": "",
+        "type": "text",
+        "storyId": "u654a"
+    },
+    {
+        "sourceText": "Una variegata selezione di proposte e visite per un weekend in famiglia, una vacanza tra amici, un soggiorno per gruppi precostituiti saranno gli elementi per riscoprire il bello di stare insieme in una città dal fascino intramontabile.",
+        "text": "Una variegata selezione di proposte e visite per un weekend in famiglia, una vacanza tra amici, un soggiorno per gruppi precostituiti saranno gli elementi per riscoprire il bello di stare insieme in una città dal fascino intramontabile.",
+        "note": "",
+        "type": "text",
+        "storyId": "u654a"
+    },
+    {
+        "sourceText": "Un’esperienza curata nei minimi dettagli per fornire soluzioni di viaggio sempre nuove, dall’alloggio ai trasferimenti con un’assistenza costante ed attenta.",
+        "text": "Un’esperienza curata nei minimi dettagli per fornire soluzioni di viaggio sempre nuove, dall’alloggio ai trasferimenti con un’assistenza costante ed attenta.",
+        "note": "",
+        "type": "text",
+        "storyId": "u654a"
+    },
+    {
+        "sourceText": "cosa offriamo",
+        "text": "cosa offriamo",
+        "note": "",
+        "type": "text",
+        "storyId": "u6571"
+    }
+]
