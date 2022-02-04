@@ -171,6 +171,18 @@
         },
         "u1f23": {
             "<a id=\"u6b68\" title=\"Collegamento ipertestuale 6\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b68\" title=\"Collegamento ipertestuale 6\">RESERVE YOUR VISIT</a>"
+        },
+        "u1d48": {
+            "Durata": "Duration"
+        },
+        "u1dfa": {
+            "1": "1"
+        },
+        "u1e10": {
+            "2": "2"
+        },
+        "u1eee": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
         }
     },
     "page-11": {
@@ -308,6 +320,21 @@
         },
         "u1ff8": {
             "1": "1"
+        },
+        "u1fdd": {
+            "1": "1"
+        },
+        "u1ff3": {
+            "2": "2"
+        },
+        "u2099": {
+            "Durata": "Duration"
+        },
+        "u2118": {
+            "Carcer Tullianum": "Carcer Tullianum"
+        },
+        "u2181": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
         }
     },
     "page-1": {
@@ -326,6 +353,10 @@
         },
         "u5ac": {
             "COPERTINA": "COVER PAGE"
+        },
+        "u5f0": {
+            "Vatican": "Vatican",
+            "Rome": "Rome"
         }
     },
     "page-12": {
@@ -458,6 +489,24 @@
         },
         "u242a": {
             "<a id=\"u6b62\" title=\"Collegamento ipertestuale 8\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b62\" title=\"Collegamento ipertestuale 8\">RESERVE YOUR VISIT</a>"
+        },
+        "u22e3": {
+            "Durata": "Duration"
+        },
+        "u2243": {
+            "2": "2"
+        },
+        "u23df": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "u21eb": {
+            "CARCER": "CARCER"
+        },
+        "u2201": {
+            "TULLIANUM": "TULLIANUM"
+        },
+        "u222d": {
+            "1": "1"
         }
     },
     "page-13": {
@@ -565,6 +614,12 @@
         "u24b9": {
             "Questa visita vi porterà ad ammirare l’eccezionale stratificazione di memorie storiche e artistiche che testimoniano la vita e lo sviluppo dell’antica Roma.": "During this visit, you will be able to admire the exceptional historical stratification, which tells us about every day life in ancient Rome and its development over time.",
             "Il Carcer Tullianum, la prigione di massima sicurezza dove venivano imprigionati i nemici di Roma, il Colosseo, luogo che ha visto i giochi cruenti della Roma Imperiale, il Foro Romano, fulcro sociale, commerciale e religioso dell’antica Roma sin dai primi secoli della sua storia ed il Palatino, il luogo dove nacque questa città  intorno alla metà del VIII secolo a.C.": "Carcer Tullianum: the maximum security prison of ancient Rome where enemies of state were imprisoned; Colosseum: where cruel games of Imperial Rome were held; Roman Forum: the social, commercial and religious hub of ancient Rome from the first pages of its history; Palatine Hill, place where this city was born around the middle of the eighth century BC."
+        },
+        "u252c": {
+            "Durata": "Duration"
+        },
+        "u25cc": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
         }
     },
     "page-14": {
@@ -669,6 +724,15 @@
         },
         "u27b3": {
             "DI ROMA SOTTERRANEA CON…": "OF UNDERGROUND ROME WITH…"
+        },
+        "u26c1": {
+            "Durata": "Duration"
+        },
+        "u2782": {
+            "Carcer Tullianum": "Carcer Tullianum"
+        },
+        "u27f1": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
         }
     },
     "page-18": {
@@ -764,6 +828,21 @@
         },
         "u303d": {
             "Rendi il tuo soggiorno a Roma un’esperienza indimenticabile con la Omnia Card 72 ore, che oltre a permetterti di fruire di un’ampia scelta di servizi Vatican&amp;Rome, mette a tua disposizione la Roma Pass, una card del Comune di Roma che ti consente di accedere a oltre 40 siti archeologici e musei della città di Roma e di utilizzare il sistema di trasporto pubblico (metro e linee di superficie).": "Your stay in Rome can become an unforgettable experience using the Omnia Card 72 hours. In addition to offering a wide choice of Vatican&amp;Rome services, you also get a “Rome Pass”, the card of the city of Rome that gives access to over 40 archaeological sites and museums within the city as well as to public transportation (both subway and buses)."
+        },
+        "u2f5b": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u305b": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u2eb9": {
+            "OMNIA Card": "OMNIA Card"
+        },
+        "u3072": {
+            "OMNIA Card": "OMNIA Card"
+        },
+        "u30c1": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
         }
     },
     "page-15": {
@@ -849,6 +928,36 @@
         },
         "u2bd4": {
             "Chiostro della Basilica di San Giovanni in Laterano": "Cloister of the Basilica of Saint John Lateran"
+        },
+        "u29aa": {
+            "1": "1"
+        },
+        "u2ad3": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "u2966": {
+            "PALAZZO LATERANENSE": "LATERAN PALACE"
+        },
+        "u29c0": {
+            "2": "2"
+        },
+        "u2a43": {
+            "Durata": "Length"
+        },
+        "u2b3c": {
+            "1": "1"
+        },
+        "u2b76": {
+            "Palazzo Lateranense": "Lateran Palace"
+        },
+        "u2ba4": {
+            "2": "2"
+        },
+        "u2bba": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u2c09": {
+            "Vatican&amp;Rome": "Vatican&amp;Rome"
         }
     },
     "page-16": {
@@ -890,6 +999,18 @@
         },
         "u2e1a": {
             "<a id=\"u6b59\" title=\"Collegamento ipertestuale 11\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b59\" title=\"Collegamento ipertestuale 11\">RESERVE YOUR VISIT</a>"
+        },
+        "u2ca7": {
+            "VATICAN&amp;ROME": "VATICAN&amp;ROME"
+        },
+        "u2d23": {
+            "Durata": "Duration"
+        },
+        "u2da3": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "u2c91": {
+            "OPEN BUS": "OPEN BUS"
         }
     },
     "page-17": {
@@ -991,6 +1112,18 @@
         },
         "u15d5": {
             "4": "4"
+        },
+        "u1456": {
+            "Durata": "Duration"
+        },
+        "u1560": {
+            "1": "1"
+        },
+        "u1576": {
+            "2": "2"
+        },
+        "u165d": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
         }
     },
     "page-6": {
@@ -1082,6 +1215,64 @@
         },
         "u11c1": {
             "Ingresso prioritario": "Priority entrance"
+        },
+        "u1094": {
+            "MUSEI VATICANI": "VATICAN MUSEUMS"
+        },
+        "u10aa": {
+            "&amp; CAPPELLA SISTINA": "&amp; SISTINE CHAPEL"
+        },
+        "u10c0": {
+            "I Musei Vaticani, da sempre considerati il polo museale più importante della Città del Vaticano, vi sorprenderanno con i loro tesori. Non si limitano ad accogliere le ricche collezioni di arte, archeologia ed etno-antropologia create dai Pontefici nel corso dei secoli, ma comprendono anche alcuni dei luoghi più esclusivi e significativi dei Palazzi Apostolici. Visitarli vuol dire scoprire i più alti capolavori di arte di tutti i tempi e le più preziose testimonianze del passato.": "You will be surprised by the cultural treasures that can be found in the Vatican Museums, which have always been considered one of the most important museum institutions in the world. Not only can you visit the exclusive art collections, archaeological artefacts, and items of ethnographic interest, but you can also visit some of the more significant areas of the Apostolic Palaces which contain some of the most famous artistic masterpieces of all times and some of the greatest treasures of the past."
+        },
+        "u10de": {
+            "Disponibilità": "Availability"
+        },
+        "u10f4": {
+            "Dal Lunedì al Sabato": "From Monday to Saturday"
+        },
+        "u110a": {
+            "Venerdì e Sabato sera": "Friday and Saturday evening",
+            "da Aprile ad Ottobre": "from April to October"
+        },
+        "u1120": {
+            "Incluso nella tua visita": "Included in your visit"
+        },
+        "u1136": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u114c": {
+            "Durata": "Duration"
+        },
+        "u1162": {
+            "2 ore circa": "about 2 hours"
+        },
+        "u11a5": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u11bc": {
+            "Ingresso prioritario": "Priority entrance"
+        },
+        "u11fb": {
+            "ITINERARIO": "ITINERARY"
+        },
+        "u1211": {
+            "Cortile Della Pigna": "The Pinecone Courtyard"
+        },
+        "u1240": {
+            "1": "1"
+        },
+        "u1256": {
+            "2": "2"
+        },
+        "u12c6": {
+            "Cappella Sistina": "Sistine Chapel"
+        },
+        "u134c": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "u1229": {
+            "Museo Pio Clementino": "Pio Clementino Museum"
         }
     },
     "page-8": {
@@ -1167,6 +1358,21 @@
         "u16f6": {
             "Incantevoli in qualsiasi periodo dell’anno, le Ville Pontificie di Castel Gandolfo sono un equilibrio unico tra natura ed arte. Durante questa visita si potranno apprezzare i tesori che i Giardini delle Ville Pontificie offrono. Insieme a Villa Cybo e Villa Barberini, la Residenza di Castel Gandolfo costituisce il complesso delle Ville Pontificie, le quali vantano splendidi giardini ed un parco meraviglioso.": "Enchanting at any time of the year, the Pontifical Villas of Castel Gandolfo are a unique balance between nature and art. Come appreciate the treasures that the Gardens of the Pontifical Villas offer. Together with Villa Cybo and Villa Barberini, the Castel Gandolfo Residence forms the complex of Pontifical Villas with their splendid gardens and marvelous park.",
             "Sarà inoltre possibile ammirare il Palazzo Apostolico, utilizzato in passato come residenza estiva dei Papi, oggi divenuto Museo. La visita sarà un viaggio nel tempo attraverso dipinti, cimeli, abiti liturgici e divise.": "Admire the Apostolic Palace, which for centuries was used as a summer residence of the Popes, and is now a museum. Take a journey through time as you admire the paintings, the relics, the liturgical garb and the uniforms."
+        },
+        "u1789": {
+            "Durata": "Duration"
+        },
+        "u17db": {
+            "1": "1"
+        },
+        "u17f1": {
+            "2": "2"
+        },
+        "u188e": {
+            "Anfiteatro Romano": "Roman Amphitheater"
+        },
+        "u1927": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
         }
     },
     "page-19": {
@@ -1251,6 +1457,15 @@
         },
         "u35eb": {
             "In collaborazione con": "In collaboration with"
+        },
+        "u33a6": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u3364": {
+            "Durata": "Duration"
+        },
+        "u3509": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
         }
     },
     "page-21": {
@@ -1305,6 +1520,15 @@
         },
         "u381c": {
             "Terra Santa a Roma": "Holy Land in Rome"
+        },
+        "u35ef": {
+            "Durata": "Duration"
+        },
+        "u3631": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u373b": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
         }
     },
     "page-22": {
@@ -1359,6 +1583,15 @@
         },
         "u38ac": {
             "Durata": "Duration"
+        },
+        "u37e1": {
+            "Durata": "Duration"
+        },
+        "u3823": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u395e": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
         }
     },
     "page-9": {
@@ -1441,6 +1674,238 @@
         },
         "u1ab0": {
             "Durata": "Duration"
+        },
+        "u1a95": {
+            "Durata": "Duration"
+        },
+        "u1b51": {
+            "1": "1"
+        },
+        "u1b67": {
+            "2": "2"
+        },
+        "u1c06": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        }
+    },
+    "page-23": {
+        "u3b6f": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "u3a09": {
+            "Durata": "Duration"
+        },
+        "u3a4b": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u3ad4": {
+            "Carcer Tullianum": "Carcer Tullianum"
+        }
+    },
+    "page-25": {
+        "u3e14": {
+            "Durata": "Length"
+        },
+        "u3e9d": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u3f83": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        }
+    },
+    "page-28": {
+        "u4445": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "u42ab": {
+            "Durata": "Duration"
+        },
+        "u42ed": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        }
+    },
+    "page-30": {
+        "u478f": {
+            "Durata": "Duration"
+        },
+        "u4920": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "u494c": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        }
+    },
+    "page-32": {
+        "u4d9c": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "u4c99": {
+            "Durata": "Duration"
+        }
+    },
+    "page-35": {
+        "u557d": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "u5406": {
+            "Durata": "Duration"
+        }
+    },
+    "page-42": {
+        "u6425": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        }
+    },
+    "page-40": {
+        "u5e01": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "u5fc3": {
+            "OPEN BUS": "OPEN BUS"
+        }
+    },
+    "page-44": {
+        "u66ab": {
+            "a partire da": "starting from"
+        },
+        "u6652": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "u68d8": {
+            "a partire da": "starting from"
+        },
+        "u66fe": {
+            "a partire da": "starting from"
+        },
+        "u67a7": {
+            "a partire da": "starting from"
+        },
+        "u6812": {
+            "a partire da": "starting from"
+        },
+        "u6895": {
+            "a partire da": "starting from"
+        }
+    },
+    "page-4": {
+        "u830": {
+            "Carcer Tullianum": "Carcer Tullianum"
+        },
+        "uf4e": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "ua14": {
+            "Carcer Tullianum": "Carcer Tullianum"
+        }
+    },
+    "page-2": {
+        "u663": {
+            "Vatican": "Vatican",
+            "Rome": "Rome"
+        }
+    },
+    "page-43": {
+        "u64e4": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "u64fa": {
+            ".": "."
+        },
+        "u656c": {
+            "*": "*"
+        }
+    },
+    "page-26": {
+        "u4014": {
+            "Durata": "Duration"
+        },
+        "u4056": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u416b": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        }
+    },
+    "page-29": {
+        "u4515": {
+            "Durata": "Duration"
+        },
+        "u4557": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u45f4": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        }
+    },
+    "page-31": {
+        "u49fb": {
+            "Durata": "Duration"
+        },
+        "u4a3d": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u4bc3": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        }
+    },
+    "page-33": {
+        "u4e31": {
+            "Durata": "Duration"
+        },
+        "u4f39": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        }
+    },
+    "page-34": {
+        "u5093": {
+            "Durata": "Duration"
+        },
+        "u50d5": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u535b": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        }
+    },
+    "page-36": {
+        "u56c6": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        }
+    },
+    "page-24": {
+        "u3bea": {
+            "Durata": "Duration"
+        },
+        "u3c2c": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u3d64": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        }
+    },
+    "page-38": {
+        "u58ed": {
+            "CARCER": "CARCER"
+        },
+        "u5903": {
+            "TULLIANUM": "TULLIANUM"
+        },
+        "u593c": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "u5a7f": {
+            "PALAZZO LATERANENSE": "LATERAN PALACE"
+        }
+    },
+    "page-39": {
+        "u5be0": {
+            "MUSEI VATICANI": "VATICAN MUSEUMS"
+        },
+        "u5cb5": {
+            "MUSEI VATICANI": "VATICAN MUSEUMS"
+        },
+        "u5bca": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
         }
     }
 }
