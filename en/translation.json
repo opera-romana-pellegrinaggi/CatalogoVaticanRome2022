@@ -697,6 +697,73 @@
         },
         "u3010": {
             "Basilica di San Giovanni in Laterano e Chiostro con audioguida e ingresso al Museo del Tesoro": "Basilica of Saint John Lateran and Cloister, with an audio guide and entry to the Museum of the Treasury"
+        },
+        "u31c8": {
+            "Roma Pass (solo per il titolo adulto)": "Rome Pass (included in the adult fee)"
+        },
+        "u31fc": {
+            "<a id=\"u6b53\" title=\"Collegamento ipertestuale 13\">OTTIENI LA TUA OMNIACARD 24H</a>": "<a id=\"u6b53\" title=\"Collegamento ipertestuale 13\">GET YOUR OMNIACARD 24H</a>"
+        },
+        "u3055": {
+            "Musei Vaticani e Cappella Sistina": "Vatican Museums and Sistine Chapel"
+        },
+        "u306d": {
+            "App audioguida multilingue per la Basilica di San Pietro": "Multi-language audioguide app for Saint Peter's Basilica"
+        },
+        "u316b": {
+            "Quota intera": "Full fee"
+        },
+        "u3184": {
+            "Quota intera": "Full fee"
+        },
+        "u314a": {
+            "Roma in tasca": "Rome in your pocket",
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "u31a4": {
+            "Quota ridotta": "Reduced fee"
+        },
+        "u3085": {
+            "Ingresso Carcer Tullianum con supporto multimediale": "Entrance to Carcer Tullianum (Mamertine prison) with multimedia support"
+        },
+        "u309d": {
+            "Basilica di San Giovanni in Laterano e Chiostro con audioguida e ingresso al Museo del Tesoro": "Basilica of Saint John Lateran and Cloister, with an audio guide and entry to the Museum of the Treasury"
+        },
+        "u30b5": {
+            "Ingresso ai sotterranei della Basilica di Santa Maria in Via Lata": "Entrance to the underground crypt of the Basilica of Santa Maria in Via Lata"
+        },
+        "u30cc": {
+            "Se il tuo soggiorno a Roma è breve, scegli di vivere un’esperienza indimenticabile con la Omnia Card 24 ore e scopri i tesori di Roma con agevolazioni e condizioni uniche.": "If your stay in Rome is a short one, you can choose the Omnia Card 24 hours to accompany your unforgettable experience, allowing you to discover the treasures of Rome with numerous concessions and favorable conditions."
+        },
+        "u30e4": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u30fb": {
+            "OMNIA Card": "OMNIA Card"
+        },
+        "u3111": {
+            "72h": "72h"
+        },
+        "u31e2": {
+            "<a id=\"u6b56\" title=\"Collegamento ipertestuale 12\">OTTIENI LA TUA OMNIACARD 72H</a>": "<a id=\"u6b56\" title=\"Collegamento ipertestuale 12\">GET YOUR OMNIACARD 72H</a>"
+        },
+        "u321b": {
+            "Quota ridotta": "Reduced fee"
+        },
+        "u323a": {
+            "€129": "€129"
+        },
+        "u3250": {
+            "€59": "€59"
+        },
+        "u3266": {
+            "€69": "€69"
+        },
+        "u327c": {
+            "€49": "€49"
+        },
+        "u303d": {
+            "Rendi il tuo soggiorno a Roma un’esperienza indimenticabile con la Omnia Card 72 ore, che oltre a permetterti di fruire di un’ampia scelta di servizi Vatican&amp;Rome, mette a tua disposizione la Roma Pass, una card del Comune di Roma che ti consente di accedere a oltre 40 siti archeologici e musei della città di Roma e di utilizzare il sistema di trasporto pubblico (metro e linee di superficie).": "Your stay in Rome can become an unforgettable experience using the Omnia Card 72 hours. In addition to offering a wide choice of Vatican&amp;Rome services, you also get a “Rome Pass”, the card of the city of Rome that gives access to over 40 archaeological sites and museums within the city as well as to public transportation (both subway and buses)."
         }
     },
     "page-15": {
@@ -837,6 +904,9 @@
         },
         "u2ec6": {
             "Omnia è la City Card di Roma e della Città del Vaticano: musei, monumenti, trasporti, ingressi dedicati e molti altri vantaggi in un’unica card.": "Omnia is the City Card of Rome and Vatican City: with museums, monuments, transportation, priority entry and a plethora of other advantages, all in a single card."
+        },
+        "u2e74": {
+            "Omnia Vatican &amp; Romeè l’unico pass ufficialeper vedere Roma": "Omnia Vatican &amp; Rome is the only official pass to see Rome and the Vatican"
         }
     },
     "page-7": {
@@ -1020,6 +1090,357 @@
         },
         "u16e0": {
             "DI CASTEL GANDOLFO": "OF CASTEL GANDOLFO"
+        },
+        "u174c": {
+            "Disponibilità": "Availability"
+        },
+        "u1762": {
+            "Tutti i giorni": "Every day"
+        },
+        "u1778": {
+            "Incluso nella tua visita": "Included in your visit"
+        },
+        "u178e": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u17a4": {
+            "Durata": "Duration"
+        },
+        "u17ba": {
+            "2 ore circa": "about 2 hours"
+        },
+        "u17d1": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u17f6": {
+            "1": "1"
+        },
+        "u180c": {
+            "2": "2"
+        },
+        "u1822": {
+            "3": "3"
+        },
+        "u1838": {
+            "4": "4"
+        },
+        "u184e": {
+            "5": "5"
+        },
+        "u1864": {
+            "ITINERARIO": "ITINERARY"
+        },
+        "u187a": {
+            "Palazzo Apostolico": "Apostolic Palace"
+        },
+        "u1892": {
+            "Villa Barberini": "Villa Barberini Gardens"
+        },
+        "u18a9": {
+            "Anfiteatro Romano": "Roman Amphitheater"
+        },
+        "u18c0": {
+            "Giardini del Belvedere": "Belvedere Gardens"
+        },
+        "u18d7": {
+            "Giardino della Magnolia": "Magnolia Garden"
+        },
+        "u18ef": {
+            "CONSIGLIATO": "RECOMMENDED"
+        },
+        "u1914": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u192a": {
+            "Da €23": "From €23"
+        },
+        "u1942": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma imperdibile": "Essential Rome"
+        },
+        "u195c": {
+            "<a id=\"u6b6e\" title=\"Collegamento ipertestuale 4\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b6e\" title=\"Collegamento ipertestuale 4\">RESERVE YOUR VISIT</a>"
+        },
+        "u1972": {
+            "Residenza Pontificia di castel gandolfo": "Pontifical Residence of Castel Gandolfo"
+        },
+        "u16f6": {
+            "Incantevoli in qualsiasi periodo dell’anno, le Ville Pontificie di Castel Gandolfo sono un equilibrio unico tra natura ed arte. Durante questa visita si potranno apprezzare i tesori che i Giardini delle Ville Pontificie offrono. Insieme a Villa Cybo e Villa Barberini, la Residenza di Castel Gandolfo costituisce il complesso delle Ville Pontificie, le quali vantano splendidi giardini ed un parco meraviglioso.": "Enchanting at any time of the year, the Pontifical Villas of Castel Gandolfo are a unique balance between nature and art. Come appreciate the treasures that the Gardens of the Pontifical Villas offer. Together with Villa Cybo and Villa Barberini, the Castel Gandolfo Residence forms the complex of Pontifical Villas with their splendid gardens and marvelous park.",
+            "Sarà inoltre possibile ammirare il Palazzo Apostolico, utilizzato in passato come residenza estiva dei Papi, oggi divenuto Museo. La visita sarà un viaggio nel tempo attraverso dipinti, cimeli, abiti liturgici e divise.": "Admire the Apostolic Palace, which for centuries was used as a summer residence of the Popes, and is now a museum. Take a journey through time as you admire the paintings, the relics, the liturgical garb and the uniforms."
+        }
+    },
+    "page-19": {
+        "u3372": {
+            "Lontano dal clamore dei siti più conosciuti, si scopre una Roma insolita piena di luoghi nascosti e percorsi alternativi a quelli tradizionali. Passeggiate romane alla scoperta di piccoli gioielli nascosti nelle vie del centro e non solo. Chiese, musei, rioni, parchi, basiliche, sotterranei e terrazze offriranno storie e curiosità tutte da scoprire.": "Far from the clamor of the more famous sites, you can also discover a less well known Rome with hidden corners and alternate routes compared to the traditional ones. Take a stroll to discover hidden jewels both in and around the city center. Hear stories and untold peculiarities about churches, museums, districts, parks, basilicas, basements and terraces."
+        },
+        "u3307": {
+            "Vivi Roma attraverso le sue strade e vicoli, in cerca di curiosità e luoghi": "Experience Rome in all its nooks and crannies"
+        },
+        "u332f": {
+            "ROMA": "ROME"
+        },
+        "u3345": {
+            "Insolita": "Unwonted"
+        },
+        "u335b": {
+            "per tutte le età": "for all ages"
+        },
+        "u3388": {
+            "ROMA INSOLITA per tutte le età": "UNWONTED ROME for all ages"
+        }
+    },
+    "page-20": {
+        "u3403": {
+            "La visita ripercorrerà le testimonianze della città di Roma. Cammineremo insieme attraverso le memorie dell’Impero Romano disseminate tra le strade e le piazze dove echeggiano le testimonianze cristiane, la fede dei Martiri e dei Santi, l’arte impregnata di spiritualità nel corso dei secoli, la scenografia dell’architettura.": "Retrace the steps traced in ages past by the Roman Emperors, discover the traces left by the Christian martyrs, and follow in the footsteps of so many Saints who have walked before us in these same streets. Contemplate the stories of the Gospel and of those who put it into practice in a heroic manner, as told by the works of art and by the architectural masterpieces.",
+            "Nel cuore di Roma si intrecciano luoghi simbolo della bellezza e dello spirito.": "In the heart of Rome, artistic beauty and spiritual afflatus join together."
+        },
+        "u3419": {
+            "Durata": "Duration"
+        },
+        "u33d7": {
+            "IL CUORE": "THE HEART"
+        },
+        "u33ed": {
+            "DI ROMA": "OF ROME"
+        },
+        "u342f": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u3445": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u345b": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u3471": {
+            "Itinerario": "Itinerary"
+        },
+        "u3487": {
+            "Piazza Navona": "Piazza Navona"
+        },
+        "u349d": {
+            "Pantheon": "Pantheon"
+        },
+        "u34b3": {
+            "Santa Maria in Via Lata": "Santa Maria in Via Lata"
+        },
+        "u34c9": {
+            "San Marcello al Corso": "San Marcello al Corso"
+        },
+        "u34df": {
+            "Fontana di Trevi": "Trevi Fountain"
+        },
+        "u34f6": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u3524": {
+            "Insolita": "Unwonted"
+        },
+        "u3591": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u35a7": {
+            "Da €15": "From €15"
+        },
+        "u35be": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma insolita per tutte le età": "Unwonted Rome for all ages"
+        },
+        "u35d4": {
+            "Museo di Roma": "Museum of Rome (Palazzo Braschi)"
+        },
+        "u35eb": {
+            "In collaborazione con": "In collaboration with"
+        }
+    },
+    "page-21": {
+        "u365b": {
+            "Roma è custode anche della memoria di avvenimenti del Vangelo attraverso reliquie e testimonianze disseminate in siti e basiliche. Questi luoghi possono essere visitati con un cammino a tappe, da Santa Croce in Gerusalemme fino a Santa Maria Maggiore. Passo dopo passo potrà ricordare la vicenda terrena di Gesù e l’inizio del Cristianesimo in un pellegrinaggio che potrà anticipare e preparare un viaggio in Terra Santa.": "Rome preserves the memory of Gospel events through so many relics kept in various basilicas and churches. Discover the most significant Christian relics along a path that starts at the Basilica of Holy Cross in Jerusalem and ends at the Basilica of Saint Mary Major. Relive events from the life of Jesus and of the Apostles. Get a taste of the Holy Land here in Rome, in anticipation of an actual pilgrimage to the places of the Gospel in the Holy Land."
+        },
+        "u368e": {
+            "TERRA SANTA": "HOLY LAND"
+        },
+        "u36a4": {
+            "A ROMA": "IN ROME"
+        },
+        "u36ba": {
+            "Durata": "Duration"
+        },
+        "u36d0": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u36e6": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u36fc": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u3714": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u373f": {
+            "Itinerario": "Itinerary"
+        },
+        "u3755": {
+            "Santa Maria Maggiore": "Saint Mary Major"
+        },
+        "u376b": {
+            "Santa Croce in Gerusalemme": "Holy Cross in Jerusalem"
+        },
+        "u3781": {
+            "San Giovanni in Laterano": "Saint John Lateran"
+        },
+        "u37c1": {
+            "Insolita": "Unwonted"
+        },
+        "u37d9": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u37ef": {
+            "Da €15": "From €15"
+        },
+        "u3806": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "insolita per tutte le età": "unwonted for all ages"
+        },
+        "u381c": {
+            "Terra Santa a Roma": "Holy Land in Rome"
+        }
+    },
+    "page-22": {
+        "u3896": {
+            "L’itinerario pone l’attenzione su alcune icone venerate dal popolo romano. Attraverso le vie di Roma si percorrerà un cammino fatto di devozione e di fede che toccherà luoghi sacri, custodi di icone considerate miracolose dai credenti. Oggetto di devozione, portate in processione, invocate per la guarigione, le icone mariane sono ancora oggi memoria di Maria, Madre di tutti noi. A Santa Maria in via Lata andremo a visitare la Madonna Advocata, cammineremo verso Santa Francesca Romana e verso Santa Maria in Aracoeli per proseguire fino a Santa Maria Maggiore dove si incontreranno la protettrice di Roma,  Maria Salus Populi Romani.": "The focus of this itinerary is on those icons revered over the centuries by the Roman people, that are among the oldest extant icons in the world, and are often considered to have somewhat of a miraculous nature, or to tell a story that is none less than miraculous. Take a journey through faith and devotion. As objects of devotion, the icons have been carried in procession, invoked for healing, and still today are a living memory of Mary, Mother of us all, and of Jesus, son of God and son of Mary. At Santa Maria in via Lata, we will remember Saint Luke who dwelled there, and who was the first iconographer in history. At Santa Maria in Aracoeli, we will invoke the Madonna Advocata. At Santa Francesca Romana we will pay homage to the oldest known marian icon, “Our Lady of Comfort”. And last but not least, we will meet the patroness of Rome, Mary “Salus Populi Romani” in the Basilica of Saint Mary Major, whom the Popes themselves greet before and after their journeys abroad."
+        },
+        "u3973": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u38c2": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u386a": {
+            "ICONE MARIANE": "MARIAN ICONS"
+        },
+        "u3880": {
+            "MIRACOLOSE": "MIRACULOUS"
+        },
+        "u38d8": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u38ee": {
+            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u3904": {
+            "Itinerario": "Itinerary"
+        },
+        "u391a": {
+            "Santa Maria in via Lata": "Santa Maria in Via Lata"
+        },
+        "u3930": {
+            "Santa Maria in Aracoeli": "Santa Maria in Aracoeli"
+        },
+        "u3946": {
+            "Santa Francesca Romana": "Santa Francesca Romana"
+        },
+        "u395c": {
+            "Santa Maria Maggiore": "Saint Mary Major"
+        },
+        "u399e": {
+            "Insolita": "Unwonted"
+        },
+        "u39fc": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u3a12": {
+            "Da €15": "From €15"
+        },
+        "u3a29": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma insolita per tutte le età": "Unwonted Rome for all ages"
+        },
+        "u38ac": {
+            "Durata": "Duration"
+        }
+    },
+    "page-9": {
+        "u19aa": {
+            "BASILICA": "BASILICA"
+        },
+        "u19c0": {
+            "DI SAN PIETRO": "OF SAINT PETER"
+        },
+        "u1a3b": {
+            "Visita guidata Musei Vaticani": "Guided visit Vatican Museums"
+        },
+        "u19d6": {
+            "La magnifica facciata del ‘700 di Carlo Maderno e il Colonnato del Bernini danno il benvenuto alla Città Eterna con un simbolico abbraccio. Lasciati accogliere da questo abbraccio per scoprire la storia senza fine di questo luogo di fede.": "The magnificent 18th century façade by Carlo Maderno and the Colonnade by Bernini symbolically embrace pilgrims arriving in the Eternal City. The embrace of Saint Peter's Basilica welcomes you for your visit as you come and discover the endless history of faith and charitable works.",
+            "Attraverso un percorso di arte, fede e spiritualità potrai ammirare la magnificenza della costruzione, percorrere le navate, visitare le cappelle e soffermarti ad ammirare la bellezza delle numerose opere d’arte, tra cui La Pietà di Michelangelo.": "Admire not only the magnificence of the building and the beauty of the artwork, but come follow along a path of faith and spirituality. As you walk through the naves of the Basilica, stop to visit the side chapels and listen to the Gospel message that the works of art convey. As for example Michelangelo's Pietà, which not only is a masterpiece of all time, but also assists us in contemplating the Paschal mystery."
+        },
+        "u1a58": {
+            "Disponibilità": "Availability"
+        },
+        "u1a6e": {
+            "Tutti i giorni": "Every day"
+        },
+        "u1ac6": {
+            "2 ore circa": "about 2 hours"
+        },
+        "u1add": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u1b11": {
+            "ITINERARIO": "ITINERARY"
+        },
+        "u1b27": {
+            "CONSIGLIATO": "RECOMMENDED"
+        },
+        "u1b3d": {
+            "Pietà di Michelangelo": "Michelangelo's Pietà"
+        },
+        "u1b55": {
+            "Baldacchino del Bernini": "Bernini's Baldachin"
+        },
+        "u1b6c": {
+            "1": "1"
+        },
+        "u1b82": {
+            "2": "2"
+        },
+        "u1b98": {
+            "Cattedra di San Pietro": "Cathedra of Saint Peter"
+        },
+        "u1baf": {
+            "3": "3"
+        },
+        "u1bc5": {
+            "Tombe dei Papi": "Tombs of the Popes"
+        },
+        "u1bdc": {
+            "4": "4"
+        },
+        "u1bf3": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u1c09": {
+            "Da €5": "From €5"
+        },
+        "u1c21": {
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma imperdibile": "Essential Rome"
+        },
+        "u1c3b": {
+            "<a id=\"u6b6b\" title=\"Collegamento ipertestuale 5\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b6b\" title=\"Collegamento ipertestuale 5\">RESERVE YOUR VISIT</a>"
+        },
+        "u1c51": {
+            "Basilica di san pietro": "Saint Peter's Basilica"
+        },
+        "u1a84": {
+            "Incluso nella tua visita": "Included in your visit"
+        },
+        "u1a9a": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u1ab0": {
+            "Durata": "Duration"
         }
     }
 }
