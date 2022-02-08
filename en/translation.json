@@ -1,8 +1,5 @@
 {
     "page-10": {
-        "u1641": {
-            "Battistero": "Baptistery"
-        },
         "u1f23": {
             "<a id=\"u6b68\" title=\"Collegamento ipertestuale 6\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b68\" title=\"Collegamento ipertestuale 6\">RESERVE YOUR VISIT</a>"
         },
@@ -93,9 +90,6 @@
         }
     },
     "page-11": {
-        "u2088": {
-            "Incluso nella tua visita": "Included in your visit"
-        },
         "u1fdd": {
             "1": "1"
         },
@@ -170,9 +164,6 @@
         }
     },
     "page-12": {
-        "u228a": {
-            "Arricchisci la tua esperienza": "Enrich your experience"
-        },
         "u22e3": {
             "Durata": "Duration"
         },
@@ -236,9 +227,6 @@
         }
     },
     "page-13": {
-        "u25a0": {
-            "Prenotazione obbligatoria": "Reservations required"
-        },
         "u25e6": {
             "<a id=\"u6aa5\" title=\"Collegamento ipertestuale 9\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6aa5\" title=\"Collegamento ipertestuale 9\">RESERVE YOUR VISIT</a>"
         },
@@ -292,9 +280,6 @@
         }
     },
     "page-14": {
-        "u294a": {
-            "<a id=\"u6b5c\" title=\"Collegamento ipertestuale 10\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b5c\" title=\"Collegamento ipertestuale 10\">RESERVE YOUR VISIT</a>"
-        },
         "u26c1": {
             "Durata": "Duration"
         },
