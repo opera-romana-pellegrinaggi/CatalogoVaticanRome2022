@@ -157,7 +157,11 @@
     "page-1": {
         "u5f0": {
             "Vatican": "Vatican",
-            "Rome": "Rome"
+            "Rome": "Rome",
+            "&amp;": "&amp;"
+        },
+        "u5a7": {
+            "COPERTINA": "COVER PAGE"
         }
     },
     "page-12": {
@@ -623,7 +627,7 @@
             "Roma imperdibile": "Essential Rome"
         },
         "u13e1": {
-            "I Giardini Vaticani occupano circa due terzi della superficie della Città del Vaticano e sono il luogo di riposo e di meditazione dei Pontefici sin dal 1279. E’ possibile ammirare le bellezze naturalistiche ed architettoniche dei Giardini Vaticani con una visita guidata oppure in un modo nuovo, inedito e sostenibile: seduti comodamente a bordo di un minibus panoramico si potrà accedere alla quiete e ai tesori botanici del “cuore verde” del Vaticano lungo un suggestivo percorso tra arte, natura e fede.": "The Vatican Gardens occupy about two thirds of the surface area of Vatican City, and have been a place where the Popes have gone to relax and meditate since the year 1279. You can admire the natural beauty and architectural wonders of the Vatican Gardens with a guided visit. Or, you can choose to have your visit in an unprecedented and sustainable fashion: on board a panoramic minibus where the silence of the \"green heart\" of the Vatican will permeate an evocative tour along paths of art, nature, and faith."
+            "I Giardini Vaticani occupano circa due terzi della superficie della Città del Vaticano e sono il luogo di riposo e di meditazione dei Pontefici sin dal 1279. E’ possibile ammirare le bellezze naturalistiche ed architettoniche dei Giardini Vaticani con una visita guidata oppure in un modo nuovo, inedito e sostenibile: seduti comodamente a bordo di un minibus panoramico si potrà accedere alla quiete e ai tesori botanici del “cuore verde” del Vaticano lungo un suggestivo percorso tra arte, natura e fede.": "The Vatican Gardens occupy about two thirds of the surface area of Vatican City. The Popes have come to relax and meditate here since the year 1279 AD. You can admire the natural beauty and architectural wonders of the Vatican Gardens with a guided visit. Or, you can choose to have your visit in an unprecedented and sustainable fashion: on board a panoramic minibus where the silence of the \"green heart\" of the Vatican will permeate an evocative tour along paths of art, nature, and faith."
         },
         "u13b5": {
             "GIARDINI": "GARDENS"
@@ -1460,14 +1464,112 @@
     "page-42": {
         "u6425": {
             "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        },
+        "u627f": {
+            "BIGLIETTERIA": "BOOKING OFFICE"
+        },
+        "u6296": {
+            "Emettiamo biglietteria ferroviaria, aerea e marittima; in particolare, offriamo soluzioni di viaggio su treni Alta Velocità, Freccia Rossa/Freccia Argento con quote dedicate e agevolazioni fino al 50%.": "We issue railway, air and sea tickets; specifically, we offer discounted prices and concessions up to 50% off of High Speed, Freccia Rossa/Freccia Argento trains."
+        },
+        "u62ac": {
+            "TRASPORTO": "TRANSPORTATION"
+        },
+        "u62d9": {
+            "ASSISTENZA": "ASSISTANCE"
+        },
+        "u62f0": {
+            "Il nostro staff qualificato e multilingue garantisce un’assistenza costante e attenta durante l’intera permanenza.": "Our fully qualified and multilingual staff guarantee continuous and attentive assistance all through your stay."
+        },
+        "u62c3": {
+            "Ci occupiamo della prenotazione di trasferimenti privaticon pullman, auto e open bus avvalendoci di ditte fidelizzate per garantire la massima sicurezza e flessibilità.": "We take care of making reservations for private transportation by bus, car and open bus, with loyal companies that guarantee the best security and flexibility."
         }
     },
     "page-40": {
         "u5e01": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma esclusiva": "Exclusive Rome"
         },
         "u5fc3": {
             "OPEN BUS": "OPEN BUS"
+        },
+        "u5e67": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u5ea7": {
+            "Quota su richiesta": "Price on request"
+        },
+        "u5ebe": {
+            "eventi@operaromanapellegrinaggi.org": "eventi@operaromanapellegrinaggi.org"
+        },
+        "u5ed5": {
+            "CATACOMBE": "CATACOMBS"
+        },
+        "u5eeb": {
+            "DI ROMA": "OF ROME"
+        },
+        "u610d": {
+            "eventi@operaromanapellegrinaggi.org": "eventi@operaromanapellegrinaggi.org"
+        },
+        "u60b7": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u60f7": {
+            "Quota su richiesta": "Price on request"
+        },
+        "u613d": {
+            "Palazzo Apostolico &amp; Ville Pontifice di Castel gandolfo": "Apostolic Palace &amp; Pontifical Villas of Castel Gandolfo",
+            "a porte chiuse": "Behind closed doors"
+        },
+        "u5e17": {
+            "PALAZZO APOSTOLICO": "APOSTOLIC PALACE"
+        },
+        "u5e2d": {
+            "&amp; VILLE PONTIFICE DI CASTEL GANDOLFO": "&amp; PONTIFICAL VILLAS OF CASTELGANDOLFO"
+        },
+        "u5f19": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u5f2f": {
+            "eventi@operaromanapellegrinaggi.org": "eventi@operaromanapellegrinaggi.org"
+        },
+        "u5f46": {
+            "A porte chiuse": "Behind closed doors"
+        },
+        "u5f86": {
+            "Quota su richiesta": "Price on request"
+        },
+        "u5f9c": {
+            "eventi@operaromanapellegrinaggi.org": "eventi@operaromanapellegrinaggi.org"
+        },
+        "u5fd9": {
+            "IN ESCLUSIVA": "EXCLUSIVE USE"
+        },
+        "u602e": {
+            "Quota su richiesta": "Price on request"
+        },
+        "u6074": {
+            "BASILICA": "BASILICA"
+        },
+        "u608a": {
+            "DI SANTA MARIA IN VIA LATA": "OF SANTA MARIA IN VIA LATA"
+        },
+        "u6153": {
+            "Catacombe di roma": "Catacombs of Rome"
+        },
+        "u6169": {
+            "Basilica di santa maria in via Lata": "Basilica Santa Maria in Via Lata"
+        },
+        "u617f": {
+            "Open Bus in esclusiva": "Exclusive use of the Open Bus"
+        },
+        "u5fef": {
+            "Una “Location” insolita e autentica per vivere un’esperienza  di “evento itinerante” a bordo di un Open Bus per le strade di Roma.": "An unwonted and authentic Venue for an event “on the move” on board an Open Bus in the streets of Rome."
+        },
+        "u6006": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u6045": {
+            "eventi@operaromanapellegrinaggi.org": "eventi@operaromanapellegrinaggi.org"
         }
     },
     "page-44": {
@@ -1871,7 +1973,79 @@
     },
     "page-36": {
         "u56c6": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma che forma e informa": "Rome that forms and informs"
+        },
+        "u5605": {
+            "LA VILLA DELLE MERAVIGLIE": "VILLA OF WONDERS"
+        },
+        "u561b": {
+            "VILLA TORLONIA": "VILLA TORLONIA"
+        },
+        "u5633": {
+            "Grazie a": "Thanks to",
+            "percorsi dedicati, visite guidate, letture di opere d’arte, laboratori manuali, spazi creativi e narrazioni": "dedicated routes, guided visits, interpretation of art, manual workshops, creative areas and storytelling",
+            "grandi e piccini avranno la possibilità di conoscere la storia della famiglia Torlonia e della residenza fuori porta che i principi vollero farsi costruire.": "both adults and kids will have the opportunity to learn about the history of the Torlonia family and about the residence outside the city walls which the princes had built."
+        },
+        "u5649": {
+            "Roma che forma e info": "Rome that forms and informs"
+        },
+        "u566c": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u5699": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u56af": {
+            "Da €15": "From €15"
+        },
+        "u56e0": {
+            "Casina delle Civette": "House of the Owls"
+        },
+        "u56f8": {
+            "Casino Nobile": "Casino Nobile"
+        },
+        "u5710": {
+            "Serra Moresca": "Serra Moresca"
+        },
+        "u5727": {
+            "ITINERARIO": "ITINERARY"
+        },
+        "u573f": {
+            "Il Casino dei Principi": "House of the Princes"
+        },
+        "u5756": {
+            "Il Casino Medievale e Technotown": "Medieval House and Technotown"
+        },
+        "u578e": {
+            "Laboratori didattici": "Workshops"
+        },
+        "u57a4": {
+            "Sarà un viaggio esperienziale alla scoperta delle diverse tipologie costruttive esistenti nella villa: un tempio antico (": "A journey of discovery of different architectural types in the villa: an ancient temple (",
+            "tempio di Saturno": "temple of Saturn",
+            "), la paludata villa di residenza (": "), the bogged villa (",
+            "Casino Nobile": "Casino Nobile",
+            "), la casina-rifugio (": "), the refuge (",
+            "Casina delle Civette": "House of the Owls",
+            "), il campo da gioco (": "), the playground (",
+            "Campo da Tornei": "Tournament court",
+            "la Serra Moresca": "Moorish Greenhouse",
+            "), il luogo degli spettacoli (": "), the amusement area (",
+            "il teatro": "theatre",
+            "),": "),",
+            "la Casa dei Cavalli": "House of the Horses",
+            "(": "(",
+            "le vecchie Scuderie": "the old Stables",
+            "), la coloratissima serra esotica (": "), the very colorful exotic greenhouse (",
+            "), la casa dei figli del principe (": "), the house of the prince's sons (",
+            "il Casino dei Principi": "House of the Princes",
+            "). La presenza di elementi naturalistici e floreali in tutte le decorazioni interne ed esterne renderà possibile una lettura non solo da un punto di vista artistico, ma anche botanico e naturalistico.": "). The presence of natural and floral elements in the internal and external decorations give rise to the opportunity to learn not only about artistic aspects, but also about plantlife and nature."
+        },
+        "u57ba": {
+            "In collaborazione con": "In collaboration with"
+        },
+        "u57dc": {
+            "La Villa delle Meraviglie: Villa Torlonia": "The Villa of Wonders: Villa Torlonia"
         }
     },
     "page-24": {
@@ -1933,10 +2107,56 @@
             "TULLIANUM": "TULLIANUM"
         },
         "u593c": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma esclusiva": "Exclusive Rome"
         },
         "u5a7f": {
             "PALAZZO LATERANENSE": "LATERAN PALACE"
+        },
+        "u5952": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u5992": {
+            "Quota su richiesta": "Price on request"
+        },
+        "u59c0": {
+            "PALAZZO": "PALACE"
+        },
+        "u59d6": {
+            "MAFFEI MARESCOTTI": "MAFFEI MARESCOTTI"
+        },
+        "u59a9": {
+            "eventi@operaromanapellegrinaggi.org": "eventi@operaromanapellegrinaggi.org"
+        },
+        "u5a12": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u5a52": {
+            "Quota su richiesta": "Price on request"
+        },
+        "u5a68": {
+            "eventi@operaromanapellegrinaggi.org": "eventi@operaromanapellegrinaggi.org"
+        },
+        "u5a95": {
+            "LA CASA DEL VESCOVO DI ROMA": "HOUSE OF THE BISHOP OF ROME"
+        },
+        "u5ac2": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u5b02": {
+            "Quota su richiesta": "Price on request"
+        },
+        "u5b19": {
+            "eventi@operaromanapellegrinaggi.org": "eventi@operaromanapellegrinaggi.org"
+        },
+        "u5b4d": {
+            "CARCER Tullianum": "CARCER Tullianum"
+        },
+        "u5b63": {
+            "Palazzo Maffei marescotti": "Palazzo Maffei Marescotti"
+        },
+        "u5b79": {
+            "Palazzo Lateranense, la Casa del Vescovo di roma": "Lateran Palace, house of the Bishop of Rome"
         }
     },
     "page-39": {
@@ -1947,7 +2167,44 @@
             "MUSEI VATICANI": "VATICAN MUSEUMS"
         },
         "u5bca": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma esclusiva": "Exclusive Rome"
+        },
+        "u5c23": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u5c63": {
+            "Quota su richiesta": "Price on request"
+        },
+        "u5bf6": {
+            "&amp; CAPPELLA SISTINA": "&amp; SISTINE CHAPEL"
+        },
+        "u5c7a": {
+            "eventi@operaromanapellegrinaggi.org": "eventi@operaromanapellegrinaggi.org"
+        },
+        "u5ccb": {
+            "&amp; CAPPELLA SISTINA": "&amp; SISTINE CHAPEL"
+        },
+        "u5cf8": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u5d38": {
+            "Quota su richiesta": "Price on request"
+        },
+        "u5d4e": {
+            "eventi@operaromanapellegrinaggi.org": "eventi@operaromanapellegrinaggi.org"
+        },
+        "u5d65": {
+            "Alba con il Clavigero": "Sunrise with the Keyholder"
+        },
+        "u5d99": {
+            "Apertura in notturna con degustazione": "Nighttime opening with aperitif"
+        },
+        "u5daf": {
+            "Musei Vaticani &amp; Cappella Sistina - Alba con il Clavigero": "Vatican Museums &amp; Sistine Chapel - Sunrise with the Keyholder"
+        },
+        "u5dc5": {
+            "Musei vaticani &amp; Cappella Sistina - Apertuna in notturna con degustazione": "Vatican Museums &amp; Sistine Chapel - Nighttime opening with aperitif"
         }
     },
     "page-27": {
@@ -1965,6 +2222,37 @@
         },
         "u41d8": {
             "ROMA": "ROME"
+        }
+    },
+    "page-41": {
+        "u61e8": {
+            "ROMA": "ROME"
+        },
+        "u61fe": {
+            "Accogliente": "Hospitable"
+        },
+        "u6214": {
+            "Vivi con noil’esperienza di Romain uno o più giorni": "Live your experience of Rome with us for one or more days"
+        },
+        "u622a": {
+            "ROMA ACCOGLIENTE": "HOSPITABLE ROME"
+        },
+        "u61d2": {
+            "Cosa rende unica Roma?": "What makes Rome unique?"
+        }
+    },
+    "page-37": {
+        "u582c": {
+            "Visite private,aperture straordinarie,eventi riservati": "Private visits, extraordinary openings, private events"
+        },
+        "u5871": {
+            "ROMA": "ROME"
+        },
+        "u5887": {
+            "Esclusiva": "Exclusive"
+        },
+        "u589d": {
+            "ROMA ESCLUSIVA": "EXCLUSIVE ROME"
         }
     }
 }
