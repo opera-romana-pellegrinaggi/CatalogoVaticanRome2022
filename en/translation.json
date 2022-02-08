@@ -1,13 +1,7 @@
 {
     "page-10": {
-        "u168a": {
-            "5": "5"
-        },
         "u1641": {
             "Battistero": "Baptistery"
-        },
-        "u1de7": {
-            "Basilica": "Basilica"
         },
         "u1f23": {
             "<a id=\"u6b68\" title=\"Collegamento ipertestuale 6\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b68\" title=\"Collegamento ipertestuale 6\">RESERVE YOUR VISIT</a>"
@@ -99,14 +93,8 @@
         }
     },
     "page-11": {
-        "u196d": {
-            "COSTRUISCI IL TUO PERCORSO": "CUSTOMIZE YOUR ITINERARY"
-        },
         "u2088": {
             "Incluso nella tua visita": "Included in your visit"
-        },
-        "u1fb2": {
-            "Nei sotterranei sono ancora visibili i resti di un vasto edificio di epoca romana che, nel VII secolo, venne trasformato in un edificio di culto.": "In the crypt, remains of a large Roman period edifice are still visible; in the 7th century, it was transformed into a place of worship."
         },
         "u1fdd": {
             "1": "1"
@@ -182,14 +170,8 @@
         }
     },
     "page-12": {
-        "u2f9c": {
-            "Prenotazione obbligatoria": "Reservations required"
-        },
         "u228a": {
             "Arricchisci la tua esperienza": "Enrich your experience"
-        },
-        "u242a": {
-            "<a id=\"u6b62\" title=\"Collegamento ipertestuale 8\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b62\" title=\"Collegamento ipertestuale 8\">RESERVE YOUR VISIT</a>"
         },
         "u22e3": {
             "Durata": "Duration"
@@ -254,9 +236,6 @@
         }
     },
     "page-13": {
-        "u8d79": {
-            "Quota a partire da": "Fees starting from"
-        },
         "u25a0": {
             "Prenotazione obbligatoria": "Reservations required"
         },
@@ -313,9 +292,6 @@
         }
     },
     "page-14": {
-        "u27e0": {
-            "Basilica di S. Maria in Via Lata": "Basilica Santa Maria in Via Lata"
-        },
         "u294a": {
             "<a id=\"u6b5c\" title=\"Collegamento ipertestuale 10\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b5c\" title=\"Collegamento ipertestuale 10\">RESERVE YOUR VISIT</a>"
         },
@@ -416,9 +392,6 @@
         "u2fe4": {
             "App audioguida multilingue per la Basilica di San Pietro": "Multi-language audioguide app for Saint Peter's Basilica"
         },
-        "u30e4": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
-        },
         "u30fb": {
             "Quota intera": "Full fee"
         },
@@ -511,9 +484,6 @@
         }
     },
     "page-15": {
-        "u2b83": {
-            "1": "1"
-        },
         "u29aa": {
             "1": "1"
         },
@@ -657,9 +627,6 @@
         }
     },
     "page-7": {
-        "u15be": {
-            "Grotta di Lourdes": "Lourdes Grotto"
-        },
         "u1456": {
             "Durata": "Duration"
         },
@@ -744,9 +711,6 @@
         }
     },
     "page-6": {
-        "u129e": {
-            "Stanze di Raffaello": "Raphael Rooms"
-        },
         "u1094": {
             "MUSEI VATICANI": "VATICAN MUSEUMS"
         },
@@ -838,9 +802,6 @@
         }
     },
     "page-8": {
-        "u187a": {
-            "Palazzo Apostolico": "Apostolic Palace"
-        },
         "u1789": {
             "Durata": "Duration"
         },
@@ -946,9 +907,6 @@
         }
     },
     "page-20": {
-        "u3524": {
-            "Insolita": "Unwonted"
-        },
         "u33a6": {
             "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
         },
@@ -1013,9 +971,6 @@
         }
     },
     "page-21": {
-        "u3806": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
-        },
         "u35ef": {
             "Durata": "Duration"
         },
@@ -1070,9 +1025,6 @@
         }
     },
     "page-22": {
-        "u3a29": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
-        },
         "u37e1": {
             "Durata": "Duration"
         },
@@ -1127,9 +1079,6 @@
         }
     },
     "page-9": {
-        "u1b98": {
-            "Cattedra di San Pietro": "Cathedra of Saint Peter"
-        },
         "u1a95": {
             "Durata": "Duration"
         },
