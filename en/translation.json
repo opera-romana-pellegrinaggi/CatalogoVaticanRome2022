@@ -1463,7 +1463,8 @@
     },
     "page-42": {
         "u6425": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma accogliente": "Hospitable Rome"
         },
         "u627f": {
             "BIGLIETTERIA": "BOOKING OFFICE"
@@ -1482,6 +1483,13 @@
         },
         "u62c3": {
             "Ci occupiamo della prenotazione di trasferimenti privaticon pullman, auto e open bus avvalendoci di ditte fidelizzate per garantire la massima sicurezza e flessibilità.": "We take care of making reservations for private transportation by bus, car and open bus, with loyal companies that guarantee the best security and flexibility."
+        },
+        "u643b": {
+            "COSA OFFRIAMO": "WHAT WE OFFER",
+            "Arte, spiritualità, storia, cultura, natura ed enogastronomia sono alcuni degli ingredienti che potrai scegliere per rendere unica la tua esperienza a Roma.": "Art, spirituality, history, culture, nature and food-tasting are a few of the ingredients that you can choose from, so as to turn your visit in Rome into a unique experience."
+        },
+        "u6462": {
+            "cosa offriamo": "what we offer"
         }
     },
     "page-40": {
@@ -1577,7 +1585,8 @@
             "a partire da": "starting from"
         },
         "u6652": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma accogliente": "Hospitable Rome"
         },
         "u68d8": {
             "a partire da": "starting from"
@@ -1593,6 +1602,83 @@
         },
         "u6895": {
             "a partire da": "starting from"
+        },
+        "u65e2": {
+            "A ROMA": "IN ROME",
+            "SUI PASSI DEGLI APOSTOLI": "IN THE FOOTSTEPS OF THE APOSTLES"
+        },
+        "u65f8": {
+            "PRIMI CRISTIANI": "FIRST CHRISTIANS",
+            "E NUOVI PELLEGRINI": "AND NEW PILGRIMS"
+        },
+        "u660e": {
+            "VERSO FRANCESCO TRA FEDE,": "TO SAINT FRANCIS WITH FAITH,",
+            "SPERANZA E CARITÀ": "HOPE AND CHARITY"
+        },
+        "u667e": {
+            "A": "IN",
+            "ROMA": "ROME",
+            "SUI PASSIDEGLI APOSTOLI": "IN THE FOOTSTEPS OF THE APOSTLES"
+        },
+        "u676b": {
+            ",CITTÀ FORTUNATA,INVINCIBILE ED ETERNA”": ", A CITY THAT IS AUSPICIOUS, INVINCIBLE AND ETERNAL”",
+            "“VISITARE": "“VISIT",
+            "ROMA": "ROME"
+        },
+        "u68ab": {
+            "€70": "€70"
+        },
+        "u68c1": {
+            "€370": "€370"
+        },
+        "u6751": {
+            "€250": "€250"
+        },
+        "u6791": {
+            "8 GIORNI 7 NOTTI": "8 DAYS 7 NIGHTS"
+        },
+        "u67bd": {
+            "€1.050": "€1.050"
+        },
+        "u67d4": {
+            "VERSO": "TO",
+            "FRANCESCO": "SAINT FRANCIS",
+            "TRA FEDE,SPERANZAE CARITÀ": "WITH FAITH, HOPE AND CHARITY"
+        },
+        "u6695": {
+            "4 GIORNI 3 NOTTI": "4 DAYS 3 NIGHTS"
+        },
+        "u66d1": {
+            "PRIMI": "FIRST",
+            "CRISTIANI": "CHRISTIANS",
+            "E NUOVI": "AND NEW",
+            "PELLEGRINI": "PILGRIMS"
+        },
+        "u67fc": {
+            "2 GIORNI 1 NOTTE": "2 DAYS 1 NIGHT"
+        },
+        "u6828": {
+            "€180": "€180"
+        },
+        "u6842": {
+            "ROMA": "ROME",
+            "UN SALOTTO DA ATTRAVERSARE IN PUNTA DI PIEDI": "A PARLOUR TO CROSS ON THE TIP OF YOUR TOES"
+        },
+        "u66e8": {
+            "6 GIORNI 5 NOTTI": "6 DAYS 5 NIGHTS"
+        },
+        "u6714": {
+            "€680": "€680"
+        },
+        "u673b": {
+            "3 GIORNI 2 NOTTI": "3 DAYS 2 NIGHTS"
+        },
+        "u6868": {
+            "ROMA": "ROME",
+            "MUSEO A CIELO APERTO OVUNQUE SI GUARDI": "OPEN AIR MUSEUM EVERYWHERE YOU LOOK"
+        },
+        "u687f": {
+            "1 GIORNO": "1 DAY"
         }
     },
     "page-4": {
@@ -1604,23 +1690,316 @@
         },
         "ua14": {
             "Carcer Tullianum": "Carcer Tullianum"
+        },
+        "ua40": {
+            "Palazzo Lateranense, La casa del Vescovo di Roma": "Lateran Palace, house of the Bishop of Rome"
+        },
+        "ua82": {
+            "Residenza Pontificia di Castel Gandolfo a porte chiuse": "Pontifical Residence of Castel Gandolfo behind closed doors"
+        },
+        "u780": {
+            "SOMMARIO": "SUMMARY"
+        },
+        "u7ee": {
+            "Basilica di San Pietro": "Saint Peter's Basilica"
+        },
+        "u804": {
+            "Complesso Lateranense": "Lateran complex"
+        },
+        "u796": {
+            "Roma imperdibile": "Essential Rome"
+        },
+        "u7ac": {
+            "Musei Vaticani e Cappella Sistina": "Vatican Museums and Sistine Chapel"
+        },
+        "u7c2": {
+            "Giardini Vaticani": "Vatican Gardens"
+        },
+        "u7d8": {
+            "Residenza Pontificia di Castel Gandolfo": "Pontifical Residence of Castel Gandolfo"
+        },
+        "u8b4": {
+            "Terra Santa a Roma": "Holy Land in Rome"
+        },
+        "u8ca": {
+            "Le Icone Mariane Miracolose": "Miraculous Marian Icons"
+        },
+        "u8e0": {
+            "Roma Giudaica": "Jewish Rome"
+        },
+        "u8f6": {
+            "Le Botteghe Storiche del centro": "Historic Shops in the center"
+        },
+        "u90c": {
+            "Roma Regina Aquarum": "Rome Regina Aquarum"
+        },
+        "u94e": {
+            "La Roma degli Obelischi": "The Rome of the Obelisks"
+        },
+        "u964": {
+            "Roma Istituzionale": "Institutional Rome"
+        },
+        "u97a": {
+            "Il Quartiere Ostiense e la Centrale Montemartini": "The Ostiense Neighborhood and the Centrale Montemartini"
+        },
+        "u922": {
+            "Bisanzio a Roma": "Byzantium in Rome"
+        },
+        "u938": {
+            "Roma che forma e informa": "Rome that forms and informs"
+        },
+        "u990": {
+            "Ogni targa racconta una storia": "Every plaque has a story to tell"
+        },
+        "ucae": {
+            "36": "36"
+        },
+        "ucc4": {
+            "39": "39"
+        },
+        "ucda": {
+            "40": "40"
+        },
+        "ucf0": {
+            "43": "43"
+        },
+        "uc56": {
+            "30": "30"
+        },
+        "uc6c": {
+            "32": "32"
+        },
+        "uc82": {
+            "33": "33"
+        },
+        "uc98": {
+            "34": "34"
+        },
+        "ud06": {
+            "44": "44"
+        },
+        "ud1c": {
+            "47": "47"
+        },
+        "ud32": {
+            "48": "48"
+        },
+        "ud74": {
+            "55": "55"
+        },
+        "ud8a": {
+            "56": "56"
+        },
+        "ud48": {
+            "50": "50"
+        },
+        "ud5e": {
+            "52": "52"
+        },
+        "ue66": {
+            "74": "74"
+        },
+        "ue7c": {
+            "75": "75"
+        },
+        "ue92": {
+            "76": "76"
+        },
+        "uf00": {
+            "80": "80"
+        },
+        "udcc": {
+            "63": "63"
+        },
+        "ude2": {
+            "64": "64"
+        },
+        "udf8": {
+            "67": "67"
+        },
+        "ue0e": {
+            "70": "70"
+        },
+        "ue24": {
+            "72": "72"
+        },
+        "ue3a": {
+            "72": "72"
+        },
+        "ue50": {
+            "73": "73"
+        },
+        "uea8": {
+            "76": "76"
+        },
+        "uebe": {
+            "77": "77"
+        },
+        "ued4": {
+            "77": "77"
+        },
+        "ueea": {
+            "78": "78"
+        },
+        "u81a": {
+            "Basilica di Santa Maria in via Lata": "Basilica Santa Maria in Via Lata"
+        },
+        "u846": {
+            "Roma in tasca": "Rome in your pocket"
+        },
+        "u85c": {
+            "Omnia Vatican&amp;Rome 24h": "Omnia Vatican&amp;Rome 24h"
+        },
+        "u872": {
+            "Omnia Vatican&amp;Rome 72h": "Omnia Vatican&amp;Rome 72h"
+        },
+        "u888": {
+            "Roma insolita per tutte le età": "Unwonted Rome for all ages"
+        },
+        "u89e": {
+            "Il Cuore di Roma": "The Heart of Rome"
+        },
+        "u9a6": {
+            "Parco degli Acquedotti": "Park of the Aqueducts"
+        },
+        "u9bc": {
+            "Villa Borghese: gioca, inventa, crea": "Villa Borghese: play, invent, create"
+        },
+        "u9d2": {
+            "Safari d’arte a Roma": "Art safari in Rome"
+        },
+        "u9e8": {
+            "Sulle tracce di Romolo e Remo": "on the trail of Romulus and Remus"
+        },
+        "u9fe": {
+            "Roma esclusiva": "Exclusive Rome"
+        },
+        "ua2a": {
+            "Palazzo Maffei Marescotti": "Palazzo Maffei Marescotti"
+        },
+        "ua56": {
+            "Musei Vaticani e Cappella Sistina -": "Vatican Museums and Sistine Chapel",
+            "Apertura in notturna con degustazione": "Nighttime opening with aperitif"
+        },
+        "ua6c": {
+            "Musei Vaticani e Cappella Sistina - Alba con il Clavigero": "Vatican Museums and Sistine Chapel - Sunrise with the Keyholder"
+        },
+        "ua98": {
+            "Catacombe di Roma": "Catacombs of Rome"
+        },
+        "uaae": {
+            "Basilica di Santa Maria in via Lata": "Basilica Santa Maria in Via Lata"
+        },
+        "uada": {
+            "Open Bus in esclusiva": "Exclusive use of the Open Bus"
+        },
+        "uaf0": {
+            "Roma accogliente": "Hospitable Rome"
+        },
+        "ub06": {
+            "Cosa offriamo": "What we offer"
+        },
+        "ub22": {
+            "6": "6"
+        },
+        "ub38": {
+            "8": "8"
+        },
+        "ub4e": {
+            "11": "11"
+        },
+        "ub64": {
+            "12": "12"
+        },
+        "ub7a": {
+            "15": "15"
+        },
+        "ub90": {
+            "16": "16"
+        },
+        "uba6": {
+            "19": "19"
+        },
+        "ubbc": {
+            "20": "20"
+        },
+        "ubd2": {
+            "Parco Archeologico del Colosseo e Carcer Tullianum": "Archaeological Park of the Colosseum and Carcer Tullianum"
+        },
+        "ube8": {
+            "23": "23"
+        },
+        "ubfe": {
+            "Catacombe di Roma": "Catacombs of Rome"
+        },
+        "uc14": {
+            "24": "24"
+        },
+        "uc2a": {
+            "Palazzo Lateranense, Casa del Vescovo di Roma": "Lateran Palace, house of the Bishop of Rome"
+        },
+        "uc40": {
+            "27": "27"
+        },
+        "uda0": {
+            "59": "59"
+        },
+        "udb6": {
+            "60": "60"
         }
     },
     "page-2": {
         "u663": {
             "Vatican": "Vatican",
-            "Rome": "Rome"
+            "Rome": "Rome",
+            "&amp;": "&amp;"
         }
     },
     "page-43": {
         "u64e4": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma accogliente": "Hospitable Rome"
         },
         "u64fa": {
-            ".": "."
+            ".": ".",
+            "Trenitalia": "Trenitalia",
+            "siamo in grado di offrire a tutti i nostri Amici un’": "we can offer our Friends an",
+            "esclusiva proposta": "exclusive offer",
+            "Grazie ad un accordo di collaborazione con": "Thanks to an agreement with",
+            "per visitare  le più belle città della nostra penisola ad un": "to visit the best cities of the Italian peninsula",
+            "costo veramente sorprendente": "at convenient rates"
         },
         "u656c": {
             "*": "*"
+        },
+        "u64cc": {
+            "ORPportunità": "ORPportunity",
+            "che aspettavi!": "that you were waiting for!",
+            "Tra tutti i mezzi di trasporto, il": "Out of all the means of transportation, the",
+            "treno": "train",
+            "è quello che più": "is the most",
+            "L’": "The",
+            "rispetta l’ambiente…": "respectful of the environment…",
+            "?": "?",
+            "ed allora perché non sceglierlo per raggiungere": "so why not choose it to reach",
+            "Roma": "Rome",
+            ", potrai goderti il tuo viaggio rilassandoti e pianificando le tue giornate nella città eterna…": ", you can enjoy your trip by relaxing and planning your days in the Eternal City…",
+            "a tutto il resto ci pensiamo noi!": "we will take care of the rest!",
+            "Tornare ad organizzare un week-end è finalmente alla portata di tutti": "Organizing a weekend is again within everyone's possibilities"
+        },
+        "u6511": {
+            "L’offerta prevede un biglietto del treno andata/ritorno a tariffa speciale comprensivo di pernottamento in hotel 3*": "The offer includes a two way train ticket at a special price, as well as a night in a 3* hotel",
+            "(sistemazione in camera doppia con prima colazione).": "(accommodation in a double room with breakfast).",
+            "Partenza da tutte le città collegate dalla rete ferroviaria verso tutte le mete artistiche, paesaggistiche e storiche d’Italia, con minimo un pernottamento in hotel.": "Departures from all the cities that are connected to the railway network, to all of the artistic, naturalistic and historic centers in Italy, with at least one night in a hotel."
+        },
+        "u652a": {
+            "Quota a partire da:": "Fees starting from:"
+        },
+        "u6540": {
+            "€89": "€89"
+        },
+        "u6556": {
+            "a persona*": "per person*"
         }
     },
     "page-26": {
@@ -2253,6 +2632,44 @@
         },
         "u589d": {
             "ROMA ESCLUSIVA": "EXCLUSIVE ROME"
+        }
+    },
+    "page-3": {
+        "u72f": {
+            "<a id=\"u6abd\" title=\"Collegamento ipertestuale 3\">SCOPRI DI PI&Ugrave;</a>": "<a id=\"u6abd\" title=\"Collegamento ipertestuale 3\">DISCOVER MORE</a>"
+        },
+        "u6e8": {
+            "OMNIAVatican &amp; Rome": "OMNIA Vatican &amp; Rome"
+        },
+        "u6fe": {
+            "OPERA ROMANA PELLEGRINAGGI": "OPERA ROMANA PELLEGRINAGGI"
+        }
+    },
+    "page-46": {
+        "u690c": {
+            "Informazioni e prenotazioni": "Info and booking"
+        },
+        "u6923": {
+            "Dal lunedì al sabato dalle 9.00 alle 17.00": "Monday to Saturday, 9 AM to 5 PM"
+        },
+        "u6942": {
+            "Tel. 06 69896379": "Phone 06 69896379"
+        },
+        "u698c": {
+            "Sede Centrale": "Headquarters"
+        },
+        "u6959": {
+            "info@omniavaticanrome.org": "info@omniavaticanrome.org"
+        },
+        "u6972": {
+            "www.omniavaticanrome.org": "www.omniavaticanrome.org"
+        },
+        "u69a2": {
+            "Palazzo Maffei Marescotti": "Palazzo Maffei Marescotti",
+            "Via della Pigna 13/a - 00186 Roma": "Via della Pigna 13/a - 00186 Roma"
+        },
+        "u69c7": {
+            "<a id=\"u6a8e\" title=\"Collegamento ipertestuale 14\">CONTATTACI</a>": "<a id=\"u6a8e\" title=\"Collegamento ipertestuale 14\">CONTACT US</a>"
         }
     }
 }
