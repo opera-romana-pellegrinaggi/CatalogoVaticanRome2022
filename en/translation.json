@@ -1,25 +1,13 @@
 {
     "page-10": {
-        "u2d14": {
-            "2 ore circa": "about 2 hours"
-        },
         "u168a": {
             "5": "5"
-        },
-        "u1421": {
-            "La Basilica di San Giovanni in Laterano, definita “Mater et Caput” di tutte le chiese di Roma e del mondo, è la Cattedrale di Roma e sede episcopale del Santo Padre.": "The Basilica of Saint John Lateran, defined “Mater et Caput” of all the churches in Rome and in the world, is the Cathedral of Rome and the episcopal seat of the Holy Father."
         },
         "u1641": {
             "Battistero": "Baptistery"
         },
-        "u1d21": {
-            "Disponibilità": "Availability"
-        },
         "u1de7": {
             "Basilica": "Basilica"
-        },
-        "u1e9b": {
-            "e Sancta Sanctorum": "and Sancta Sanctorum"
         },
         "u1f23": {
             "<a id=\"u6b68\" title=\"Collegamento ipertestuale 6\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b68\" title=\"Collegamento ipertestuale 6\">RESERVE YOUR VISIT</a>"
@@ -111,20 +99,11 @@
         }
     },
     "page-11": {
-        "u1a11": {
-            "2": "2"
-        },
         "u196d": {
             "COSTRUISCI IL TUO PERCORSO": "CUSTOMIZE YOUR ITINERARY"
         },
-        "ue7c6": {
-            "<a id=\"ue7ed\" title=\"Collegamento ipertestuale 7\">PRENOTA LA TUA VISITA</a>": "<a id=\"ue7bb\" title=\"Collegamento ipertestuale 7\">RESERVE YOUR VISIT</a>"
-        },
         "u2088": {
             "Incluso nella tua visita": "Included in your visit"
-        },
-        "u2149": {
-            "Catacombe di Roma": "Catacombs of Rome"
         },
         "u1fb2": {
             "Nei sotterranei sono ancora visibili i resti di un vasto edificio di epoca romana che, nel VII secolo, venne trasformato in un edificio di culto.": "In the crypt, remains of a large Roman period edifice are still visible; in the 7th century, it was transformed into a place of worship."
@@ -197,29 +176,17 @@
         }
     },
     "page-1": {
-        "u5ac": {
-            "COPERTINA": "COVER PAGE"
-        },
         "u5f0": {
             "Vatican": "Vatican",
             "Rome": "Rome"
         }
     },
     "page-12": {
-        "u1e15": {
-            "1": "1"
-        },
         "u2f9c": {
             "Prenotazione obbligatoria": "Reservations required"
         },
-        "ue7f8": {
-            "<a id=\"ue81f\" title=\"Collegamento ipertestuale 8\">PRENOTA LA TUA VISITA</a>": "<a id=\"ue7bb\" title=\"Collegamento ipertestuale 8\">RESERVE YOUR VISIT</a>"
-        },
         "u228a": {
             "Arricchisci la tua esperienza": "Enrich your experience"
-        },
-        "u23b8": {
-            "Catacombe di Roma": "Catacombs of Rome"
         },
         "u242a": {
             "<a id=\"u6b62\" title=\"Collegamento ipertestuale 8\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b62\" title=\"Collegamento ipertestuale 8\">RESERVE YOUR VISIT</a>"
@@ -287,14 +254,8 @@
         }
     },
     "page-13": {
-        "u20b4": {
-            "prioritario": "priority"
-        },
         "u8d79": {
             "Quota a partire da": "Fees starting from"
-        },
-        "u24a3": {
-            "&amp; PARCO ARCHEOLOGICO DEL COLOSSEO": "&amp; COLOSSEUM ARCHAEOLOGICAL PARK COMBO"
         },
         "u25a0": {
             "Prenotazione obbligatoria": "Reservations required"
@@ -352,14 +313,8 @@
         }
     },
     "page-14": {
-        "u26dc": {
-            "Tutti i giorni": "Every day"
-        },
         "u27e0": {
             "Basilica di S. Maria in Via Lata": "Basilica Santa Maria in Via Lata"
-        },
-        "u2890": {
-            "Domitilla": "Domitilla"
         },
         "u294a": {
             "<a id=\"u6b5c\" title=\"Collegamento ipertestuale 10\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b5c\" title=\"Collegamento ipertestuale 10\">RESERVE YOUR VISIT</a>"
@@ -459,20 +414,13 @@
     },
     "page-18": {
         "u2fe4": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus",
             "App audioguida multilingue per la Basilica di San Pietro": "Multi-language audioguide app for Saint Peter's Basilica"
-        },
-        "u3184": {
-            "Quota intera": "Full fee"
         },
         "u30e4": {
             "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
         },
         "u30fb": {
             "Quota intera": "Full fee"
-        },
-        "u303d": {
-            "Rendi il tuo soggiorno a Roma un’esperienza indimenticabile con la Omnia Card 72 ore, che oltre a permetterti di fruire di un’ampia scelta di servizi Vatican&amp;Rome, mette a tua disposizione la Roma Pass, una card del Comune di Roma che ti consente di accedere a oltre 40 siti archeologici e musei della città di Roma e di utilizzare il sistema di trasporto pubblico (metro e linee di superficie).": "Your stay in Rome can become an unforgettable experience using the Omnia Card 72 hours. In addition to offering a wide choice of Vatican&amp;Rome services, you also get a “Rome Pass”, the card of the city of Rome that gives access to over 40 archaeological sites and museums within the city as well as to public transportation (both subway and buses)."
         },
         "u2f5b": {
             "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
@@ -563,14 +511,8 @@
         }
     },
     "page-15": {
-        "u2a8a": {
-            "Durata": "Duration"
-        },
         "u2b83": {
             "1": "1"
-        },
-        "u2c67": {
-            "Da €23": "From €24"
         },
         "u29aa": {
             "1": "1"
@@ -657,9 +599,6 @@
         }
     },
     "page-16": {
-        "u2d80": {
-            "Durata": "Duration"
-        },
         "u2ca7": {
             "VATICAN&amp;ROME": "VATICAN&amp;ROME"
         },
@@ -718,14 +657,8 @@
         }
     },
     "page-7": {
-        "u1419": {
-            "Dal Lunedì al Sabato": "From Monday to Saturday"
-        },
         "u15be": {
             "Grotta di Lourdes": "Lourdes Grotto"
-        },
-        "u14ce": {
-            "Prenotazione obbligatoria": "Reservations required"
         },
         "u1456": {
             "Durata": "Duration"
@@ -811,14 +744,8 @@
         }
     },
     "page-6": {
-        "u11aa": {
-            "Prenotazione obbligatoria": "Reservations required"
-        },
         "u129e": {
             "Stanze di Raffaello": "Raphael Rooms"
-        },
-        "u1351": {
-            "Roma imperdibile": "Essential Rome"
         },
         "u1094": {
             "MUSEI VATICANI": "VATICAN MUSEUMS"
@@ -911,14 +838,8 @@
         }
     },
     "page-8": {
-        "u17ba": {
-            "2 ore circa": "about 2 hours"
-        },
         "u187a": {
             "Palazzo Apostolico": "Apostolic Palace"
-        },
-        "u1942": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
         },
         "u1789": {
             "Durata": "Duration"
@@ -1025,9 +946,6 @@
         }
     },
     "page-20": {
-        "u345b": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
-        },
         "u3524": {
             "Insolita": "Unwonted"
         },
@@ -1095,9 +1013,6 @@
         }
     },
     "page-21": {
-        "u3714": {
-            "Prenotazione obbligatoria": "Reservations required"
-        },
         "u3806": {
             "Vatican&amp;Rome -": "Vatican&amp;Rome -"
         },
@@ -1155,9 +1070,6 @@
         }
     },
     "page-22": {
-        "u3904": {
-            "Itinerario": "Itinerary"
-        },
         "u3a29": {
             "Vatican&amp;Rome -": "Vatican&amp;Rome -"
         },
@@ -1215,14 +1127,8 @@
         }
     },
     "page-9": {
-        "u1ac6": {
-            "2 ore circa": "about 2 hours"
-        },
         "u1b98": {
             "Cattedra di San Pietro": "Cathedra of Saint Peter"
-        },
-        "u1c3b": {
-            "<a id=\"u6b6b\" title=\"Collegamento ipertestuale 5\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6b6b\" title=\"Collegamento ipertestuale 5\">RESERVE YOUR VISIT</a>"
         },
         "u1a95": {
             "Durata": "Duration"
