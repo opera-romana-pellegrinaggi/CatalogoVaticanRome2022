@@ -2544,7 +2544,8 @@
     },
     "page-23": {
         "u3b6f": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "insolita per tutte le età": "unwonted for all ages"
         },
         "u3a09": {
             "Durata": "Duration"
@@ -2554,6 +2555,39 @@
         },
         "u3ad4": {
             "Carcer Tullianum": "Carcer Tullianum"
+        },
+        "u39dd": {
+            "ROMA": "ROME"
+        },
+        "u39f3": {
+            "GIUDAICA": "JEWISH"
+        },
+        "u3a1f": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u3a91": {
+            "Itinerario": "Itinerary"
+        },
+        "u3aa7": {
+            "Arco di Tito": "Arch of Titus"
+        },
+        "u3abe": {
+            "Insolita": "Unwonted"
+        },
+        "u3aea": {
+            "Ghetto Ebraico": "Jewish Ghetto"
+        },
+        "u3b41": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u3b57": {
+            "Da €15": "From €15"
+        },
+        "u3a35": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u3a63": {
+            "Prenotazione obbligatoria": "Reservations required"
         }
     },
     "page-25": {
@@ -2564,18 +2598,107 @@
             "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
         },
         "u3f83": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "insolita per tutte le età": "unwonted for all ages"
+        },
+        "u3de8": {
+            "ROMA": "ROME"
+        },
+        "u3dfe": {
+            "REGINA AQUARUM": "REGINA AQUARUM"
+        },
+        "u3e2a": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u3e42": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u3e71": {
+            "Itinerario": "Itinerary"
+        },
+        "u3e87": {
+            "Battello sul Tevere": "Tiber Cruise"
+        },
+        "u3eb4": {
+            "Insolita": "Unwonted"
+        },
+        "u3ee0": {
+            "Fontana di Trevi": "Trevi Fountain"
+        },
+        "u3ef6": {
+            "Fontana della Barcaccia": "The Barcaccia Fountain"
+        },
+        "u3f56": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u3f6c": {
+            "Da €25": "From €25"
+        },
+        "u3f99": {
+            "Roma Regina Aquarum": "Rome Regina Aquarum"
+        },
+        "u3eca": {
+            "Fontana dei Quattro Fiumi": "The Fountain of the Four Rivers"
         }
     },
     "page-28": {
         "u4445": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma che forma e informa": "Rome that forms and informs"
         },
         "u42ab": {
             "Durata": "Duration"
         },
         "u42ed": {
             "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u427f": {
+            "LA ROMA": "ROME"
+        },
+        "u4295": {
+            "DEGLI OBELISCHI": "OF THE OBELISKS"
+        },
+        "u42c1": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u42d7": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u4304": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u4377": {
+            "Itinerario 1": "Itinerary 1"
+        },
+        "u4351": {
+            "Roma che forma e info": "Rome that forms and informs"
+        },
+        "u438f": {
+            "Obelisco Vaticano, Obelisco Piazza Navona,Obelisco Pantheon, Obelisco S. Maria Sopra Minerva": "Vatican Obelisk, Piazza Navona Obelisk, Pantheon Obelisk, Santa Maria Sopra Minerva Obelisk"
+        },
+        "u43a5": {
+            "Itinerario 2": "Itinerary 2"
+        },
+        "u43bc": {
+            "Obelisco Montecitorio, Obelisco Piazza del Popolo, Obelisco Pincio, Obelisco Piazza Trinità dei Monti": "Montecitorio Obelisk, Piazza del Popolo Obelisk, Pincio Obelisk, Piazza Trinità dei Monti Obelisk"
+        },
+        "u43d2": {
+            "Itinerario 3": "Itinerary 3"
+        },
+        "u43ff": {
+            "ITINERARIO": "ITINERARY"
+        },
+        "u4418": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u442e": {
+            "Da €15": "From €15"
+        },
+        "u445b": {
+            "La Roma degli Obelischi": "The Rome of the Obelisks"
+        },
+        "u43e9": {
+            "Obelisco Quirinale, Obelisco Dogali,Obelisco S. Maria Maggiore,Obelisco S. Giovanni in Laterano,Obelisco Villa Celimontana": "Quirinal Obelisk, Dogali Obelisk, Saint Mary Major Obelisk, Saint John Lateran Obelisk, Villa Celimontana Obelisk"
         }
     },
     "page-30": {
@@ -2583,26 +2706,155 @@
             "Durata": "Duration"
         },
         "u4920": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma che forma e informa": "Rome that forms and informs"
         },
         "u494c": {
             "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+        },
+        "u4763": {
+            "IL QUARTIERE OSTIENSE": "THE OSTIENSE NEIGHBORHOOD"
+        },
+        "u4779": {
+            "&amp; LA CENTRALE MONTEMARTINI": "&amp; CENTRALE MONTEMARTINI"
+        },
+        "u47a5": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u47df": {
+            "Roma che forma e info": "Rome that forms and informs"
+        },
+        "u4836": {
+            "Piramide Cestia": "Cestia Pyramid"
+        },
+        "u484e": {
+            "Mura Aureliane": "Aurelian Walls"
+        },
+        "u4866": {
+            "Affaccio sul cimitero Commonwealth": "The Commonwealth Cemetery"
+        },
+        "u487e": {
+            "Circuito dei Murales": "The Murals Circuit"
+        },
+        "u4896": {
+            "Gazometro": "Gazometro"
+        },
+        "u48ae": {
+            "Centrale Montemartini": "Centrale Montemartini"
+        },
+        "u48c6": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u48f2": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u4908": {
+            "Da €15": "From €15"
+        },
+        "u4936": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u4962": {
+            "Quartiere Ostiense &amp; la Centrale Montemartini": "The Ostiense Neighborhood &amp; Centrale Montemartini"
+        },
+        "u4806": {
+            "ITINERARIO": "ITINERARY"
+        },
+        "u481e": {
+            "Porta San Paolo": "Saint Paul's Gate"
         }
     },
     "page-32": {
         "u4d9c": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma che forma e informa": "Rome that forms and informs"
         },
         "u4c99": {
             "Durata": "Duration"
+        },
+        "u4c29": {
+            "PARCO DEGLI": "PARK OF THE"
+        },
+        "u4c3f": {
+            "ACQUEDOTTI": "AQUEDUCTS"
+        },
+        "u4cc6": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u4d28": {
+            "Gli acquedotti": "The aqueducts"
+        },
+        "u4d40": {
+            "Il Casale Vecchio": "The Old Cottage"
+        },
+        "u4d57": {
+            "La chiesa di San Policarpo": "The church of Saint Polycarp"
+        },
+        "u4d6f": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u4d85": {
+            "Da €15": "From €15"
+        },
+        "u4db2": {
+            "Parco degli Acquedotti": "Park of the Aqueducts"
+        },
+        "u4c77": {
+            "Roma che forma e info": "Rome that forms and informs"
+        },
+        "u4caf": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u4cf8": {
+            "ITINERARIO": "ITINERARY"
         }
     },
     "page-35": {
         "u557d": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma che forma e informa": "Rome that forms and informs"
         },
         "u5406": {
             "Durata": "Duration"
+        },
+        "u541c": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u5432": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u5448": {
+            "Mercati di Traiano": "Trajan's Markets"
+        },
+        "u546c": {
+            "Roma che forma e info": "Rome that forms and informs"
+        },
+        "u549b": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u54f1": {
+            "SULLE TRACCE": "ON THE TRAIL"
+        },
+        "u5507": {
+            "DI ROMOLO E REMO": "OF ROMULUS AND REMUS"
+        },
+        "u5520": {
+            "ITINERARIO": "ITINERARY"
+        },
+        "u554f": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u5565": {
+            "Da €15": "From €15"
+        },
+        "u5594": {
+            "In collaborazione con": "In collaboration with"
+        },
+        "u55b6": {
+            "sulle tracce di romolo e remo": "on the trail of romulus and remus"
+        },
+        "u55cc": {
+            "ROMA DEI PICCOLI": "ROME OF THE LITTLE ONES"
         }
     },
     "page-42": {
@@ -2677,7 +2929,44 @@
             "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
         },
         "u416b": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma insolita per tutte le età": "Unwonted Rome for all ages"
+        },
+        "u3fd1": {
+            "BISANZIO": "BYZANTIUM"
+        },
+        "u3fe7": {
+            "A ROMA": "IN ROME"
+        },
+        "u402a": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u4040": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u406c": {
+            "Itinerario": "Itinerary"
+        },
+        "u4082": {
+            "Santa Maria Maggiore": "Saint Mary Major"
+        },
+        "u4098": {
+            "Santa Pudenziana": "Saint Pudentiana"
+        },
+        "u40ae": {
+            "Santa Maria in Cosmedin": "Santa Maria in Cosmedin"
+        },
+        "u40c5": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u40f2": {
+            "Insolita": "Unwonted"
+        },
+        "u413e": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u4154": {
+            "Da €15": "From €15"
         }
     },
     "page-29": {
@@ -2688,7 +2977,68 @@
             "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
         },
         "u45f4": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma che forma e informa": "Rome that forms and informs"
+        },
+        "u44ff": {
+            "ISTITUZIONALE": "INSTITUTIONAL"
+        },
+        "u452b": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u4541": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u4599": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u45af": {
+            "Roma che forma e info": "Rome that forms and informs"
+        },
+        "u45c6": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u45dc": {
+            "Da €15": "From €15"
+        },
+        "u460d": {
+            "Palazzo di Giustizia": "Courthouse"
+        },
+        "u4625": {
+            "Palazzo Senatorio": "Senatorial Palace"
+        },
+        "u463d": {
+            "Curia Iulia": "Curia Iulia"
+        },
+        "u4655": {
+            "Palazzo Chigi": "Chigi Palace"
+        },
+        "u466d": {
+            "Palazzo Montecitorio": "Montecitorio Palace"
+        },
+        "u4685": {
+            "Palazzo Madama": "Madama Palace"
+        },
+        "u469d": {
+            "Palazzo del Quirinale": "Quirinal Palace"
+        },
+        "u46b4": {
+            "Musei Capitolini": "Capitoline Museums"
+        },
+        "u46db": {
+            "MUSEI CAPITOLINI": "CAPITOLINE MUSEUMS"
+        },
+        "u46f2": {
+            "In collaborazione con": "In collaboration with"
+        },
+        "u4709": {
+            "COSTRUISCI LA TUA VISITA": "CUSTOMIZE YOUR VISIT"
+        },
+        "u472b": {
+            "Roma Istituzionale": "Institutional Rome"
+        },
+        "u44e9": {
+            "ROMA": "ROME"
         }
     },
     "page-31": {
@@ -2699,7 +3049,65 @@
             "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
         },
         "u4bc3": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma che forma e informa": "Rome that forms and informs"
+        },
+        "u49cf": {
+            "OGNI TARGA": "EVERY PLAQUE"
+        },
+        "u49e5": {
+            "RACCONTA UNA STORIA": "HAS A STORY TO TELL"
+        },
+        "u4a11": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u4a27": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u4a77": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u4a8d": {
+            "Roma che forma e info": "Rome that forms and informs"
+        },
+        "u4aa5": {
+            "ITINERARIO": "ITINERARY"
+        },
+        "u4abc": {
+            "Campo Marzio": "Campo Marzio"
+        },
+        "u4ad4": {
+            "Via Crispi": "Via Crispi"
+        },
+        "u4aec": {
+            "Via Margutta": "Via Margutta"
+        },
+        "u4b04": {
+            "Via del Babuino": "Via del Babuino"
+        },
+        "u4b1c": {
+            "Via Condotti": "Via Condotti"
+        },
+        "u4b34": {
+            "Via Fattina": "Via Fattina"
+        },
+        "u4b4c": {
+            "Via del Corso": "Via del Corso"
+        },
+        "u4b65": {
+            "Piazza Nicosia": "Piazza Nicosia"
+        },
+        "u4b7d": {
+            "Studio del Canova": "Canova's Studio"
+        },
+        "u4b95": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u4bab": {
+            "Da €15": "From €15"
+        },
+        "u4bef": {
+            "Ogni targa racconta una storia": "Every plaque has a story to tell"
         }
     },
     "page-33": {
@@ -2707,7 +3115,53 @@
             "Durata": "Duration"
         },
         "u4f39": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma che forma e informa": "Rome that forms and informs"
+        },
+        "u4e47": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u4e84": {
+            "Roma che forma e info": "Rome that forms and informs"
+        },
+        "u4e9a": {
+            "VILLA": "VILLA"
+        },
+        "u4eb0": {
+            "BORGHESE": "BORGHESE"
+        },
+        "u4ede": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u4ef5": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u4f0b": {
+            "Da €15": "From €15"
+        },
+        "u4f23": {
+            "Gioca, inventa, crea": "Play, invent, create"
+        },
+        "u4f4f": {
+            "Casina di Raffaello": "Little house of Raffaello"
+        },
+        "u4f65": {
+            "Museo Canonica": "Canonica Museum"
+        },
+        "u4f7b": {
+            "Museo Bilotti": "Bilotti Museum"
+        },
+        "u4fa8": {
+            "In collaborazione con": "In collaboration with"
+        },
+        "u4fcc": {
+            "Villa Borghese: gioca inventa, crea": "Villa Borghese: play, invent, create"
+        },
+        "u4e5d": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u4f91": {
+            "Museo Civico di Zoologia": "Civic Museum of Zoology"
         }
     },
     "page-34": {
@@ -2718,7 +3172,101 @@
             "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
         },
         "u535b": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma che forma e informa": "Rome that forms and informs"
+        },
+        "u5004": {
+            "SAFARI D’ARTE": "ART SAFARI"
+        },
+        "u501a": {
+            "A ROMA": "IN ROME"
+        },
+        "u5057": {
+            "Roma che forma e info": "Rome that forms and informs"
+        },
+        "u507c": {
+            "ITINERARIO": "ITINERARY"
+        },
+        "u50a9": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u50bf": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u50ec": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u5159": {
+            "Piazza Mattei": "Piazza Mattei"
+        },
+        "u5170": {
+            "Fontanella delle tartarughe": "Fountain of the Turtles"
+        },
+        "u5188": {
+            "Colle Campidoglio": "Capitolium Hill"
+        },
+        "u519f": {
+            "I due leoni e la lupa capitolina": "The two lions and the capitoline she-wolf"
+        },
+        "u51b7": {
+            "Palazzo Grazioli": "Grazioli Palace"
+        },
+        "u51ce": {
+            "La gatta sacra ad Iside": "Isis' sacred cat"
+        },
+        "u51e6": {
+            "Piazza S. Maria sopra Minerva": "Piazza Santa Maria sopra Minerva"
+        },
+        "u51fd": {
+            "L’elefantino": "The elephant"
+        },
+        "u5215": {
+            "Piazza Sant’Eustachio": "Piazza Sant'Eustachio"
+        },
+        "u522c": {
+            "Il cervo": "The deer"
+        },
+        "u525b": {
+            "Le salamandre": "The salamanders"
+        },
+        "u5273": {
+            "Via della Scrofa": "Via della Scrofa"
+        },
+        "u528a": {
+            "Bassorilievo della Scrofa": "The half-woollen sow boar"
+        },
+        "u52a2": {
+            "Via dei Pianellari": "Via dei Pianellari"
+        },
+        "u52b9": {
+            "La torre della Scimmia": "The tower of the Monkey"
+        },
+        "u52d1": {
+            "Via dell’Orso": "Via dell'Orso"
+        },
+        "u52e8": {
+            "Bassorilievo di un leone": "Bas-relief of a lion"
+        },
+        "u5317": {
+            "La fontanella dei cani": "The fountain of the dogs"
+        },
+        "u532e": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u5344": {
+            "Da €15": "From €15"
+        },
+        "u5371": {
+            "Safari d’arte a Roma": "Art safari in Rome"
+        },
+        "u5387": {
+            "ROMA DEI PICCOLI": "ROME OF THE LITTLE ONES"
+        },
+        "u5244": {
+            "S. Luigi dei Francesi": "San Luigi dei Francesi"
+        },
+        "u5300": {
+            "Via dei Coronari e Piazza San Salvatore": "Via dei Coronari and Piazza San Salvatore"
         }
     },
     "page-36": {
@@ -2734,7 +3282,47 @@
             "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
         },
         "u3d64": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
+            "Roma insolita per tutte le età": "Unwonted Rome for all ages"
+        },
+        "u3ba7": {
+            "LE BOTTEGHE STORICHE": "HISTORIC SHOPS"
+        },
+        "u3bbd": {
+            "DEL CENTRO": "IN THE CENTER"
+        },
+        "u3c00": {
+            "3 ore circa": "about 3 hours"
+        },
+        "u3c16": {
+            "Arricchisci la tua esperienza": "Enrich your experience"
+        },
+        "u3c42": {
+            "Itinerario": "Itinerary"
+        },
+        "u3c58": {
+            "Ghetto Ebraico": "Jewish Ghetto"
+        },
+        "u3c6e": {
+            "Campo dei Fiori": "Campo dei Fiori"
+        },
+        "u3c84": {
+            "Mercatino di Piazza Navona": "Street market at Piazza Navona"
+        },
+        "u3c9a": {
+            "Rione Sant’Eustachio": "Sant'Eustachio District"
+        },
+        "u3cb1": {
+            "Prenotazione obbligatoria": "Reservations required"
+        },
+        "u3cdf": {
+            "Insolita": "Unwonted"
+        },
+        "u3d37": {
+            "Quota a partire da": "Fees starting from"
+        },
+        "u3d4d": {
+            "Da €15": "From €15"
         }
     },
     "page-38": {
@@ -2760,6 +3348,23 @@
         },
         "u5bca": {
             "Vatican&amp;Rome -": "Vatican&amp;Rome -"
+        }
+    },
+    "page-27": {
+        "u421a": {
+            "Sostenibilità, Solidarietà e Spiritualitàsaranno le parole chiaveper avvicinare i giovani alla Cittàpiù famosa ma meno conosciuta del mondo": "Sustainability, Solidarity and Spirituality are the keywords to attract the younger generation to the most famous but less known City of the world"
+        },
+        "u4230": {
+            "ROMA CHE FORMA E INFORMA": "ROME THAT FORMS AND INFORMS"
+        },
+        "u41ee": {
+            "forma e informa": "forms and informs"
+        },
+        "u4204": {
+            "che": "that"
+        },
+        "u41d8": {
+            "ROMA": "ROME"
         }
     }
 }
