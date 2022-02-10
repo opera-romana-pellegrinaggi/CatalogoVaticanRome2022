@@ -2755,9 +2755,6 @@
         }
     },
     "page-3": {
-        "u72f": {
-            "<a id=\"u6abd\" title=\"Collegamento ipertestuale 3\">SCOPRI DI PI&Ugrave;</a>": "<a id=\"u6abd\" title=\"Collegamento ipertestuale 3\">DISCOVER MORE</a>"
-        },
         "u6fe": {
             "OPERA ROMANA PELLEGRINAGGI": "OPERA ROMANA PELLEGRINAGGI"
         },
@@ -2771,6 +2768,9 @@
         },
         "u6e8": {
             "OMNIAVatican & Rome": "OMNIA Vatican & Rome"
+        },
+        "u72f": {
+            "<a id=\"u6abd\" title=\"Collegamento ipertestuale 3\">SCOPRI DI PIÙ</a>": "<a id=\"u6abd\" title=\"Collegamento ipertestuale 3\">FIND OUT MORE</a>"
         }
     },
     "page-46": {
@@ -2819,7 +2819,7 @@
             "—  Johann Wolfgang von Goethe": "—  Johann Wolfgang von Goethe"
         },
         "u1014": {
-            "<a id=\"u6ac1\" title=\"Collegamento ipertestuale 2\">SCOPRI DI PI&Ugrave;</a>": "<a id=\"u6ac1\" title=\"Collegamento ipertestuale 2\">FIND OUT MORE</a>"
+            "<a id=\"u6ac1\" title=\"Collegamento ipertestuale 2\">SCOPRI DI PIÙ</a>": "<a id=\"u6ac1\" title=\"Collegamento ipertestuale 3\">FIND OUT MORE</a>"
         }
     }
 }
