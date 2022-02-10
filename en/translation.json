@@ -10,8 +10,8 @@
             "2": "2"
         },
         "u1eee": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma imperdibile": "Essential Rome"
+            "Roma imperdibile": "Essential Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u1c9b": {
             "La Basilica di San Giovanni in Laterano, definita “Mater et Caput” di tutte le chiese di Roma e del mondo, è la Cattedrale di Roma e sede episcopale del Santo Padre.": "The Basilica of Saint John Lateran, defined “Mater et Caput” of all the churches in Rome and in the world, is the Cathedral of Rome and the episcopal seat of the Holy Father.",
@@ -100,8 +100,8 @@
             "Carcer Tullianum": "Carcer Tullianum"
         },
         "u2181": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma imperdibile": "Essential Rome"
+            "Roma imperdibile": "Essential Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u1f97": {
             "La Basilica di Santa Maria in via Lata è la custodia di un antico e importante luogo di memoria della storia millenaria del Cristianesimo nella Città Eterna.": "The Basilica Santa Maria in via Lata preserves the memory of an important piece of the two thousand year history of Christianity in the Eternal City.",
@@ -158,7 +158,7 @@
         "u5f0": {
             "Vatican": "Vatican",
             "Rome": "Rome",
-            "&amp;": "&amp;"
+            "&": "&"
         },
         "u5a7": {
             "COPERTINA": "COVER PAGE"
@@ -172,8 +172,8 @@
             "2": "2"
         },
         "u23df": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma imperdibile": "Essential Rome"
+            "Roma imperdibile": "Essential Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u21eb": {
             "CARCER": "CARCER"
@@ -233,17 +233,14 @@
         },
         "u25fc": {
             "Archeologico del Colosseo": "Archaeological Park Combo",
-            "Combinato Carcer Tullianum &amp; parco": "Carcer Tullianum &amp; Colosseum"
+            "Combinato Carcer Tullianum & parco": "Carcer Tullianum & Archaeological"
         },
         "u252c": {
             "Durata": "Duration"
         },
         "u25cc": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma imperdibile": "Essential Rome"
-        },
-        "u245c": {
-            "&amp; PARCO ARCHEOLOGICO DEL COLOSSEO": "&amp; COLOSSEUM ARCHAEOLOGICAL PARK COMBO"
+            "Roma imperdibile": "Essential Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u2446": {
             "COMBINATO CARCER TULLIANUM": "CARCER TULLIANUM"
@@ -278,6 +275,9 @@
         },
         "u25b5": {
             "Da €24": "From €24"
+        },
+        "u245c": {
+            "& PARCO ARCHEOLOGICO DEL COLOSSEO": "& COLOSSEUM ARCHAEOLOGICAL PARK COMBO"
         }
     },
     "page-14": {
@@ -288,8 +288,8 @@
             "Carcer Tullianum": "Carcer Tullianum"
         },
         "u27f1": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma imperdibile": "Essential Rome"
+            "Roma imperdibile": "Essential Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u2635": {
             "LE CATACOMBE": "CATACOMBS"
@@ -308,9 +308,6 @@
         },
         "u26ed": {
             "Arricchisci la tua esperienza": "Enrich your experience"
-        },
-        "u271b": {
-            "Travel Card Vatican&amp;Rome": "Vatican&amp;Rome Travel Card"
         },
         "u2731": {
             "Complesso Lateranense": "Lateran complex"
@@ -372,6 +369,9 @@
         },
         "u2807": {
             "Catacombe disponibili in visita": "Catacombs available to visit"
+        },
+        "u271b": {
+            "Travel Card Vatican&Rome": "Vatican&Rome Travel Card"
         }
     },
     "page-18": {
@@ -381,12 +381,6 @@
         "u30fb": {
             "Quota intera": "Full fee"
         },
-        "u2f5b": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
-        },
-        "u305b": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
-        },
         "u2eb9": {
             "OMNIA Card": "OMNIA Card"
         },
@@ -394,8 +388,8 @@
             "OMNIA Card": "OMNIA Card"
         },
         "u30c1": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma in tasca": "Rome in your pocket"
+            "Roma in tasca": "Rome in your pocket",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u2edc": {
             "Quota ridotta": "Reduced fee"
@@ -462,11 +456,17 @@
         "u2f9d": {
             "Un ingresso a scelta tra le Catacombe di Roma": "Entrance of your choice to one of the Catacombs of Rome"
         },
-        "u2fb4": {
-            "Rendi il tuo soggiorno a Roma un’esperienza indimenticabile con la Omnia Card 72 ore, che oltre a permetterti di fruire di un’ampia scelta di servizi Vatican&amp;Rome, mette a tua disposizione la Roma Pass, una card del Comune di Roma che ti consente di accedere a oltre 40 siti archeologici e musei della città di Roma e di utilizzare il sistema di trasporto pubblico (metro e linee di superficie).": "Your stay in Rome can become an unforgettable experience using the Omnia Card 72 hours. In addition to offering a wide choice of Vatican&amp;Rome services, you also get a “Rome Pass”, the card of the city of Rome that gives access to over 40 archaeological sites and museums within the city as well as to public transportation (both subway and buses)."
-        },
         "u3159": {
             "<a id=\"u6a96\" title=\"Collegamento ipertestuale 12\">OTTIENI LA TUA OMNIACARD 72H</a>": "<a id=\"u6a96\" title=\"Collegamento ipertestuale 12\">GET YOUR OMNIACARD 72H</a>"
+        },
+        "u305b": {
+            "Open Bus Vatican&Rome": "Vatican&Rome Open Bus"
+        },
+        "u2f5b": {
+            "Open Bus Vatican&Rome": "Vatican&Rome Open Bus"
+        },
+        "u2fb4": {
+            "Rendi il tuo soggiorno a Roma un’esperienza indimenticabile con la Omnia Card 72 ore, che oltre a permetterti di fruire di un’ampia scelta di servizi Vatican&Rome, mette a tua disposizione la Roma Pass, una card del Comune di Roma che ti consente di accedere a oltre 40 siti archeologici e musei della città di Roma e di utilizzare il sistema di trasporto pubblico (metro e linee di superficie).": "Your stay in Rome can become an unforgettable experience using the Omnia Card 72 hours. In addition to offering a wide choice of Vatican&Rome services, you also get a “Rome Pass”, the card of the city of Rome that gives access to over 40 archaeological sites and museums within the city as well as to public transportation (both subway and buses)."
         }
     },
     "page-15": {
@@ -474,8 +474,8 @@
             "1": "1"
         },
         "u2ad3": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma imperdibile": "Essential Rome"
+            "Roma imperdibile": "Essential Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u2966": {
             "PALAZZO LATERANENSE": "LATERAN PALACE"
@@ -495,12 +495,9 @@
         "u2ba4": {
             "2": "2"
         },
-        "u2bba": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
-        },
         "u2c09": {
-            "Vatican&amp;Rome": "Vatican&amp;Rome",
-            "Iniziativa": "Initiative"
+            "Iniziativa": "Initiative",
+            "Vatican&Rome": "Vatican&Rome"
         },
         "u297c": {
             "CASA DEL VESCOVO DI ROMA": "HOME OF THE BISHOP OF ROME"
@@ -552,18 +549,18 @@
         },
         "u2992": {
             "Il Palazzo Lateranense, sede papale e residenza ufficiale dei pontefici per molti secoli, è un luogo molto suggestivo grazie al suo fascino artistico, storico, culturale e religioso. Attraverso volte affrescate e magnifici soffitti ci si addentrerà in ciascuna sala per poter ammirare arazzi di pregevole fattura, quadri dei grandi maestri dell’epoca e pregiati mobili antichi fino ad arrivare all’appartamento privato del Vescovo di Roma. La proposta è pensata come nuovo strumento per vivere e conoscere la storia della Chiesa ed allo stesso tempo della città di Roma. Sarà per tutti un’opportunità per apprezzare da un nuovo punto di vista la spiritualità, l’arte, la cultura e la storia che il Palazzo Lateranense porta con sé.": "The Lateran Palace was the official residence of the popes for many centuries. Considering its history, it has a lot to offer from an artistic, cultural and religious point of view. Here each room you visit has frescoed vaults, magnificent ceilings, fine tapestries, and paintings by great masters. You can also find fine antique furniture, for example in the private Papal apartment. This visit is an opportunity to experience and learn about both the history of the Church and that of the city of Rome. Quite a bit to appreciate from the Lateran Palace!"
+        },
+        "u2bba": {
+            "Open Bus Vatican&Rome": "Vatican&Rome Open Bus"
         }
     },
     "page-16": {
-        "u2ca7": {
-            "VATICAN&amp;ROME": "VATICAN&amp;ROME"
-        },
         "u2d23": {
             "Durata": "Duration"
         },
         "u2da3": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma imperdibile": "Essential Rome"
+            "Roma imperdibile": "Essential Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u2c91": {
             "OPEN BUS": "OPEN BUS"
@@ -588,17 +585,17 @@
             "Da €12": "From €12"
         },
         "u2cbd": {
-            "La città di Roma è un museo a cielo aperto che potrai scoprire rilassandoti e ammirando un fantastico panorama a bordo dell’Open Bus Vatican&amp;Rome.": "The city of Rome is an open air museum, which you can explore in relaxation while you take in the amazing view, on board the Vatican&amp;Rome Open Bus.",
-            "Un percorso autentico nel cuore della Città dove potrai salire e scendere da una qualsiasi delle fermate disposte strategicamente nei luoghi più interessanti della città. Potrai arricchire la conoscenza della storia di Roma e delle sue innumerevoli meraviglie grazie ad un sistema di audio guida multilingue.": "An authentic journey into the heart of the City. You'll be able to hop on and off at any of the stops along the way, strategically placed in the most interesting areas of the city. A multi-language audio guide will assist in enriching your knowledge of Rome's history and of its wonders."
+            "Un percorso autentico nel cuore della Città dove potrai salire e scendere da una qualsiasi delle fermate disposte strategicamente nei luoghi più interessanti della città. Potrai arricchire la conoscenza della storia di Roma e delle sue innumerevoli meraviglie grazie ad un sistema di audio guida multilingue.": "An authentic journey into the heart of the City. You'll be able to hop on and off at any of the stops along the way, strategically placed in the most interesting areas of the city. A multi-language audio guide will assist in enriching your knowledge of Rome's history and of its wonders.",
+            "La città di Roma è un museo a cielo aperto che potrai scoprire rilassandoti e ammirando un fantastico panorama a bordo dell’Open Bus Vatican&Rome.": "The city of Rome is an open air museum, which you can explore in relaxation while you take in the amazing view, on board the Vatican&Rome Open Bus."
         },
         "u2dbd": {
             "<a id=\"u6a9a\" title=\"Collegamento ipertestuale 11\">PRENOTA LA TUA VISITA</a>": "<a id=\"u6a9a\" title=\"Collegamento ipertestuale 11\">RESERVE YOUR VISIT</a>"
+        },
+        "u2ca7": {
+            "VATICAN&ROME": "VATICAN&ROME"
         }
     },
     "page-17": {
-        "u2e01": {
-            "Omnia Vatican &amp; Romeè l’unico pass ufficialeper vedere Roma": "Omnia Vatican &amp; Rome is the only official pass to see Rome and the Vatican"
-        },
         "u2e26": {
             "ROMA": "ROME"
         },
@@ -610,6 +607,9 @@
         },
         "u2e53": {
             "Omnia è la City Card di Roma e della Città del Vaticano: musei, monumenti, trasporti, ingressi dedicati e molti altri vantaggi in un’unica card.": "Omnia is the City Card of Rome and Vatican City: with museums, monuments, transportation, priority entry and a plethora of other advantages, all in a single card."
+        },
+        "u2e01": {
+            "Omnia Vatican & Romeè l’unico pass ufficialeper vedere Roma": "Omnia Vatican&Rome is the only official pass to see Rome and the Vatican"
         }
     },
     "page-7": {
@@ -623,8 +623,8 @@
             "2": "2"
         },
         "u165d": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma imperdibile": "Essential Rome"
+            "Roma imperdibile": "Essential Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u13e1": {
             "I Giardini Vaticani occupano circa due terzi della superficie della Città del Vaticano e sono il luogo di riposo e di meditazione dei Pontefici sin dal 1279. E’ possibile ammirare le bellezze naturalistiche ed architettoniche dei Giardini Vaticani con una visita guidata oppure in un modo nuovo, inedito e sostenibile: seduti comodamente a bordo di un minibus panoramico si potrà accedere alla quiete e ai tesori botanici del “cuore verde” del Vaticano lungo un suggestivo percorso tra arte, natura e fede.": "The Vatican Gardens occupy about two thirds of the surface area of Vatican City. The Popes have come to relax and meditate here since the year 1279 AD. You can admire the natural beauty and architectural wonders of the Vatican Gardens with a guided visit. Or, you can choose to have your visit in an unprecedented and sustainable fashion: on board a panoramic minibus where the silence of the \"green heart\" of the Vatican will permeate an evocative tour along paths of art, nature, and faith."
@@ -700,9 +700,6 @@
         "u1094": {
             "MUSEI VATICANI": "VATICAN MUSEUMS"
         },
-        "u10aa": {
-            "&amp; CAPPELLA SISTINA": "&amp; SISTINE CHAPEL"
-        },
         "u10c0": {
             "I Musei Vaticani, da sempre considerati il polo museale più importante della Città del Vaticano, vi sorprenderanno con i loro tesori. Non si limitano ad accogliere le ricche collezioni di arte, archeologia ed etno-antropologia create dai Pontefici nel corso dei secoli, ma comprendono anche alcuni dei luoghi più esclusivi e significativi dei Palazzi Apostolici. Visitarli vuol dire scoprire i più alti capolavori di arte di tutti i tempi e le più preziose testimonianze del passato.": "You will be surprised by the cultural treasures that can be found in the Vatican Museums, which have always been considered one of the most important museum institutions in the world. Not only can you visit the exclusive art collections, archaeological artefacts, and items of ethnographic interest, but you can also visit some of the more significant areas of the Apostolic Palaces which contain some of the most famous artistic masterpieces of all times and some of the greatest treasures of the past."
         },
@@ -750,8 +747,8 @@
             "Cappella Sistina": "Sistine Chapel"
         },
         "u134c": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma imperdibile": "Essential Rome"
+            "Roma imperdibile": "Essential Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u1229": {
             "Museo Pio Clementino": "Pio Clementino Museum"
@@ -785,6 +782,9 @@
         },
         "u137c": {
             "Musei vaticani e Cappella Sistina": "Vatican Museums and Sistine Chapel"
+        },
+        "u10aa": {
+            "& CAPPELLA SISTINA": "& SISTINE CHAPEL"
         }
     },
     "page-8": {
@@ -801,8 +801,8 @@
             "Anfiteatro Romano": "Roman Amphitheater"
         },
         "u1927": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma imperdibile": "Essential Rome"
+            "Roma imperdibile": "Essential Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u16db": {
             "Incantevoli in qualsiasi periodo dell’anno, le Ville Pontificie di Castel Gandolfo sono un equilibrio unico tra natura ed arte. Durante questa visita si potranno apprezzare i tesori che i Giardini delle Ville Pontificie offrono. Insieme a Villa Cybo e Villa Barberini, la Residenza di Castel Gandolfo costituisce il complesso delle Ville Pontificie, le quali vantano splendidi giardini ed un parco meraviglioso.": "Enchanting at any time of the year, the Pontifical Villas of Castel Gandolfo are a unique balance between nature and art. Come appreciate the treasures that the Gardens of the Pontifical Villas offer. Together with Villa Cybo and Villa Barberini, the Castel Gandolfo Residence forms the complex of Pontifical Villas with their splendid gardens and marvelous park.",
@@ -893,15 +893,12 @@
         }
     },
     "page-20": {
-        "u33a6": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
-        },
         "u3364": {
             "Durata": "Duration"
         },
         "u3509": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma insolita per tutte le età": "Unwonted Rome for all ages"
+            "Roma insolita per tutte le età": "Unwonted Rome for all ages",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u3322": {
             "IL CUORE": "THE HEART"
@@ -954,18 +951,18 @@
         },
         "u3536": {
             "In collaborazione con": "In collaboration with"
+        },
+        "u33a6": {
+            "Open Bus Vatican&Rome": "Vatican&Rome Open Bus"
         }
     },
     "page-21": {
         "u35ef": {
             "Durata": "Duration"
         },
-        "u3631": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
-        },
         "u373b": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "insolita per tutte le età": "unwonted for all ages"
+            "insolita per tutte le età": "unwonted for all ages",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u3590": {
             "Roma è custode anche della memoria di avvenimenti del Vangelo attraverso reliquie e testimonianze disseminate in siti e basiliche. Questi luoghi possono essere visitati con un cammino a tappe, da Santa Croce in Gerusalemme fino a Santa Maria Maggiore. Passo dopo passo potrà ricordare la vicenda terrena di Gesù e l’inizio del Cristianesimo in un pellegrinaggio che potrà anticipare e preparare un viaggio in Terra Santa.": "Rome preserves the memory of Gospel events through so many relics kept in various basilicas and churches. Discover the most significant Christian relics along a path that starts at the Basilica of Holy Cross in Jerusalem and ends at the Basilica of Saint Mary Major. Relive events from the life of Jesus and of the Apostles. Get a taste of the Holy Land here in Rome, in anticipation of an actual pilgrimage to the places of the Gospel in the Holy Land."
@@ -1008,18 +1005,18 @@
         },
         "u3751": {
             "Terra Santa a Roma": "Holy Land in Rome"
+        },
+        "u3631": {
+            "Open Bus Vatican&Rome": "Vatican&Rome Open Bus"
         }
     },
     "page-22": {
         "u37e1": {
             "Durata": "Duration"
         },
-        "u3823": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
-        },
         "u395e": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma insolita per tutte le età": "Unwonted Rome for all ages"
+            "Roma insolita per tutte le età": "Unwonted Rome for all ages",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u37cb": {
             "L’itinerario pone l’attenzione su alcune icone venerate dal popolo romano. Attraverso le vie di Roma si percorrerà un cammino fatto di devozione e di fede che toccherà luoghi sacri, custodi di icone considerate miracolose dai credenti. Oggetto di devozione, portate in processione, invocate per la guarigione, le icone mariane sono ancora oggi memoria di Maria, Madre di tutti noi. A Santa Maria in via Lata andremo a visitare la Madonna Advocata, cammineremo verso Santa Francesca Romana e verso Santa Maria in Aracoeli per proseguire fino a Santa Maria Maggiore dove si incontreranno la protettrice di Roma,  Maria Salus Populi Romani.": "The focus of this itinerary is on those icons revered over the centuries by the Roman people, that are among the oldest extant icons in the world, and are often considered to have somewhat of a miraculous nature, or to tell a story that is none less than miraculous. Take a journey through faith and devotion. As objects of devotion, the icons have been carried in procession, invoked for healing, and still today are a living memory of Mary, Mother of us all, and of Jesus, son of God and son of Mary. At Santa Maria in via Lata, we will remember Saint Luke who dwelled there, and who was the first iconographer in history. At Santa Maria in Aracoeli, we will invoke the Madonna Advocata. At Santa Francesca Romana we will pay homage to the oldest known marian icon, “Our Lady of Comfort”. And last but not least, we will meet the patroness of Rome, Mary “Salus Populi Romani” in the Basilica of Saint Mary Major, whom the Popes themselves greet before and after their journeys abroad."
@@ -1062,6 +1059,9 @@
         },
         "u3947": {
             "Da €15": "From €15"
+        },
+        "u3823": {
+            "Open Bus Vatican&Rome": "Vatican&Rome Open Bus"
         }
     },
     "page-9": {
@@ -1075,8 +1075,8 @@
             "2": "2"
         },
         "u1c06": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma imperdibile": "Essential Rome"
+            "Roma imperdibile": "Essential Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u19bb": {
             "La magnifica facciata del ‘700 di Carlo Maderno e il Colonnato del Bernini danno il benvenuto alla Città Eterna con un simbolico abbraccio. Lasciati accogliere da questo abbraccio per scoprire la storia senza fine di questo luogo di fede.": "The magnificent 18th century façade by Carlo Maderno and the Colonnade by Bernini symbolically embrace pilgrims arriving in the Eternal City. The embrace of Saint Peter's Basilica welcomes you for your visit as you come and discover the endless history of faith and charitable works.",
@@ -1148,14 +1148,11 @@
     },
     "page-23": {
         "u3b6f": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "insolita per tutte le età": "unwonted for all ages"
+            "insolita per tutte le età": "unwonted for all ages",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u3a09": {
             "Durata": "Duration"
-        },
-        "u3a4b": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
         },
         "u3ad4": {
             "Carcer Tullianum": "Carcer Tullianum"
@@ -1195,18 +1192,18 @@
         },
         "u39ab": {
             "Non si può immaginare Roma senza la comunità ebraica. A Roma già nel sec. II a C., la comunità si è stabilita tra Trastevere e la riva opposta, dove nel sec. XVI è stato costituito il Ghetto, l’angolo della Città Eterna custode delle memorie più importanti della tradizione ebraica romana. Nel Portico di Ottavia ricorderemo il periodo romano, nella Piazza delle Cinque Scole il culto nelle sinagoghe create da ebrei provenienti da diversi paesi, di fronte al Tempio Maggiore la vitalità della comunità odierna. Vedremo i segni del forzato isolamento subito dalla comunità e della persecuzione nazi-fascista. Un riflessivo percorso da seguire, ricordando tappe anche drammatiche e dolorose della storia.": "There is no imagining Rome without the Jewish community. Already in the second century, the community had settled between Trastevere and the opposite bank, where the Ghetto was established in the 16th century. A corner of the Eternal City where the most important memories of the Roman Jewish tradition are preserved. In the Portico of Octavia we remember the Roman period, in Piazza delle Cinque Scole the synagogues the rituals of which were forged by Jews from different countries, and in front of the Great Temple we witness the vitality of today's community. We will see traces of the forced isolation that this community suffered under the Nazi-fascist persecution. A thought provoking journey that calls to mind dramatic and painful stages of history."
+        },
+        "u3a4b": {
+            "Open Bus Vatican&Rome": "Vatican&Rome Open Bus"
         }
     },
     "page-25": {
         "u3e14": {
             "Durata": "Length"
         },
-        "u3e9d": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
-        },
         "u3f83": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "insolita per tutte le età": "unwonted for all ages"
+            "insolita per tutte le età": "unwonted for all ages",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u3de8": {
             "ROMA": "ROME"
@@ -1247,20 +1244,20 @@
         "u3eca": {
             "Fontana dei Quattro Fiumi": "The Fountain of the Four Rivers"
         },
+        "u3e9d": {
+            "Open Bus Vatican&Rome": "Vatican&Rome Open Bus"
+        },
         "u3db2": {
-            "Percorrendo gli argini del Tevere a bordo di un battello, si esplorerà da un punto di vista diverso ed originale un territorio strettamente legato al rapporto con l’acqua. L’esperienza proseguirà a bordo dell’Open Bus Vatican&amp;Rome che permetterà di ammirare Roma da un altro punto di vista. Con il supporto di una guida, si scopriranno inoltre le fontane che hanno reso Roma unica nei secoli come quella dei Quattro Fiumi a Piazza Navona, quella di Trevi e quelle non meno belle poste negli angoli nascosti. Sarà un viaggio straordinario che permetterà di vivere in modo unico la città.": "Traveling along the banks of the Tiber aboard a boat, explore Rome from a unique viewpoint. Then on board the Vatican&amp;Rome Open Bus admire Rome with a view from above. With the support of a guide, discover fountains such as the Fountain of the Four Rivers in Piazza Navona, the Trevi Fountain and many less well known fountains hidden in various corners of the city. An extraordinary journey in which to experience the city in a unique way."
+            "Percorrendo gli argini del Tevere a bordo di un battello, si esplorerà da un punto di vista diverso ed originale un territorio strettamente legato al rapporto con l’acqua. L’esperienza proseguirà a bordo dell’Open Bus Vatican&Rome che permetterà di ammirare Roma da un altro punto di vista. Con il supporto di una guida, si scopriranno inoltre le fontane che hanno reso Roma unica nei secoli come quella dei Quattro Fiumi a Piazza Navona, quella di Trevi e quelle non meno belle poste negli angoli nascosti. Sarà un viaggio straordinario che permetterà di vivere in modo unico la città.": "Traveling along the banks of the Tiber aboard a boat, explore Rome from a unique viewpoint. Then on board the Vatican&Rome Open Bus admire Rome with a view from above. With the support of a guide, discover fountains such as the Fountain of the Four Rivers in Piazza Navona, the Trevi Fountain and many less well known fountains hidden in various corners of the city. An extraordinary journey in which to experience the city in a unique way."
         }
     },
     "page-28": {
         "u4445": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma che forma e informa": "Rome that forms and informs"
+            "Roma che forma e informa": "Rome that forms and informs",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u42ab": {
             "Durata": "Duration"
-        },
-        "u42ed": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
         },
         "u427f": {
             "LA ROMA": "ROME"
@@ -1313,6 +1310,9 @@
         "u433b": {
             "Tra i tanti primati che possiede Roma c’è quello di conservare la più alta concentrazione di obelischi al mondo. Sono infatti tanti quelli che, tra egiziani e romani, svettano fra le vie e le piazze di Roma. Se per gli Egizi erano un simbolo religioso, per i Romani divennero simbolo di potere, vittoria e supremazia.": "Among Rome's world records, we can count the highest concentration of obelisks in the world. Both Egyptian and Roman obelisks soar high in the Roman sky among the streets and squares of Rome. If they were a religious symbol for the Egyptians, for the Romans they became a symbol of power, victory and supremacy.",
             "Fu durante il Rinascimento che gli obelischi rappresentarono un elemento di espressione artistica ed architettonica ed iniziarono a costituire un simbolo cristiano di slancio verso Dio e per questo posizionati in corrispondenza delle grandi Basiliche Cristiane.": "During the Renaissance the obelisks represented an element of artistic and architectural expression, and began to constitute a Christian symbol of upsurge towards God, reason for which they were placed nearby the great Christian Basilicas."
+        },
+        "u42ed": {
+            "Open Bus Vatican&Rome": "Vatican&Rome Open Bus"
         }
     },
     "page-30": {
@@ -1320,17 +1320,11 @@
             "Durata": "Duration"
         },
         "u4920": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma che forma e informa": "Rome that forms and informs"
-        },
-        "u494c": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
+            "Roma che forma e informa": "Rome that forms and informs",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u4763": {
             "IL QUARTIERE OSTIENSE": "THE OSTIENSE NEIGHBORHOOD"
-        },
-        "u4779": {
-            "&amp; LA CENTRALE MONTEMARTINI": "&amp; CENTRALE MONTEMARTINI"
         },
         "u47a5": {
             "3 ore circa": "about 3 hours"
@@ -1368,9 +1362,6 @@
         "u4936": {
             "Arricchisci la tua esperienza": "Enrich your experience"
         },
-        "u4962": {
-            "Quartiere Ostiense &amp; la Centrale Montemartini": "The Ostiense Neighborhood &amp; Centrale Montemartini"
-        },
         "u4806": {
             "ITINERARIO": "ITINERARY"
         },
@@ -1380,12 +1371,21 @@
         "u47c9": {
             "Il quartiere Ostiense, anche se considerato una zona ‘decentrata’ e con il tempo degradata, nella storia dell’Urbe ha assunto un ruolo fondamentale sia come antico accesso alla città e collegamento con il porto di Ostia, sia come punto di riferimento per la comunità sia come fulcro e motore per attività artistiche e sociali.": "The Ostiense neighborhood, even if considered an area outside the city center that has degraded over time, did however play an important role both as an ancient access to the city in connection to the port of Ostia, and as a point of reference for artistic and social activities.",
             "L’itinerario metterà in evidenza l’importanza del primo quartiere industriale di Roma e delle varie trasformazioni divenute oggi un esempio di riqualificazione di edifici industriali trasformati in spazi culturali. Questo ad esempio è quanto avvenuto per la Centrale Montemartini, primo impianto pubblico di Roma per la produzione di energia elettrica.": "Witness the rise of the first industrial district of Rome, as well as the consequent redevelopment of industrial buildings which were transformed into cultural spaces. Such is the story of the Montemartini power plant, the first public plant in Rome for the production of electrical power."
+        },
+        "u4779": {
+            "& LA CENTRALE MONTEMARTINI": "& CENTRALE MONTEMARTINI"
+        },
+        "u494c": {
+            "Open Bus Vatican&Rome": "Vatican&Rome Open Bus"
+        },
+        "u4962": {
+            "Quartiere Ostiense & la Centrale Montemartini": "The Ostiense Neighborhood and the Montemartini Power plant"
         }
     },
     "page-32": {
         "u4d9c": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma che forma e informa": "Rome that forms and informs"
+            "Roma che forma e informa": "Rome that forms and informs",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u4c99": {
             "Durata": "Duration"
@@ -1435,8 +1435,8 @@
     },
     "page-35": {
         "u557d": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma che forma e informa": "Rome that forms and informs"
+            "Roma che forma e informa": "Rome that forms and informs",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u5406": {
             "Durata": "Duration"
@@ -1489,8 +1489,8 @@
     },
     "page-42": {
         "u6425": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma accogliente": "Hospitable Rome"
+            "Roma accogliente": "Hospitable Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u627f": {
             "BIGLIETTERIA": "BOOKING OFFICE"
@@ -1549,8 +1549,8 @@
     },
     "page-40": {
         "u5e01": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma esclusiva": "Exclusive Rome"
+            "Roma esclusiva": "Exclusive Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u5fc3": {
             "OPEN BUS": "OPEN BUS"
@@ -1580,14 +1580,11 @@
             "Quota su richiesta": "Price on request"
         },
         "u613d": {
-            "Palazzo Apostolico &amp; Ville Pontifice di Castel gandolfo": "Apostolic Palace &amp; Pontifical Villas of Castel Gandolfo",
-            "a porte chiuse": "Behind closed doors"
+            "a porte chiuse": "Behind closed doors",
+            "Palazzo Apostolico & Ville Pontifice di Castel gandolfo": "Apostolic Palace & Pontifical Villas of Castel Gandolfo"
         },
         "u5e17": {
             "PALAZZO APOSTOLICO": "APOSTOLIC PALACE"
-        },
-        "u5e2d": {
-            "&amp; VILLE PONTIFICE DI CASTEL GANDOLFO": "&amp; PONTIFICAL VILLAS OF CASTELGANDOLFO"
         },
         "u5f19": {
             "Arricchisci la tua esperienza": "Enrich your experience"
@@ -1642,6 +1639,9 @@
         },
         "u60a0": {
             "L’esperienza di visita a porte chiuse permetterà di conoscere gli antichissimi ambienti sotterranei della Basilica di S. Maria in via Lata, gioiello di arte sacra nel cuore di Roma.": "Get to know the ancient underground rooms of the Basilica of Santa Maria in via Lata, a jewel of sacred art in the heart of Rome, with an exclusive visit behind closed doors."
+        },
+        "u5e2d": {
+            "& VILLE PONTIFICE DI CASTEL GANDOLFO": "& PONTIFICAL VILLAS OF CASTELGANDOLFO"
         }
     },
     "page-44": {
@@ -1649,8 +1649,8 @@
             "a partire da": "starting from"
         },
         "u6652": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma accogliente": "Hospitable Rome"
+            "Roma accogliente": "Hospitable Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u68d8": {
             "a partire da": "starting from"
@@ -1748,9 +1748,6 @@
     "page-4": {
         "u830": {
             "Carcer Tullianum": "Carcer Tullianum"
-        },
-        "uf4e": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
         },
         "ua14": {
             "Carcer Tullianum": "Carcer Tullianum"
@@ -1911,12 +1908,6 @@
         "u846": {
             "Roma in tasca": "Rome in your pocket"
         },
-        "u85c": {
-            "Omnia Vatican&amp;Rome 24h": "Omnia Vatican&amp;Rome 24h"
-        },
-        "u872": {
-            "Omnia Vatican&amp;Rome 72h": "Omnia Vatican&amp;Rome 72h"
-        },
         "u888": {
             "Roma insolita per tutte le età": "Unwonted Rome for all ages"
         },
@@ -2019,19 +2010,28 @@
         },
         "uf64": {
             "28": "28"
+        },
+        "u872": {
+            "Omnia Vatican&Rome 72h": "Omnia Vatican&Rome 72h"
+        },
+        "u85c": {
+            "Omnia Vatican&Rome 24h": "Omnia Vatican&Rome 24h"
+        },
+        "uf4e": {
+            "Open Bus Vatican&Rome": "Vatican&Rome Open Bus"
         }
     },
     "page-2": {
         "u663": {
             "Vatican": "Vatican",
             "Rome": "Rome",
-            "&amp;": "&amp;"
+            "&": "&"
         }
     },
     "page-43": {
         "u64e4": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma accogliente": "Hospitable Rome"
+            "Roma accogliente": "Hospitable Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u64fa": {
             ".": ".",
@@ -2080,12 +2080,9 @@
         "u4014": {
             "Durata": "Duration"
         },
-        "u4056": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
-        },
         "u416b": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma insolita per tutte le età": "Unwonted Rome for all ages"
+            "Roma insolita per tutte le età": "Unwonted Rome for all ages",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u3fd1": {
             "BISANZIO": "BYZANTIUM"
@@ -2125,18 +2122,18 @@
         },
         "u3ffd": {
             "Con questo itinerario monografico andremo a scoprire alcuni degli incredibili tesori custoditi a Roma ripercorrendo la storia non solo dei mosaici presenti nelle varie Chiese ma anche quella della città stessa. Il nostro itinerario partirà dalla Basilica di Santa Maria Maggiore, dove potremo ammirare i mosaici dell’Arco Trionfale, eloquenti simboli della presenza Bizantina a Roma fino ad arrivare alla Basilica di Santa Maria in Cosmedin,  officiata ancora oggi col rito bizantino-melchita a testimonianza delle antiche origini orientali dell’area.": "Discover some of the incredible treasures that Rome preserves such as the ancient mosaics present in various churches. Starting at the Basilica of Saint Mary Major, with the cycle of marian mosaics from the fifth century, as well as those of the Triumphal Arch and the Apse, which eloquently testify to a Byzantine presence in Rome; and arriving at the Basilica of Santa Maria in Cosmedin, still officiated today with the Byzantine-Melkite rite as evidence of the ancient Oriental origins of the area."
+        },
+        "u4056": {
+            "Open Bus Vatican&Rome": "Vatican&Rome Open Bus"
         }
     },
     "page-29": {
         "u4515": {
             "Durata": "Duration"
         },
-        "u4557": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
-        },
         "u45f4": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma che forma e informa": "Rome that forms and informs"
+            "Roma che forma e informa": "Rome that forms and informs",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u44ff": {
             "ISTITUZIONALE": "INSTITUTIONAL"
@@ -2201,18 +2198,18 @@
         "u44b4": {
             "Seguendo i luoghi che hanno caratterizzato e caratterizzano gli scenari politici di Roma, si ripercorrerà la storia delle istituzioni dal periodo repubblicano fino al periodo del fascismo e al passaggio alla Repubblica Italiana con il referendum del 1946.": "Retrace the history of Rome's political institutions from the republican era up to the period of fascism and the birth of the Italian Republic in 1946.",
             "Luoghi che hanno una bellezza ed una storia secolare che merita di essere conosciuta per apprezzare e comprendere l’identità politica della città di Roma: una città unica che deve la sua straordinaria ricchezza anche a questo insieme eterogeneo di istituzioni e realtà politiche. Sarà un excursus straordinario che permetterà di vivere in un modo unico la città.": "Centuries-old historical places deserve to be known and appreciated in order to better understand the political identity of the city of Rome: a unique city that owes its intangible cultural heritage to this heterogeneous set of institutions and political realities."
+        },
+        "u4557": {
+            "Open Bus Vatican&Rome": "Vatican&Rome Open Bus"
         }
     },
     "page-31": {
         "u49fb": {
             "Durata": "Duration"
         },
-        "u4a3d": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
-        },
         "u4bc3": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma che forma e informa": "Rome that forms and informs"
+            "Roma che forma e informa": "Rome that forms and informs",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u49cf": {
             "OGNI TARGA": "EVERY PLAQUE"
@@ -2273,6 +2270,9 @@
         },
         "u4bd9": {
             "A Roma sono nati in tanti, da Roma sono passati in tanti, ed a Roma sono successi tanti eventi. Questo fa sì che vi siano innumerevoli targhe commemorative che ricordano persone o eventi specifici. E’ un  percorso di ricerca sui personaggi legati all’arte in tutte le sue forme, dalla letteratura al cinema. I grandi artisti che hanno vissuto a Roma e che la città ricorda “eternamente” attraverso le testimonianze delle targhe marmoree.": "Discover the countless commemorative plaques scattered throughout the center of town, commemorating specific people or events. In Rome many artists, writers, poets, and other significant people were born, or at least lived for some time. Great artists whom the city remembers \"eternally\" with marble plaques."
+        },
+        "u4a3d": {
+            "Open Bus Vatican&Rome": "Vatican&Rome Open Bus"
         }
     },
     "page-33": {
@@ -2280,8 +2280,8 @@
             "Durata": "Duration"
         },
         "u4f39": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma che forma e informa": "Rome that forms and informs"
+            "Roma che forma e informa": "Rome that forms and informs",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u4e47": {
             "3 ore circa": "about 3 hours"
@@ -2336,12 +2336,9 @@
         "u5093": {
             "Durata": "Duration"
         },
-        "u50d5": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
-        },
         "u535b": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma che forma e informa": "Rome that forms and informs"
+            "Roma che forma e informa": "Rome that forms and informs",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u5004": {
             "SAFARI D’ARTE": "ART SAFARI"
@@ -2439,12 +2436,15 @@
         "u5041": {
             "Attraverso un’attenta e curiosa osservazione degli indizi, i più piccoli con le loro famiglie avranno la possibilità di diventare veri cacciatori d’arte per ricreare un mini safari cogliendo le riproduzioni di animali che animano le vie del centro storico.": "Through careful and curious observation of clues, kids and their families will become true hunters of art as they recreate a mini safari by catching reproductions of animals hidden along the streets of the historic center.",
             "Un modo divertente, accattivante ed originale di esplorare la città, conoscerne la storia, i protagonisti e le opere d’arte. Sarà una sorta di gioco di ruolo in cui ogni ragazzo è “cacciatore” di storie da imparare facendole fare proprie per trasmetterle a sua volta ai suoi coetanei in contesti differenti.": "A fun, captivating and original way to explore the city, learn about its history, its protagonists and the works of art. It will be a sort of role-playing game in which each child becomes a “story hunter”, with the ability to then pass these stories onto his or her peers."
+        },
+        "u50d5": {
+            "Open Bus Vatican&Rome": "Vatican&Rome Open Bus"
         }
     },
     "page-36": {
         "u56c6": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma che forma e informa": "Rome that forms and informs"
+            "Roma che forma e informa": "Rome that forms and informs",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u5605": {
             "LA VILLA DELLE MERAVIGLIE": "VILLA OF WONDERS"
@@ -2523,12 +2523,9 @@
         "u3bea": {
             "Durata": "Duration"
         },
-        "u3c2c": {
-            "Open Bus Vatican&amp;Rome": "Vatican&amp;Rome Open Bus"
-        },
         "u3d64": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma insolita per tutte le età": "Unwonted Rome for all ages"
+            "Roma insolita per tutte le età": "Unwonted Rome for all ages",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u3ba7": {
             "LE BOTTEGHE STORICHE": "HISTORIC SHOPS"
@@ -2571,6 +2568,9 @@
         },
         "u3bd3": {
             "“Nullus agenti dies longus est” - nessun giorno è lungo per chi lavora - diceva Seneca, e Roma per millenni ha continuato a lavorare, mantenendo nelle proprie tradizioni quell’unicità che ne ha caratterizzata non solo la storia, ma anche il tessuto sociale e l’urbanistica. Molte le vie dedicate ad antichi mestieri, molti i luoghi dove riscoprire i sapori della tradizione sia culturale che gastronomica. Un percorso che condurrà alla scoperta dei vicoli del centro tra arte, storia, cristianità, tradizione e curiosità.": "“Nullus agents dies longus est” - no day is long for those who work - said Seneca, and Rome has continued to work for millennia, maintaining in its traditions that uniqueness that has characterized not only its history, but also its social and urban planning. There are many streets dedicated to ancient crafts, many places where you can rediscover the flavors of both cultural and gastronomic tradition. A journey of discovery in the alleys of the center amidst art, history, Christianity, tradition and curiosity."
+        },
+        "u3c2c": {
+            "Open Bus Vatican&Rome": "Vatican&Rome Open Bus"
         }
     },
     "page-38": {
@@ -2581,8 +2581,8 @@
             "TULLIANUM": "TULLIANUM"
         },
         "u593c": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma esclusiva": "Exclusive Rome"
+            "Roma esclusiva": "Exclusive Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u5a7f": {
             "PALAZZO LATERANENSE": "LATERAN PALACE"
@@ -2650,8 +2650,8 @@
             "MUSEI VATICANI": "VATICAN MUSEUMS"
         },
         "u5bca": {
-            "Vatican&amp;Rome -": "Vatican&amp;Rome -",
-            "Roma esclusiva": "Exclusive Rome"
+            "Roma esclusiva": "Exclusive Rome",
+            "Vatican&Rome -": "Vatican&Rome -"
         },
         "u5c23": {
             "Arricchisci la tua esperienza": "Enrich your experience"
@@ -2659,14 +2659,8 @@
         "u5c63": {
             "Quota su richiesta": "Price on request"
         },
-        "u5bf6": {
-            "&amp; CAPPELLA SISTINA": "&amp; SISTINE CHAPEL"
-        },
         "u5c7a": {
             "eventi@operaromanapellegrinaggi.org": "eventi@operaromanapellegrinaggi.org"
-        },
-        "u5ccb": {
-            "&amp; CAPPELLA SISTINA": "&amp; SISTINE CHAPEL"
         },
         "u5cf8": {
             "Arricchisci la tua esperienza": "Enrich your experience"
@@ -2683,17 +2677,23 @@
         "u5d99": {
             "Apertura in notturna con degustazione": "Nighttime opening with aperitif"
         },
-        "u5daf": {
-            "Musei Vaticani &amp; Cappella Sistina - Alba con il Clavigero": "Vatican Museums &amp; Sistine Chapel - Sunrise with the Keyholder"
-        },
-        "u5dc5": {
-            "Musei vaticani &amp; Cappella Sistina - Apertuna in notturna con degustazione": "Vatican Museums &amp; Sistine Chapel - Nighttime opening with aperitif"
-        },
         "u5c0c": {
             "Durante la visita notturna si avrà l’opportunità di immergersi nell’atmosfera unica dei Musei Vaticani, enfatizzata dalla magia della sera. Le visite sono rese ancora più suggestive dai concerti musicali serali.": "During the night visit you will have the opportunity to immerse yourself in the unique atmosphere of the Vatican Museums, emphasized by the magic of the evening. Evening music concerts create a suggestive atmosphere."
         },
         "u5ce1": {
             "Apri le porte dei Musei Vaticani insieme al clavigero, il possessore delle 2797 chiavi del Vaticano! Sono circa dieci i “custodi” che si avvicendano nell’aprire, ogni giorno, le meravigliose stanze dei Musei Vaticani al pubblico.": "Open the doors of the Vatican Museums together with the keyholder, the owner of all the 2797 keys of the Vatican! There are about ten “custodians” who take turns opening the wonderful rooms of the Vatican Museums to the public every day."
+        },
+        "u5dc5": {
+            "Musei vaticani & Cappella Sistina - Apertuna in notturna con degustazione": "Vatican Museums & Sistine Chapel - Nighttime opening with aperitif"
+        },
+        "u5daf": {
+            "Musei Vaticani & Cappella Sistina - Alba con il Clavigero": "Vatican Museums & Sistine Chapel - Sunrise with the Keyholder"
+        },
+        "u5bf6": {
+            "& CAPPELLA SISTINA": "& SISTINE CHAPEL"
+        },
+        "u5ccb": {
+            "& CAPPELLA SISTINA": "& SISTINE CHAPEL"
         }
     },
     "page-27": {
@@ -2758,19 +2758,19 @@
         "u72f": {
             "<a id=\"u6abd\" title=\"Collegamento ipertestuale 3\">SCOPRI DI PI&Ugrave;</a>": "<a id=\"u6abd\" title=\"Collegamento ipertestuale 3\">DISCOVER MORE</a>"
         },
-        "u6e8": {
-            "OMNIAVatican &amp; Rome": "OMNIA Vatican &amp; Rome"
-        },
         "u6fe": {
             "OPERA ROMANA PELLEGRINAGGI": "OPERA ROMANA PELLEGRINAGGI"
         },
         "u6d2": {
-            "OMNIA Vatican &amp; Rome nasce dall’esperienza pluridecennale dell’Opera Romana Pellegrinaggi (ORP), un’attività del Vicariato di Roma nata nel 1933 per accompagnare pellegrini italiani e stranieri lungo gli itinerari dello Spirito in Italia e nel mondo, offrendo un’adeguata assistenza spirituale e tecnico-organizzativa.": "OMNIA Vatican &amp; Rome was born from the decades-long experience of Opera Romana Pellegrinaggi (ORP), an activity of the Diocese of Rome which was founded in 1933 to accompany Italian and foreign pilgrims along the journeys of the Spirit in Italy and around the world, offering adequate spiritual and technical-organizational assistance.",
-            "L’ORP, attraverso i pellegrinaggi, da oltre 85 anni svolge un servizio pastorale prezioso, accompagnando centinaia di migliaia di fedeli ai santuari di Lourdes e di Fatima, in Terra Santa, in Turchia, a Santiago di Compostela e verso tanti altri luoghi e paesi in Europa e nel mondo.": "ORP has been carrying out a precious pastoral service for over 85 years, accompanying hundreds of thousands of faithful to the shrines of Lourdes and Fatima, to the Holy Land, to Turkey, to Santiago de Compostela and to many other places and countries in Europe and in the world."
+            "L’ORP, attraverso i pellegrinaggi, da oltre 85 anni svolge un servizio pastorale prezioso, accompagnando centinaia di migliaia di fedeli ai santuari di Lourdes e di Fatima, in Terra Santa, in Turchia, a Santiago di Compostela e verso tanti altri luoghi e paesi in Europa e nel mondo.": "ORP has been carrying out a precious pastoral service for over 85 years, accompanying hundreds of thousands of faithful to the shrines of Lourdes and Fatima, to the Holy Land, to Turkey, to Santiago de Compostela and to many other places and countries in Europe and in the world.",
+            "OMNIA Vatican & Rome nasce dall’esperienza pluridecennale dell’Opera Romana Pellegrinaggi (ORP), un’attività del Vicariato di Roma nata nel 1933 per accompagnare pellegrini italiani e stranieri lungo gli itinerari dello Spirito in Italia e nel mondo, offrendo un’adeguata assistenza spirituale e tecnico-organizzativa.": "OMNIA Vatican&Rome was born from the decades-long experience of Opera Romana Pellegrinaggi (ORP), an activity of the Diocese of Rome which was founded in 1933 to accompany Italian and foreign pilgrims along the journeys of the Spirit in Italy and around the world, offering adequate spiritual and technical-organizational assistance."
         },
         "u714": {
             "Nel 2007 ORP ha creato Roma Cristiana, una struttura specializzata dedicata all’accoglienza nella Città Eterna di visitatori di ogni nazione, lingua e credo religioso, fornendo servizi di visita ai principali luoghi di storia, arte e spiritualità della città di Roma.": "In 2007 ORP created Roma Cristiana, a specialized structure dedicated to welcoming visitors from all nations, languages and religious beliefs to the Eternal City, providing tour services to the main places of history, art and spirituality in the city of Rome.",
-            "In questo contesto è nato, in collaborazione con Roma Capitale e Zètema Progetto Cultura, il progetto OMNIA Vatican &amp; Rome, una card integrata di servizi che permette di visitare i siti più belli della città: Musei Vaticani, Cappella Sistina, Basilica di San Pietro, Colosseo, Foro Romano e Palatino, Basilica di San Giovanni in Laterano e Chiostro, dando inoltre accesso ai servizi di trasporto dell’Open Bus Vatican &amp; Rome e del trasporto pubblico urbano.": "In this context, the OMNIA Vatican &amp; Rome project was born in collaboration with Roma Capitale and the Zètema Cultural Project. OMNIA is an card with integrated services that allow you to visit the most beautiful sites of the city: Vatican Museums, Sistine Chapel, Saint Peter's Basilica, Colosseum, Roman Forum and Palatine Hill, Basilica of Saint John Lateran and Cloister, also giving access to transportation on the Vatican &amp; Rome Open Bus and on public transportation in the city."
+            "In questo contesto è nato, in collaborazione con Roma Capitale e Zètema Progetto Cultura, il progetto OMNIA Vatican & Rome, una card integrata di servizi che permette di visitare i siti più belli della città: Musei Vaticani, Cappella Sistina, Basilica di San Pietro, Colosseo, Foro Romano e Palatino, Basilica di San Giovanni in Laterano e Chiostro, dando inoltre accesso ai servizi di trasporto dell’Open Bus Vatican & Rome e del trasporto pubblico urbano.": "In this context, the OMNIA Vatican & Rome project was born in collaboration with Roma Capitale and the Zètema Cultural Project. OMNIA is an card with integrated services that allow you to visit the most beautiful sites of the city: Vatican Museums, Sistine Chapel, Saint Peter's Basilica, Colosseum, Roman Forum and Palatine Hill, Basilica of Saint John Lateran and Cloister, also giving access to transportation on the Vatican & Rome Open Bus and on public transportation in the city."
+        },
+        "u6e8": {
+            "OMNIAVatican & Rome": "OMNIA Vatican & Rome"
         }
     },
     "page-46": {
